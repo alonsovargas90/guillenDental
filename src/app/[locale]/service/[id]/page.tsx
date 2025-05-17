@@ -38,6 +38,7 @@ const ServicePage = () => {
     console.log('content', content.specialist);
     specialistData = team.find((member) => member.name === content.specialist);
   } catch (err) {
+    console.log(err);
     return (
       <Box py={8} bgcolor={theme.palette.brandGray.light}>
         <Container maxWidth="md">

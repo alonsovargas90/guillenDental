@@ -26,7 +26,7 @@ export default function Footer() {
             <Container maxWidth="lg">
                 <Stack spacing={4} flexDirection={isDesktop ? 'row' : 'column'} justifyContent='space-between'>
                     {/* Column 1: Logo + Description */}
-                    <Grid item xs={12} md={4}>
+                    <Grid size={{ xs: 12, md: 4 }}>
                         <Stack spacing={2} justifyContent='center' alignItems='center'>
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 Guillen Dental
@@ -42,7 +42,7 @@ export default function Footer() {
                     </Grid>
 
                     {/* Column 2: Location */}
-                    <Grid item xs={12} md={4}>
+                    <Grid size={{ xs: 12, md: 4 }}>
                         <Stack spacing={1} justifyContent='center' alignItems='center'>
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 {t('locationTitle')}
@@ -57,7 +57,7 @@ export default function Footer() {
                     </Grid>
 
                     {/* Column 3: Social + Logos */}
-                    <Grid item xs={12} md={4}>
+                    <Grid size={{ xs: 12, md: 4 }}>
                         <Stack spacing={2} justifyContent='center' alignItems='center'>
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 {t('socialTitle')}
@@ -107,7 +107,7 @@ export default function Footer() {
                                         borderRadius: '100%'
                                     }}
                                 />
-                                 <Image
+                                <Image
                                     src="/2025-Invisalign-diamond-logo-213x300.png"
                                     alt="Essential Costa Rica"
                                     width={isMobile ? 80 : 100}

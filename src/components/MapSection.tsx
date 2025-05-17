@@ -1,11 +1,11 @@
 'use client';
 
-import { Box, Typography, useTheme } from '@mui/material';
+import { Box, useTheme } from '@mui/material';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
-// Default icon fix for SSR issues
+// Fix for default icon paths in SSR environments
 delete (L.Icon.Default.prototype as any)._getIconUrl;
 L.Icon.Default.mergeOptions({
   iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.3/dist/images/marker-icon-2x.png',
@@ -16,7 +16,7 @@ L.Icon.Default.mergeOptions({
 export default function MapSection() {
   const theme = useTheme();
 
-  // Example: Coordinates of San José, Costa Rica (replace with your actual location)
+  // Coordinates for San José, Costa Rica
   const position: [number, number] = [9.9281, -84.0907];
 
   return (
@@ -33,12 +33,10 @@ export default function MapSection() {
     >
       <MapContainer
         center={position}
-        zoom={15}
-        scrollWheelZoom={false}
+        zoom={13}
         style={{ height: '100%', width: '100%' }}
       >
         <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <Marker position={position}>

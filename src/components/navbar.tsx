@@ -6,13 +6,13 @@ import Image from 'next/image'
 
 import {
   AppBar, Toolbar, Box, Button, Menu, MenuItem, Fade,
-  IconButton, Drawer, List, ListItem, ListItemText, Divider
-} from '@mui/material'
-import { useRouter } from 'next/router'
-import MenuIcon from '@mui/icons-material/Menu'
-import CloseIcon from '@mui/icons-material/Close'
-import { useTheme } from '@mui/material/styles'
-import { useState } from 'react'
+  IconButton, Drawer, List, ListItemText, Divider,
+  ListItemButton
+} from '@mui/material';
+import MenuIcon from '@mui/icons-material/Menu';
+import CloseIcon from '@mui/icons-material/Close';
+import { useTheme } from '@mui/material/styles';
+import { useState } from 'react';
 import { useIsDesktop } from '@/hooks/useIsDesktop' // adjust path as needed
 
 interface NavbarProps {
@@ -192,15 +192,15 @@ export default function Navbar({ locale }: NavbarProps) {
               <Divider />
               <List>
                 {menuItems.map((item) => (
-                  <ListItem button key={item.href} component={Link} href={item.href}>
+                  <ListItemButton key={item.href} component={Link} href={item.href}>
                     <ListItemText primary={item.label} />
-                  </ListItem>
+                  </ListItemButton >
                 ))}
                 <Divider sx={{ my: 1 }} />
                 {services.map((service, index) => (
-                  <ListItem button key={index} component={Link} href={service.link}>
+                  <ListItemButton key={index} component={Link} href={service.link}>
                     <ListItemText primary={service.service} />
-                  </ListItem>
+                  </ListItemButton >
                 ))}
               </List>
             </Drawer>

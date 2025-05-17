@@ -1,6 +1,6 @@
 import { ProfessionalInChargeProps } from "@/types/types"
 import { Facebook, Instagram, LinkedIn } from "@mui/icons-material"
-import { Stack, Box, Avatar, Typography, IconButton, useTheme, useMediaQuery } from "@mui/material"
+import { Stack, Box, Avatar, Typography, IconButton, useTheme } from "@mui/material"
 import { TiktokLogo } from "phosphor-react"
 
 export default function ProfessionalInCharge({
@@ -12,8 +12,7 @@ export default function ProfessionalInCharge({
   invert = false,
   socialLinks
 }: ProfessionalInChargeProps) {
-  const theme = useTheme()
-  const isMobile = useMediaQuery(theme.breakpoints.down('md'))
+  const theme = useTheme();
 
   return (
     <Box py={{ xs: 4, md: 6 }} px={{ xs: 2, md: 4 }}>

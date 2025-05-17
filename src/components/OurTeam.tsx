@@ -1,10 +1,9 @@
 'use client';
 
-import { Box, IconButton, Stack, Typography, useTheme } from '@mui/material';
+import { Box, Stack, Typography, useTheme } from '@mui/material';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { TeamMember } from '@/types/types';
-import { Facebook, Instagram, LinkedIn } from '@mui/icons-material';
 import { useIsDesktop } from '@/hooks/useIsDesktop';
 
 
