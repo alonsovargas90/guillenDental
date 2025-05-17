@@ -1,0 +1,10 @@
+@font-face {
+     font-family: 'Mazzard Soft';
+     src: url('/fonts/mazzard-soft/MazzardSoftH-ExtraBold.otf') format('otf'),
+          url('/fonts/mazzard-soft/MazzardSoftH-ExtraBold.woff2') format('woff2'),
+          url('/fonts/mazzard-soft/MazzardSoftH-ExtraBold.woff') format('woff');
+     font-weight: 800;
+     font-style: normal;
+     font-display: swap;
+   }
+   

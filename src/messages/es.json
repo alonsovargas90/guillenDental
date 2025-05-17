@@ -1,0 +1,328 @@
+{
+  "home": "Inicio",
+  "about": "Sobre Nosotros",
+  "services": "Servicios",
+  "contact": "Contacto",
+  "nav": {
+    "team": "Nuestro Equipo",
+    "services": "Nuestros Servicios",
+    "beforeAfter": "Antes y Después",
+    "about": "Sobre Nosotros"
+  },
+  "hero": {
+    "greenTitle": "Guillen Dental Care",
+    "blackTitle": "Los mejores servicios dentales de Costa Rica"
+  },
+  "heroContact": {
+    "emailTitle": "Envíanos un Correo",
+    "whatsappTitle": "WhatsApp",
+    "whatsappSchedule": "Lunes-Viernes: 10:00–6:00\n \n   Sabado: 8:00–4:00",
+    "addressTitle": "Dirección",
+    "addressText": "Centro Cultural ",
+    "directionsTitle": "Cómo Llegar",
+    "googleMaps": "Vía Google Maps",
+    "waze": "Vía Waze"
+  },
+  "TopPriority": {
+    "title": "Tu salud Dental es nuestra",
+    "title2": "Prioridad",
+    "description": "Nuestra misión es  ofrecer atención integral, humana y de alta calidad en salud bucodental. "
+  },
+  "OurServices": {
+    "title": "Nuestros especialistas en servicios dentales te pueden ayudar",
+    "cta": "Book an Appointment",
+    "list": [
+      {
+        "service": "Ortodoncia",
+        "date": "Ortodoncia Tradicional o con Invisalign",
+        "img": "/services/orthodoncy.svg",
+        "link": "/es/service/orthodontics"
+      },
+      {
+        "service": "Pedriatia dental",
+        "date": "Care for the little ones.",
+        "img": "/services/periatric_dentristry.png",
+        "link": "/es/service/periatric_dentristry"
+      },
+      {
+        "service": "Cosmetica Dental",
+        "date": "Improve the appearance of your smile.",
+        "img": "/services/Cosmetic Dentistry.png",
+        "link": "/es/service/cosmetic-dentistry"
+      },
+      {
+        "service": "Cirugia Dental",
+        "date": "Safe and advanced surgical procedures.",
+        "img": "/services/dental-surgery.svg",
+        "link": "/es/service/dental-surgery"
+      },
+      {
+        "service": "Periodoncia",
+        "date": "Gum treatments for better oral health.",
+        "img": "/services/periodoncy.png",
+        "link": "/es/service/periodontics"
+      },
+      {
+        "service": "Endodoncia*",
+        "date": "ner treatments for better oral health.",
+        "img": "/services/periodoncy.png",
+        "link": "/es/service/periodontics"
+      },
+      {
+        "service": "Implantes Dentales",
+        "date": "Get your natural smile back.",
+        "img": "/services/Dental Implants.svg",
+        "link": "/es/service/dental-implants"
+      },
+      {
+        "service": "Biopsias Orales",
+        "date": "Diagnostic precision with minimal intervention.",
+        "img": "/services/biopsias.png",
+        "link": "/es/service/oral-biopsies"
+      }
+    ]
+  },
+  "ServicePages": {
+    "orthodontics": {
+      "title": "Ortodoncia",
+      "subtitle": "LoremUpsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu pulvinar, pretium mauris facilisis, dignissim ipsum.",
+      "heroImage": "/services/orthodoncy_hero.jfif",
+      "backgroundPosition": "0% 20%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/orthodoncy.svg"
+    },
+    "periatric_dentristry": {
+      "title": "Pediatric Dentistry",
+      "subtitle": "LoremUpsum",
+      "description": "Tratamientos para ninos y pequenos",
+      "heroImage": "/services/periatric_dentristry-hero.jpeg",
+      "backgroundPosition": "100% 40%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. María Poveda",
+      "image": "/services/periatric_dentristry.png"
+    },
+    "cosmetic-dentistry": {
+      "title": "Odontología Cosmética",
+      "subtitle": "LoremUpsum",
+      "description": "Mejora la estética de tu sonrisa con blanqueamiento, carillas y más.",
+      "heroImage": "/services/cosmetic_dentistry_hero.webp",
+      "backgroundPosition": "0% 20%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/Cosmetic Dentistry.png"
+    },
+    "dental-surgery": {
+      "title": "Cirugía Dental",
+      "subtitle": "LoremUpsum",
+      "description": "Procedimientos quirúrgicos avanzados para restaurar la salud bucal.",
+      "heroImage": "/services/dental-surgery_hero.png",
+      "backgroundPosition": "100% 20%",
+      "backgroundSize": "contain",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/dental-surgery.svg"
+    },
+    "periodontics": {
+      "title": "Periodoncia",
+      "subtitle": "LoremUpsum",
+      "description": "Cuidado integral para enfermedades de las encías e higiene bucal.",
+      "heroImage": "/services/cosmetic_dentristry_hero.png",
+      "backgroundPosition": "100% 20%",
+      "backgroundSize": "contain",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/periodoncy.png"
+    },
+    "dental-implants": {
+      "title": "Implantes Dentales",
+      "subtitle": "LoremUpsum",
+      "description": "Recupera tu sonrisa natural y funcionalidad dental.",
+      "heroImage": "/services/cosmetic_dentristry_hero.png",
+      "backgroundPosition": "100% 20%",
+      "backgroundSize": "contain",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/Dental Implants.svg"
+    },
+    "oral-biopsies": {
+      "title": "Biopsias Orales",
+      "subtitle": "LoremUpsum",
+      "description": "Diagnóstico preciso con intervención mínima para una detección temprana.",
+      "heroImage": "/services/cosmetic_dentristry_hero.png",
+      "backgroundPosition": "100% 20%",
+      "backgroundSize": "contain",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/biopsias.png"
+    }
+  },
+  "OurTeam": {
+    "title": "Nuestro Equipo",
+    "description": "Discover the passionate professionals behind your smile transformation.",
+    "members": [
+      {
+        "name": "Dra. Andrea Guillen Saborio",
+        "img": "andrea",
+        "specialty": "Director of Dental Care and lead Odontologist",
+        "description": "La Dra. Andrea Guillén es especialista en Ortodoncia y Ortopedia de los Maxilares, con más de 9 años de experiencia clínica transformando sonrisas con un enfoque integral, empático y altamente profesional.",
+        "longDescription": [
+          "La Dra. Andrea Guillén es especialista en Ortodoncia y Ortopedia de los Maxilares, con más de 9 años de experiencia clínica transformando sonrisas con un enfoque integral, empático y altamente profesional.",
+          "Graduada como Doctora en Cirugía Dental y Licenciada en Odontología por la Universidad de Costa Rica, complementó su formación con una especialidad en Ortodoncia en la Universidad Latinoamericana de Ciencia y Tecnología (ULACIT). Cuenta con un énfasis especial en la atención de personas con discapacidad o condiciones sistémicas comprometidas, brindando tratamientos seguros, personalizados y adaptados a cada paciente.",
+          "Es además experta en tratamientos con alineadores Invisalign®, con amplia experiencia como consultora para ortodoncistas en Estados Unidos y Canadá, apoyando a colegas en el diseño y planificación de casos complejos con esta tecnología.",
+          "Como directora y fundadora de Guillén Dental Care, lidera un equipo de especialistas comprometidos con brindar atención de excelencia, en un ambiente familiar, moderno y humano. Su sueño ha sido siempre crear un espacio donde los pacientes se sientan cuidados, escuchados y tratados con los más altos estándares de calidad, utilizando tecnología avanzada y una visión clínica actualizada."
+        ],
+        "instagram": "https://instagram.com/draguillen",
+        "linkedin": "https://linkedin.com/in/draguillen",
+        "tiktok": "https://instagram.com/draguillen"
+      },
+      {
+        "name": "Dr. Óscar Reiche Fischel",
+        "img": "oscar_reiche",
+        "specialty": "Cirujano Oral y Maxilofacial",
+        "description": "En Guillén Dental Care contamos con el respaldo del Dr. Óscar Reiche Fischel, reconocido cirujano oral y maxilofacial con una destacada trayectoria en el tratamiento de patologías complejas de la cavidad oral, el sistema óseo maxilofacial y los tejidos blandos asociados.",
+        "longDescription": [
+          "En Guillén Dental Care contamos con el respaldo del Dr. Óscar Reiche Fischel, reconocido cirujano oral y maxilofacial con una destacada trayectoria en el tratamiento de patologías complejas de la cavidad oral, el sistema óseo maxilofacial y los tejidos blandos asociados.",
+          "Formación Académica:",
+          "• Doctor en Cirugía Dental, Universidad de Costa Rica (1984–1989)",
+          "• Especialidad en Implantología Oral, Universidad de Miami / Hospital Jackson Memorial, EE. UU. (1990–1991)",
+          "• Residencia en Cirugía Oral y Maxilofacial, Universidad de Texas / Centro Médico en Houston, EE. UU. (1991–1995)",
+          "• Subespecialidad en Cirugía Ortognática y Reconstructiva Maxilofacial, Centro Médico Baylor (ahora Texas A&M University), Dallas, EE. UU. (1995–1996)",
+          "Experiencia Profesional:",
+          "• Co-director, Servicio de Cirugía Oral y Maxilofacial, Hospital Rafael Ángel Calderón Guardia (1996–2005)",
+          "• Profesor titular, Postgrado en Cirugía Oral y Maxilofacial, Universidad de Costa Rica (2001–2006)",
+          "• Profesor titular de Ortodoncia, ULACIT (2001–2016)",
+          "• Presidente fundador, Academia Costarricense de Cirugía Oral y Maxilofacial (ACCOM) (2003–2013)",
+          "• Representante nacional, International Association of Oral and Maxillofacial Surgeons (IAOMS) (2001–2015)",
+          "Procedimientos Especializados:",
+          "• Cirugía de cordales retenidas o impactadas",
+          "• Colocación de implantes dentales",
+          "• Cirugía ortognática y de armonización facial",
+          "• Biopsias y extirpación de lesiones orales",
+          "• Regularización ósea y reconstrucción de maxilares",
+          "• Cirugías de tejidos blandos (frenillos, quistes, entre otros)",
+          "Su formación académica rigurosa, sumada a su precisión quirúrgica y trato humano, lo posicionan como un referente en el área.",
+          "En cada caso, el Dr. Reiche prioriza la funcionalidad, la estética y la recuperación segura del paciente.",
+          "Gracias a su colaboración, en Guillén Dental Care garantizamos un abordaje integral, ético y altamente profesional para los tratamientos quirúrgicos más exigentes."
+        ],
+        "instagram": "",
+        "linkedin": "",
+        "tiktok": ""
+      },
+      {
+        "name": "Dra. María Poveda",
+        "img": "María_Poveda",
+        "specialty": "Pediatric Dentist",
+        "description": "Our specialist in pediatric dentistry, with over 9 years of clinical experience caring for children’s dental health.",
+        "longDescription": [
+          "Dr. María Poveda is our pediatric dentistry specialist, with over 9 years of clinical experience in the dental care of children. She stands out for her empathetic approach, comprehensive care philosophy, and her ability to build trust with children and their families.",
+          "She is a board member of the Costa Rican Academy of Pediatric Dentistry (ACOP) and has a strong academic background:",
+          "• Specialty in Pediatric Dentistry from the Universidad Autónoma de Guadalajara (Mexico)",
+          "• Bachelor's degree in Dentistry and Doctorate in Dental Surgery from the University of Costa Rica",
+          "• Master's degree in Early Stimulation from USP-CR",
+          "Her practice emphasizes the treatment of patients with disabilities and complex medical conditions, as well as functional and mechanical jaw orthopedics, enabling early, preventive, and highly specialized care.",
+          "She is fluent in English and Spanish and is committed to continuous education and human quality in every consultation."
+        ],
+        "instagram": "",
+        "linkedin": "",
+        "tiktok": ""
+      },
+      {
+        "name": "Jose Pablo Vargas",
+        "img": "juan",
+        "specialty": "Surgical Team",
+        "description": "Dedicated to surgical precision and care.",
+        "longDescription": [
+          "Juan is part of our elite surgical team focused on delivering precise and compassionate care during advanced dental procedures."
+        ],
+        "instagram": "",
+        "linkedin": "",
+        "tiktok": ""
+      },
+      {
+        "name": "Dra. Karina Lizano Escalante",
+        "img": "Karina_Lizano_Escalante",
+        "specialty": "Endodoncista",
+        "description": "nuestra especialista en endodoncia, dedicada al  tratamiento de condiciones relacionadas con el 'nervio' dental.",
+        "longDescription": [
+          "La Dra. Karina Lizano Escalante es nuestra especialista en endodoncia, dedicada al diagnóstico y tratamiento de condiciones relacionadas con el tejido pulpar o 'nervio' dental.",
+          "Cuenta con una Licenciatura en Odontología por la Universidad de Costa Rica y una Especialidad en Endodoncia otorgada por la Universidad Autónoma de Tlaxcala, México. Además, es miembro activo de la Academia de Endodoncia de Costa Rica, lo cual refleja su compromiso con la excelencia clínica y la actualización profesional constante.",
+          "Entre los procedimientos que realiza se encuentran:",
+          "• Valoraciones para determinar la necesidad de tratamiento de nervio",
+          "• Atención de emergencias dentales",
+          "• Pulpotomías",
+          "• Tratamientos de conducto",
+          "• Retratamientos de conductos previamente tratados",
+          "• Apicectomías",
+          "La Dra. Lizano se caracteriza por su gran empatía, brindando seguridad a los pacientes durante procedimientos que pueden generar ansiedad. Su precisión, enfoque conservador y uso de tecnología avanzada proporcionan una experiencia segura y eficaz para preservar las piezas dentales."
+        ],
+        "instagram": "",
+        "linkedin": "",
+        "tiktok": ""
+      }
+      
+    ]
+  },
+  "Reviews": {
+    "title": "Lo que dicen sobre nosotros",
+    "description": "Comentarios reales de nuestros pacientes sobre la atención y profesionalismo de nuestro equipo.",
+    "list": [
+      {
+        "quote": "La primera vez en mis casi 50 años que logro tener una cita odontológica sin dolor!! Cuando la doctora me sugirió poner anestesia para hacer mi limpieza dental, (ya había tenido la experiencia anterior con esta paciente tan nerviosa) le dije que no porque tenía miedo de la aguja 🙈 pero gracias a Dios ella insistió y puedo decir que fue la mejor de las limpiezas dentales que he tenido en mi vida, además de que hizo un trabajo excelente, yo pude estar muy tranquila y ella también 🤲... La doctora es la mejor con su paciencia, no sentí ni un poquito de molestia, es la mejor poniendo la anestesia, ni se siente y pudimos tener el mejor tratamiento 🙌🙌🙌 Gracias gracias gracias 🦷😍",
+        "name": "Nuria Ovares",
+        "date": "abril 2025",
+        "img": "/review/nunria_ovares.jpeg"
+      },
+      {
+        "quote": "Súper delicada con los niños y adultos, pero resalto su paciencia con los chiquitos difíciles 💕",
+        "name": "Paula Saborío Aguilar",
+        "date": "16 feb 2019",
+        "img": "/review/Paula-Saborio-Aguilar.jpeg"
+      },
+      {
+        "quote": "Nos encanta el trato de la Dra. Guillén. Es súper profesional, humana, carismática, amable. Es super dulce con los niños. Ha trabajado conmigo en tratamiento de alineadores y con mi hija de 7 años desde que tenía 5 en ortodoncia preventiva. La recomendamos al 1000%. Si anda en busca de una excelente dentista y especialista en ortodoncia, la Dra Guillén es la mejor 👍🏼 Le damos 5 estrellas 🌟🌟🌟🌟🌟",
+        "name": "Yeime Valverde Vargas",
+        "date": "11 jul 2023",
+        "img": "/review/Yeime-Valverde-Vargas.jpeg"
+      },
+      {
+        "quote": "Tuve una experiencia excelente con mi cirugía dental. Desde el primer momento, el equipo fue increíblemente atento y profesional. Me explicaron todo el procedimiento con claridad, resolvieron todas mis dudas y me hicieron sentir en total confianza. Se nota que tienen mucha experiencia y pasión por lo que hacen.",
+        "name": "Paco Unfried",
+        "date": "abril 2025",
+        "img": "/review/Paco-Unfried.jpeg"
+      },
+      {
+        "quote": "Excelente profesional y trato con los pacientes.",
+        "name": "Mabel Saborío",
+        "date": "22 ene 2020",
+        "img": "/review/Mabel-Saborio.jpeg"
+      }
+    ]
+  },
+  "UserCase": {
+    "label": "Soluciones Dentales Accesibles",
+    "title": "Servicios dentales de alta calidad",
+    "description": "Lorem Ipsum, Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Lorem Ipsum, N Lorem Ipsum, Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Lorem Ipsum, N..."
+  },
+  "InvisalignBanner": {
+    "title": "Sonríe con confianza con",
+    "invis": "Invis",
+    "align": "align",
+    "description": "Nuestros alineadores Invisalign ayudan a alinear tus dientes de forma discreta y cómoda. ¡Descubre tu sonrisa ideal hoy!",
+    "cta": "Agenda tu consulta"
+  },
+  "AboutUsPage": {
+    "Title": "Sobre Nosotros",
+    "Description": "Guillén Dental Care es una clínica dental compuesta por especialistas en cada una de las ramas de odontología. Nuestra misión es  ofrecer atención integral, humana y de alta calidad en salud bucodental. Nuestro equipo de profesionales combina experiencia, tecnología avanzada y un enfoque cálido y personalizado para brindar soluciones efectivas y seguras. Ofrecemos una amplia gama de servicios, entre ellos: ortodoncia con alineadores y brackets, odontopediatría, implantes dentales, extracciones de cordales, periodoncia, diseño de sonrisa, carillas estéticas, coronas, puentes, restauraciones, endodoncia y biopsias. En Guillén Dental Care, nos comprometemos con tu bienestar, trabajando con excelencia, empatía y profesionalismo en cada tratamiento.",
+    "Secondary_description": "Nuestra clínica está equipada con tecnología de punta y diseñada pensando en tu comodidad. Desde odontología pediátrica hasta transformaciones estéticas y todo lo que hay en medio, estamos aquí para hacer que tu camino hacia una salud bucal óptima sea una experiencia agradable y positiva.",
+    "Mission": "Nuestra misión es brindar servicios odontológicos de alta calidad con un enfoque en la prevención y la salud bucodental, a través de tratamientos honestos, responsables y ejecutados por especialistas altamente capacitados. Ofrecemos atención cálida, profesional y accesible, manteniendo precios razonables que reflejan la calidad de nuestro trabajo y el valor de la experiencia ofrecida en una zona de alto prestigio.",
+    "Vision": "Aspiramos a ser una clínica de referencia a nivel nacional, reconocida por su ética, excelencia clínica y calidez humana. Queremos que cada paciente se sienta escuchado, valorado y completamente seguro de estar en las mejores manos, dentro de un espacio cómodo, moderno y confiable.",
+    "Cultura": "En Guillen Dental Care promovemos una cultura de respeto, responsabilidad y valores familiares. Creemos en la comunicación empática, el trabajo en equipo y el compromiso con la excelencia. Cada miembro del equipo actúa con honestidad, profesionalismo y un profundo sentido humano, buscando siempre el bienestar integral del paciente."
+  },
+  "footer": {
+    "description": "Guillén Dental Care es una clínica dental compuesta por especialistas en cada una de las ramas de odontología.",
+    "locationTitle": "Ubicación",
+    "address": "300 mts norte de McDonald’s, Escazú, San José, Costa Rica - 10203",
+    "note": "Contáctanos por WhatsApp. Verifica nuestro horario local.",
+    "socialTitle": "Síguenos",
+    "privacy": "Política de Privacidad",
+    "rights": "Todos los derechos reservados."
+  }
+}
