@@ -59,7 +59,7 @@ export default function OurTeam() {
                             }}
                         >
                             <Image
-                                src={`/out-team/${member.img}.jfif`}
+                                src={`/out-team/${member.img}.jpg`}
                                 alt={member.name}
                                 fill
                                 className="image"

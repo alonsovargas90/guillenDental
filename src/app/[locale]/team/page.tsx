@@ -38,7 +38,7 @@ const OurTeamPage = () => {
         {content.members.map((member, i) => (
           <ProfessionalInCharge
             key={member.name}
-            image={`/out-team/${member.img}.jfif`}
+            image={`/out-team/${member.img}.jpg`}
             name={member.name}
             title={member.specialty}
             description={member.description}

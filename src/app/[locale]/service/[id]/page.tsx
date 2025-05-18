@@ -71,7 +71,7 @@ Aliquam luctus, ex aliquet dignissim sagittis, tortor lectus posuere tortor, ege
       <Container maxWidth="md">
         {specialistData ? (
           <ProfessionalInCharge
-            image={`/out-team/${specialistData.img}.jfif`}
+            image={`/out-team/${specialistData.img}.jpg`}
             name={specialistData.name}
             title={specialistData.specialty}
             description={specialistData.description}

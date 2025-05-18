@@ -38,7 +38,7 @@ export default function Reviews() {
                 flexGrow: 1
             }}>
                 <Image
-                    src={`/ReviewMain.jfif`}
+                    src={`/ReviewMain.jpg`}
                     alt={'Sofi la chef y unuestra dentista Andrea Guillen'}
                     fill
                     className="image"
