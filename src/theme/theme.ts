@@ -132,6 +132,56 @@ const baseTheme = createTheme({
       textTransform: 'uppercase',
       letterSpacing: '0.08em',
     },
+  },
+  components: {
+    MuiButton: {
+      styleOverrides: {
+        root: ({ theme }) => ({
+          fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+          fontWeight: 500,
+          textTransform: 'none',
+          fontSize: '0.9rem',
+          padding: theme.spacing(2),
+          backgroundColor: theme.palette.brandTeal.main,
+          color: theme.palette.common.white,
+          borderRadius: theme.shape.borderRadius,
+          border: `1px solid transparent`,
+          '&:hover': {
+            border: `1px solid ${theme.palette.brandTeal.main}`,
+            backgroundColor: theme.palette.common.white,
+            color: theme.palette.brandTeal.main,
+          },
+          transition: 'all 0.2s ease-in-out',
+        }),
+      },
+       variants: [
+      {
+        props: { variant: 'contained' },
+        style: ({ theme }) => ({
+          backgroundColor: theme.palette.brandTeal.main,
+          color: theme.palette.common.white,
+          '&:hover': {
+            backgroundColor: theme.palette.common.white,
+            color: theme.palette.brandTeal.main,
+            border: `1px solid ${theme.palette.brandTeal.main}`,
+          },
+        }),
+      },
+      {
+        props: { variant: 'text' },
+        style: ({ theme }) => ({
+          backgroundColor: theme.palette.common.white,
+          color: theme.palette.brandTeal.main,
+          border: `transparent`,
+          '&:hover': {
+             border: `transparent`,
+            backgroundColor: theme.palette.brandTeal.main,
+            color: theme.palette.common.white,
+          },
+        }),
+      },
+    ],
+    },
   }
 });
 
@@ -141,7 +191,7 @@ baseTheme.typography = {
   h1: {
     fontSize: '40px', // mobile
     lineHeight: 1.2,
-    fontWeight: 700,
+    fontWeight: 400,
     fontFamily: baseTheme.typography.fontFamily,
     [baseTheme.breakpoints.up('sm')]: {
       fontSize: '48px', // +8
@@ -153,7 +203,7 @@ baseTheme.typography = {
   h2: {
     fontSize: '32px', // mobile
     lineHeight: 1.25,
-    fontWeight: 700,
+    fontWeight: 400,
     fontFamily: baseTheme.typography.fontFamily,
     [baseTheme.breakpoints.up('sm')]: {
       fontSize: '40px',
@@ -165,7 +215,7 @@ baseTheme.typography = {
   h3: {
     fontSize: '24px',
     lineHeight: 1.3,
-    fontWeight: 600,
+    fontWeight: 400,
     fontFamily: baseTheme.typography.fontFamily,
     [baseTheme.breakpoints.up('sm')]: {
       fontSize: '32px',
@@ -177,7 +227,7 @@ baseTheme.typography = {
   h4: {
     fontSize: '20px',
     lineHeight: 1.35,
-    fontWeight: 600,
+    fontWeight: 400,
     fontFamily: baseTheme.typography.fontFamily,
     [baseTheme.breakpoints.up('sm')]: {
       fontSize: '24px',
@@ -189,7 +239,7 @@ baseTheme.typography = {
   h5: {
     fontSize: '16px',
     lineHeight: 1.4,
-    fontWeight: 500,
+    fontWeight: 400,
     fontFamily: baseTheme.typography.fontFamily,
     [baseTheme.breakpoints.up('sm')]: {
       fontSize: '20px',
@@ -201,7 +251,7 @@ baseTheme.typography = {
   h6: {
     fontSize: '14px',
     lineHeight: 1.5,
-    fontWeight: 500,
+    fontWeight: 400,
     fontFamily: baseTheme.typography.fontFamily,
     [baseTheme.breakpoints.up('sm')]: {
       fontSize: '16px',

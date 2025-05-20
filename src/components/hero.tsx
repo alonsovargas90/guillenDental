@@ -80,7 +80,6 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
           variant="h4"
           sx={{
             color: 'white',
-            fontWeight: 400,
             textShadow: '0 1px 3px rgba(0,0,0,0.4)',
             fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
           }}

@@ -104,20 +104,6 @@ export default function InvisalignBanner() {
             variant="contained"
             color="primary"
             href="#Contact"
-            sx={{
-              p: 2,
-              backgroundColor: theme.palette.brandTeal.main,
-              color: theme.palette.common.white,
-              fontWeight: 500,
-              textTransform: 'none',
-              width: 'fit-content',
-              fontSize: { xs: '0.9rem', md: '1.2rem' },
-              '&:hover': {
-                borderColor: `1px solid ${theme.palette.brandTeal.main}`,
-                backgroundColor: theme.palette.common.white,
-                color: theme.palette.brandTeal.main
-              }
-            }}
           >
             {t('cta')}
           </Button>

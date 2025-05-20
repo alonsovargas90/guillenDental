@@ -15,7 +15,8 @@ export default getRequestConfig(async ({ locale }) => {
     'heroContact',
     'invisalignBanner',
     'topPriority',
-    'userCase'
+    'userCase',
+    'serviceInfo'
   ];
 
   const messages = Object.assign(

@@ -25,7 +25,7 @@ export interface ProfessionalInChargeProps {
   }
 }
 
-export  type SingleServiceContent = {
+export type SingleServiceContent = {
   title: string;
   subtitle: string;
   description: string;
@@ -41,3 +41,17 @@ export type OurTeamContent = {
   description: string;
   members: TeamMember[];
 };
+
+export interface ServiceCard {
+  title: string;
+  subtitle: string;
+}
+
+export interface ServiceInfo {
+  title: string;
+  description: string;
+  image1: string;
+  image2: string;
+  image3: string;
+  cards: ServiceCard[];
+}

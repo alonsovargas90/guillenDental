@@ -31,25 +31,12 @@ export default function Services() {
           {t('title')}
         </Typography>
         <Typography variant="h6" color={theme.palette.common.white} width={'80%'} fontSize={{ xs: '16px', md: '20px' }}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis sem bibendum turpis semper rutrum. Sed ornare nulla ac massa vehicula, nec auctor tellus dapibus. Donec bibendum, mi vitae commodo mattis, dui urna condimentum augue, sit amet gravida lectus metus non nunc. Mauris lacinia porta velit id finibus.
+         {t('subtitle')}
         </Typography>
         <Button
           component={Link}
           href={`/contact`}
           variant="text"
-          sx={{
-            p: 2,
-            backgroundColor: theme.palette.brandTeal.main,
-            color: theme.palette.common.white,
-            fontWeight: 500,
-            textTransform: 'none',
-            fontSize: { xs: '0.9rem', md: '1.2rem' },
-            '&:hover': {
-              borderColor: `1px solid ${theme.palette.brandTeal.main}`,
-              backgroundColor: theme.palette.common.white,
-              color: theme.palette.brandTeal.main
-            }
-          }}
         >
           {t('cta')}
         </Button>

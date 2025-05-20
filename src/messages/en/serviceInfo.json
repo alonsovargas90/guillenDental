@@ -1,0 +1,151 @@
+{
+    "ServiceInfo": {
+        "orthodontics": {
+            "title": "Straighten Your Smile with Confidence",
+            "description": "Whether you're considering Invisalign or traditional braces, our orthodontic care is designed to align your teeth comfortably and effectively. We customize each treatment to your unique goals — so you can smile with pride at every stage of the journey.",
+            "image1": "/images/pediatria-1.jpeg",
+            "image2": "/images/pediatria-2.jpeg",
+            "image3": "/images/pediatric-dentistry-3.jpeg",
+            "cards": [
+                {
+                    "title": "Customized Treatment Plans",
+                    "subtitle": "Every smile is unique. Our orthodontic care begins with a personalized assessment and a treatment plan tailored to your individual dental structure, needs, and lifestyle."
+                },
+                {
+                    "title": "Advanced Braces & Invisalign",
+                    "subtitle": "We offer both traditional braces and Invisalign clear aligners to provide flexible solutions for correcting misalignment, spacing, and bite issues — all with precision and comfort."
+                },
+                {
+                    "title": "Long-Term Oral Health Benefits",
+                    "subtitle": "Orthodontic treatment does more than improve your smile. Properly aligned teeth make daily cleaning easier, reduce the risk of tooth decay and gum disease, and support lasting oral health."
+                }
+            ]
+        },
+        "cosmetic-dentistry": {
+            "title": "Cosmetic Dentistry",
+            "description": "Improve the aesthetics of your smile with whitening, veneers, and more.",
+            "image1": "/images/pediatria-1.jpeg",
+            "image2": "/images/pediatria-2.jpeg",
+            "image3": "/images/pediatric-dentistry-3.jpeg",
+            "cards": [
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                }
+            ]
+        },
+        "periatric-dentristry": {
+            "title": "Pediatric Dentistry",
+            "description": "Tratamientos para ninos y pequenos",
+            "image1": "/services/orthodoncy.svg",
+            "image2": "/services/orthodoncy.svg",
+            "image3": "/services/orthodoncy.svg",
+            "cards": [
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                }
+            ]
+        },
+        "dental-surgery": {
+            "title": "Dental Surgery",
+            "description": "Advanced surgical procedures for oral health restoration.",
+            "image1": "/services/orthodoncy.svg",
+            "image2": "/services/orthodoncy.svg",
+            "image3": "/services/orthodoncy.svg",
+            "cards": [
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                }
+            ]
+        },
+        "periodontics": {
+            "title": "Periodontics",
+            "description": "Comprehensive care for gum diseases and oral hygiene.",
+            "image1": "/services/orthodoncy.svg",
+            "image2": "/services/orthodoncy.svg",
+            "image3": "/services/orthodoncy.svg",
+            "cards": [
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                }
+            ]
+        },
+        "dental-implants": {
+            "title": "Dental Implants",
+            "description": "Regain your natural smile and dental functionality.",
+            "image1": "/services/orthodoncy.svg",
+            "image2": "/services/orthodoncy.svg",
+            "image3": "/services/orthodoncy.svg",
+            "cards": [
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                }
+            ]
+        },
+        "oral-biopsies": {
+            "title": "Oral Biopsies",
+            "description": "Precise diagnostics with minimal intervention for early detection.",
+            "image1": "/services/orthodoncy.svg",
+            "image2": "/services/orthodoncy.svg",
+            "image3": "/services/orthodoncy.svg",
+            "cards": [
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                }
+            ]
+        }
+    }
+}
