@@ -1,0 +1,50 @@
+{
+    "OurServices": {
+        "title": "Our team of dentists can help with a variety of dental services",
+        "cta": "Book an Appointment",
+        "list": [
+            {
+                "service": "Orthodontics",
+                "date": "Invisalign or traditional",
+                "img": "/services/orthodoncy.svg",
+                "link": "/en/service/orthodontics"
+            },
+            {
+                "service": "Pediatric Dentistry",
+                "date": "Care for the little ones.",
+                "img": "/services/periatric_dentristry.png",
+                "link": "/en/service/periatric-dentristry"
+            },
+            {
+                "service": "Cosmetic Dentistry",
+                "date": "Improve the appearance of your smile.",
+                "img": "/services/Cosmetic Dentistry.png",
+                "link": "/en/service/cosmetic-dentistry"
+            },
+            {
+                "service": "Dental Surgery",
+                "date": "Safe and advanced surgical procedures.",
+                "img": "/services/dental-surgery.svg",
+                "link": "/en/service/dental-surgery"
+            },
+            {
+                "service": "Periodontics",
+                "date": "Gum treatments for better oral health.",
+                "img": "/services/periodoncy.png",
+                "link": "/en/service/periodontics"
+            },
+            {
+                "service": "Dental Implants",
+                "date": "Get your natural smile back.",
+                "img": "/services/Dental Implants.svg",
+                "link": "/en/service/dental-implants"
+            },
+            {
+                "service": "Oral Biopsies",
+                "date": "Diagnostic precision with minimal intervention.",
+                "img": "/services/biopsias.png",
+                "link": "/en/service/oral-biopsies"
+            }
+        ]
+    }
+}

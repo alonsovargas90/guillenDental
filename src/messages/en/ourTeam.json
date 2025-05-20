@@ -1,0 +1,107 @@
+{
+    "OurTeam": {
+        "title": "Meet Our Team",
+        "description": "Discover the passionate professionals behind your smile transformation.",
+        "members": [
+            {
+                "name": "Dra. Andrea Guillen Saborio",
+                "img": "andrea",
+                "specialty": "Ortodoncista y Directora de Guillén Dental Care",
+                "description": "Dr. Andrea Guillén is a specialist in Orthodontics and Maxillofacial Orthopedics, with over 9 years of clinical experience transforming smiles with a comprehensive, empathetic, and highly professional approach.",
+                "longDescription": [
+                    "Dr. Andrea Guillén is a specialist in Orthodontics and Maxillofacial Orthopedics, with over 9 years of clinical experience transforming smiles with a comprehensive, empathetic, and highly professional approach.",
+                    "She graduated as a Doctor of Dental Surgery and licensed Dentist from the University of Costa Rica, and furthered her education with a specialization in Orthodontics at the Latin American University of Science and Technology (ULACIT). She has a special emphasis on treating individuals with disabilities or compromised systemic conditions, providing safe, personalized treatments tailored to each patient.",
+                    "She is also an expert in Invisalign® aligner treatments, with extensive experience as a consultant for orthodontists in the United States and Canada, supporting colleagues in designing and planning complex cases using this technology.",
+                    "As the director and founder of Guillén Dental Care, she leads a team of specialists dedicated to providing excellent care in a welcoming, modern, and humane environment. Her dream has always been to create a space where patients feel cared for, listened to, and treated with the highest standards of quality, using advanced technology and an updated clinical vision."
+                ],
+                "instagram": "https://instagram.com/draguillen",
+                "linkedin": "https://linkedin.com/in/draguillen",
+                "tiktok": "https://instagram.com/draguillen"
+            },
+            {
+                "name": "Dra. María Poveda",
+                "img": "María_Poveda",
+                "specialty": "Pediatric Dentist",
+                "description": "Dr. María Poveda is our specialist in Pediatric Dentistry, with over 9 years of clinical experience in children's dental care.",
+                "longDescription": [
+                    "Dr. María Poveda is our specialist in Pediatric Dentistry, with over 9 years of clinical experience in children's dental care. She is known for her empathetic approach, comprehensive focus, and ability to build trust with children and their families.",
+                    "She is a board member of the Costa Rican Academy of Pediatric Dentistry (ACOP) and has a strong academic background:",
+                    "• Specialization in Pediatric Dentistry from the Autonomous University of Guadalajara (Mexico)",
+                    "• Bachelor's degree in Dentistry and Doctor of Dental Surgery from the University of Costa Rica",
+                    "• Master's degree in Early Stimulation from USP-CR",
+                    "Her practice emphasizes dental management of patients with disabilities and complex medical conditions, as well as functional orthopedics and jaw mechanics, enabling early, preventive, and highly specialized care.",
+                    "She speaks English and Spanish fluently and is committed to continuous education and human quality in every consultation."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Juan Perez",
+                "img": "juan",
+                "specialty": "Surgical Team",
+                "description": "Dedicated to surgical precision and care.",
+                "longDescription": [
+                    "Juan is part of our elite surgical team focused on delivering precise and compassionate care during advanced dental procedures."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Dr. Karina Lizano Escalante",
+                "img": "Karina_Lizano_Escalante",
+                "specialty": "Endodontist",
+                "description": "Our endodontics specialist, dedicated to the treatment of conditions related to the dental nerve.",
+                "longDescription": [
+                    "Dr. Karina Lizano Escalante is our endodontics specialist, focused on diagnosing and treating conditions related to the dental pulp or 'nerve'.",
+                    "She holds a Bachelor's degree in Dentistry from the University of Costa Rica and a Specialty in Endodontics from the Universidad Autónoma de Tlaxcala, Mexico. She is also an active member of the Costa Rican Endodontics Academy, reflecting her commitment to clinical excellence and ongoing professional development.",
+                    "Her procedures include:",
+                    "• Evaluations to determine the need for root canal treatment",
+                    "• Emergency dental visits",
+                    "• Pulpotomies",
+                    "• Root canal treatments",
+                    "• Retreatment of previously treated canals",
+                    "• Apicoectomies",
+                    "Dr. Lizano is known for her empathy, helping patients feel safe during procedures that may provoke anxiety. Her precision, conservative approach, and advanced technology provide a secure and effective experience for preserving natural teeth."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Dr. Óscar Reiche Fischel",
+                "img": "oscar_reiche",
+                "specialty": "Oral and Maxillofacial Surgeon",
+                "description": "At Guillén Dental Care, we are supported by Dr. Óscar Reiche Fischel, a renowned oral and maxillofacial surgeon with an outstanding track record in treating complex conditions of the oral cavity, the maxillofacial skeletal system, and associated soft tissues.",
+                "longDescription": [
+                    "At Guillén Dental Care, we are supported by Dr. Óscar Reiche Fischel, a renowned oral and maxillofacial surgeon with an outstanding track record in treating complex conditions of the oral cavity, the maxillofacial skeletal system, and associated soft tissues.",
+                    "Academic Background:",
+                    "• Doctor of Dental Surgery, University of Costa Rica (1984–1989)",
+                    "• Specialty in Oral Implantology, University of Miami / Jackson Memorial Hospital, USA (1990–1991)",
+                    "• Residency in Oral and Maxillofacial Surgery, University of Texas / Medical Center in Houston, USA (1991–1995)",
+                    "• Subspecialty in Orthognathic and Reconstructive Maxillofacial Surgery, Baylor Medical Center (now Texas A&M University), Dallas, USA (1995–1996)",
+                    "Professional Experience:",
+                    "• Co-Director, Oral and Maxillofacial Surgery Department, Rafael Ángel Calderón Guardia Hospital (1996–2005)",
+                    "• Full Professor, Postgraduate Program in Oral and Maxillofacial Surgery, University of Costa Rica (2001–2006)",
+                    "• Full Professor of Orthodontics, ULACIT (2001–2016)",
+                    "• Founding President, Costa Rican Academy of Oral and Maxillofacial Surgery (ACCOM) (2003–2013)",
+                    "• National Representative, International Association of Oral and Maxillofacial Surgeons (IAOMS) (2001–2015)",
+                    "Specialized Procedures:",
+                    "• Surgery for impacted or retained wisdom teeth",
+                    "• Dental implant placement",
+                    "• Orthognathic surgery and facial harmonization",
+                    "• Biopsies and removal of oral lesions",
+                    "• Bone leveling and jaw reconstruction",
+                    "• Soft tissue surgeries (frenectomies, cysts, among others)",
+                    "His rigorous academic training, combined with surgical precision and compassionate care, make him a leader in the field.",
+                    "In every case, Dr. Reiche prioritizes functionality, aesthetics, and safe patient recovery.",
+                    "Thanks to his collaboration, Guillén Dental Care ensures a comprehensive, ethical, and highly professional approach to even the most demanding surgical treatments."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            }
+        ]
+    }
+}

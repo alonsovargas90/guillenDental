@@ -1,0 +1,38 @@
+{
+    "Reviews": {
+    "title": "What people say about us",
+    "description": "Real feedback from our patients about the care and professionalism of our team.",
+    "list": [
+      {
+        "quote": "The first time in almost 50 years that I’ve had a dental appointment without pain!! When the doctor suggested using anesthesia for my dental cleaning (she had previously experienced how nervous this patient gets), I said no because I was afraid of the needle 🙈 but thank God she insisted, and I can say it was the best dental cleaning I’ve ever had. She did an excellent job, I was very relaxed and so was she 🤲... The doctor is the best — so patient, I didn’t feel even a little discomfort. She’s the best at applying anesthesia — you don’t even feel it — and we had the best treatment 🙌🙌🙌 Thank you thank you thank you 🦷😍",
+        "name": "Nuria Ovares",
+        "date": "April 2025",
+        "img": "/review/nunria_ovares.jpeg"
+      },
+      {
+        "quote": "Super gentle with children and adults, but I especially highlight her patience with difficult little ones 💕",
+        "name": "Paula Saborío Aguilar",
+        "date": "Feb 16, 2019",
+        "img": "/review/Paula-Saborio-Aguilar.jpeg"
+      },
+      {
+        "quote": "We love Dr. Guillén’s approach. She’s super professional, warm, charismatic, and sweet with children. She’s worked with my daughter since she was 5. We recommend her 1000%. If you’re looking for a great orthodontist, she’s the best 👍🏼 We give her 5 stars 🌟🌟🌟🌟🌟",
+        "name": "Yeime Valverde Vargas",
+        "date": "Jul 11, 2023",
+        "img": "/review/Yeime-Valverde-Vargas.jpeg"
+      },
+      {
+        "quote": "I had an excellent experience with my dental surgery. From the start, the team was incredibly attentive and professional. They explained everything clearly, answered all my questions, and made me feel totally confident. You can tell they’re passionate and experienced in what they do.",
+        "name": "Paco Unfried",
+        "date": "April 2025",
+        "img": "/review/Paco-Unfried.jpeg"
+      },
+      {
+        "quote": "Excellent professional and great with patients.",
+        "name": "Mabel Saborío",
+        "date": "Jan 22, 2020",
+        "img": "/review/Mabel-Saborio.jpeg"
+      }
+    ]
+  }
+}

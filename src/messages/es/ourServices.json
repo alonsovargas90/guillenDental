@@ -1,0 +1,56 @@
+{
+    "OurServices": {
+        "title": "Nuestros especialistas en servicios dentales te pueden ayudar",
+        "cta": "Book an Appointment",
+        "list": [
+            {
+                "service": "Ortodoncia",
+                "date": "Ortodoncia Tradicional o con Invisalign",
+                "img": "/services/orthodoncy.svg",
+                "link": "/es/service/orthodontics"
+            },
+            {
+                "service": "Pedriatia dental",
+                "date": "Care for the little ones.",
+                "img": "/services/periatric_dentristry.png",
+                "link": "/es/service/periatric_dentristry"
+            },
+            {
+                "service": "Cosmetica Dental",
+                "date": "Improve the appearance of your smile.",
+                "img": "/services/Cosmetic Dentistry.png",
+                "link": "/es/service/cosmetic-dentistry"
+            },
+            {
+                "service": "Cirugia Dental",
+                "date": "Safe and advanced surgical procedures.",
+                "img": "/services/dental-surgery.svg",
+                "link": "/es/service/dental-surgery"
+            },
+            {
+                "service": "Periodoncia",
+                "date": "Gum treatments for better oral health.",
+                "img": "/services/periodoncy.png",
+                "link": "/es/service/periodontics"
+            },
+            {
+                "service": "Endodoncia*",
+                "date": "ner treatments for better oral health.",
+                "img": "/services/periodoncy.png",
+                "link": "/es/service/periodontics"
+            },
+            {
+                "service": "Implantes Dentales",
+                "date": "Get your natural smile back.",
+                "img": "/services/Dental Implants.svg",
+                "link": "/es/service/dental-implants"
+            },
+            {
+                "service": "Biopsias Orales",
+                "date": "Diagnostic precision with minimal intervention.",
+                "img": "/services/biopsias.png",
+                "link": "/es/service/oral-biopsies"
+            }
+        ]
+    }
+}

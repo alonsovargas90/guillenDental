@@ -1,0 +1,74 @@
+{
+    "ServicePages": {
+        "orthodontics": {
+            "title": "Ortodoncia",
+            "subtitle": "LoremUpsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu pulvinar, pretium mauris facilisis, dignissim ipsum.",
+            "heroImage": "/services/orthodoncy_hero.jpg",
+            "backgroundPosition": "0% 20%",
+            "backgroundSize": "cover",
+            "specialist": "Dra. Andrea Guillen Saborio",
+            "image": "/services/orthodoncy.svg"
+        },
+        "periatric_dentristry": {
+            "title": "Pediatric Dentistry",
+            "subtitle": "LoremUpsum",
+            "description": "Tratamientos para ninos y pequenos",
+            "heroImage": "/services/periatric_dentristry-hero.jpeg",
+            "backgroundPosition": "100% 40%",
+            "backgroundSize": "cover",
+            "specialist": "Dra. María Poveda",
+            "image": "/services/periatric_dentristry.png"
+        },
+        "cosmetic-dentistry": {
+            "title": "Odontología Cosmética",
+            "subtitle": "LoremUpsum",
+            "description": "Mejora la estética de tu sonrisa con blanqueamiento, carillas y más.",
+            "heroImage": "/services/cosmetic_dentistry_hero.webp",
+            "backgroundPosition": "0% 20%",
+            "backgroundSize": "cover",
+            "specialist": "Dra. Andrea Guillen Saborio",
+            "image": "/services/Cosmetic Dentistry.png"
+        },
+        "dental-surgery": {
+            "title": "Cirugía Dental",
+            "subtitle": "LoremUpsum",
+            "description": "Procedimientos quirúrgicos avanzados para restaurar la salud bucal.",
+            "heroImage": "/services/dental-surgery_hero.png",
+            "backgroundPosition": "100% 20%",
+            "backgroundSize": "contain",
+            "specialist": "Dra. Andrea Guillen Saborio",
+            "image": "/services/dental-surgery.svg"
+        },
+        "periodontics": {
+            "title": "Periodoncia",
+            "subtitle": "LoremUpsum",
+            "description": "Cuidado integral para enfermedades de las encías e higiene bucal.",
+            "heroImage": "/services/cosmetic_dentristry_hero.png",
+            "backgroundPosition": "100% 20%",
+            "backgroundSize": "contain",
+            "specialist": "Dra. Andrea Guillen Saborio",
+            "image": "/services/periodoncy.png"
+        },
+        "dental-implants": {
+            "title": "Implantes Dentales",
+            "subtitle": "LoremUpsum",
+            "description": "Recupera tu sonrisa natural y funcionalidad dental.",
+            "heroImage": "/services/cosmetic_dentristry_hero.png",
+            "backgroundPosition": "100% 20%",
+            "backgroundSize": "contain",
+            "specialist": "Dra. Andrea Guillen Saborio",
+            "image": "/services/Dental Implants.svg"
+        },
+        "oral-biopsies": {
+            "title": "Biopsias Orales",
+            "subtitle": "LoremUpsum",
+            "description": "Diagnóstico preciso con intervención mínima para una detección temprana.",
+            "heroImage": "/services/cosmetic_dentristry_hero.png",
+            "backgroundPosition": "100% 20%",
+            "backgroundSize": "contain",
+            "specialist": "Dra. Andrea Guillen Saborio",
+            "image": "/services/biopsias.png"
+        }
+    }
+}

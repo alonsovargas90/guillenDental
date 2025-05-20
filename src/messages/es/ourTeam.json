@@ -1,0 +1,107 @@
+{
+    "OurTeam": {
+        "title": "Nuestro Equipo",
+        "description": "Discover the passionate professionals behind your smile transformation.",
+        "members": [
+            {
+                "name": "Dra. Andrea Guillen Saborio",
+                "img": "andrea",
+                "specialty": "Director of Dental Care and lead Odontologist",
+                "description": "La Dra. Andrea Guillén es especialista en Ortodoncia y Ortopedia de los Maxilares, con más de 9 años de experiencia clínica transformando sonrisas con un enfoque integral, empático y altamente profesional.",
+                "longDescription": [
+                    "La Dra. Andrea Guillén es especialista en Ortodoncia y Ortopedia de los Maxilares, con más de 9 años de experiencia clínica transformando sonrisas con un enfoque integral, empático y altamente profesional.",
+                    "Graduada como Doctora en Cirugía Dental y Licenciada en Odontología por la Universidad de Costa Rica, complementó su formación con una especialidad en Ortodoncia en la Universidad Latinoamericana de Ciencia y Tecnología (ULACIT). Cuenta con un énfasis especial en la atención de personas con discapacidad o condiciones sistémicas comprometidas, brindando tratamientos seguros, personalizados y adaptados a cada paciente.",
+                    "Es además experta en tratamientos con alineadores Invisalign®, con amplia experiencia como consultora para ortodoncistas en Estados Unidos y Canadá, apoyando a colegas en el diseño y planificación de casos complejos con esta tecnología.",
+                    "Como directora y fundadora de Guillén Dental Care, lidera un equipo de especialistas comprometidos con brindar atención de excelencia, en un ambiente familiar, moderno y humano. Su sueño ha sido siempre crear un espacio donde los pacientes se sientan cuidados, escuchados y tratados con los más altos estándares de calidad, utilizando tecnología avanzada y una visión clínica actualizada."
+                ],
+                "instagram": "https://instagram.com/draguillen",
+                "linkedin": "https://linkedin.com/in/draguillen",
+                "tiktok": "https://instagram.com/draguillen"
+            },
+            {
+                "name": "Dr. Óscar Reiche Fischel",
+                "img": "oscar_reiche",
+                "specialty": "Cirujano Oral y Maxilofacial",
+                "description": "En Guillén Dental Care contamos con el respaldo del Dr. Óscar Reiche Fischel, reconocido cirujano oral y maxilofacial con una destacada trayectoria en el tratamiento de patologías complejas de la cavidad oral, el sistema óseo maxilofacial y los tejidos blandos asociados.",
+                "longDescription": [
+                    "En Guillén Dental Care contamos con el respaldo del Dr. Óscar Reiche Fischel, reconocido cirujano oral y maxilofacial con una destacada trayectoria en el tratamiento de patologías complejas de la cavidad oral, el sistema óseo maxilofacial y los tejidos blandos asociados.",
+                    "Formación Académica:",
+                    "• Doctor en Cirugía Dental, Universidad de Costa Rica (1984–1989)",
+                    "• Especialidad en Implantología Oral, Universidad de Miami / Hospital Jackson Memorial, EE. UU. (1990–1991)",
+                    "• Residencia en Cirugía Oral y Maxilofacial, Universidad de Texas / Centro Médico en Houston, EE. UU. (1991–1995)",
+                    "• Subespecialidad en Cirugía Ortognática y Reconstructiva Maxilofacial, Centro Médico Baylor (ahora Texas A&M University), Dallas, EE. UU. (1995–1996)",
+                    "Experiencia Profesional:",
+                    "• Co-director, Servicio de Cirugía Oral y Maxilofacial, Hospital Rafael Ángel Calderón Guardia (1996–2005)",
+                    "• Profesor titular, Postgrado en Cirugía Oral y Maxilofacial, Universidad de Costa Rica (2001–2006)",
+                    "• Profesor titular de Ortodoncia, ULACIT (2001–2016)",
+                    "• Presidente fundador, Academia Costarricense de Cirugía Oral y Maxilofacial (ACCOM) (2003–2013)",
+                    "• Representante nacional, International Association of Oral and Maxillofacial Surgeons (IAOMS) (2001–2015)",
+                    "Procedimientos Especializados:",
+                    "• Cirugía de cordales retenidas o impactadas",
+                    "• Colocación de implantes dentales",
+                    "• Cirugía ortognática y de armonización facial",
+                    "• Biopsias y extirpación de lesiones orales",
+                    "• Regularización ósea y reconstrucción de maxilares",
+                    "• Cirugías de tejidos blandos (frenillos, quistes, entre otros)",
+                    "Su formación académica rigurosa, sumada a su precisión quirúrgica y trato humano, lo posicionan como un referente en el área.",
+                    "En cada caso, el Dr. Reiche prioriza la funcionalidad, la estética y la recuperación segura del paciente.",
+                    "Gracias a su colaboración, en Guillén Dental Care garantizamos un abordaje integral, ético y altamente profesional para los tratamientos quirúrgicos más exigentes."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Dra. María Poveda",
+                "img": "María_Poveda",
+                "specialty": "Pediatric Dentist",
+                "description": "Our specialist in pediatric dentistry, with over 9 years of clinical experience caring for children’s dental health.",
+                "longDescription": [
+                    "Dr. María Poveda is our pediatric dentistry specialist, with over 9 years of clinical experience in the dental care of children. She stands out for her empathetic approach, comprehensive care philosophy, and her ability to build trust with children and their families.",
+                    "She is a board member of the Costa Rican Academy of Pediatric Dentistry (ACOP) and has a strong academic background:",
+                    "• Specialty in Pediatric Dentistry from the Universidad Autónoma de Guadalajara (Mexico)",
+                    "• Bachelor's degree in Dentistry and Doctorate in Dental Surgery from the University of Costa Rica",
+                    "• Master's degree in Early Stimulation from USP-CR",
+                    "Her practice emphasizes the treatment of patients with disabilities and complex medical conditions, as well as functional and mechanical jaw orthopedics, enabling early, preventive, and highly specialized care.",
+                    "She is fluent in English and Spanish and is committed to continuous education and human quality in every consultation."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Jose Pablo Vargas",
+                "img": "juan",
+                "specialty": "Surgical Team",
+                "description": "Dedicated to surgical precision and care.",
+                "longDescription": [
+                    "Juan is part of our elite surgical team focused on delivering precise and compassionate care during advanced dental procedures."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Dra. Karina Lizano Escalante",
+                "img": "Karina_Lizano_Escalante",
+                "specialty": "Endodoncista",
+                "description": "nuestra especialista en endodoncia, dedicada al  tratamiento de condiciones relacionadas con el 'nervio' dental.",
+                "longDescription": [
+                    "La Dra. Karina Lizano Escalante es nuestra especialista en endodoncia, dedicada al diagnóstico y tratamiento de condiciones relacionadas con el tejido pulpar o 'nervio' dental.",
+                    "Cuenta con una Licenciatura en Odontología por la Universidad de Costa Rica y una Especialidad en Endodoncia otorgada por la Universidad Autónoma de Tlaxcala, México. Además, es miembro activo de la Academia de Endodoncia de Costa Rica, lo cual refleja su compromiso con la excelencia clínica y la actualización profesional constante.",
+                    "Entre los procedimientos que realiza se encuentran:",
+                    "• Valoraciones para determinar la necesidad de tratamiento de nervio",
+                    "• Atención de emergencias dentales",
+                    "• Pulpotomías",
+                    "• Tratamientos de conducto",
+                    "• Retratamientos de conductos previamente tratados",
+                    "• Apicectomías",
+                    "La Dra. Lizano se caracteriza por su gran empatía, brindando seguridad a los pacientes durante procedimientos que pueden generar ansiedad. Su precisión, enfoque conservador y uso de tecnología avanzada proporcionan una experiencia segura y eficaz para preservar las piezas dentales."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            }
+        ]
+    }
+}

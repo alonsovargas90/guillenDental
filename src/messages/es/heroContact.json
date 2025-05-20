@@ -1,0 +1,12 @@
+{
+    "heroContact": {
+        "emailTitle": "Envíanos un Correo",
+        "whatsappTitle": "WhatsApp",
+        "whatsappSchedule": "Lunes-Viernes: 10:00–6:00\n \n   Sabado: 8:00–4:00",
+        "addressTitle": "Dirección",
+        "addressText": "Centro Cultural ",
+        "directionsTitle": "Cómo Llegar",
+        "googleMaps": "Vía Google Maps",
+        "waze": "Vía Waze"
+    }
+}

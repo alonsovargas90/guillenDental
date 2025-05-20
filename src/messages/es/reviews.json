@@ -1,0 +1,38 @@
+{
+    "Reviews": {
+        "title": "Lo que dicen sobre nosotros",
+        "description": "Comentarios reales de nuestros pacientes sobre la atención y profesionalismo de nuestro equipo.",
+        "list": [
+            {
+                "quote": "La primera vez en mis casi 50 años que logro tener una cita odontológica sin dolor!! Cuando la doctora me sugirió poner anestesia para hacer mi limpieza dental, (ya había tenido la experiencia anterior con esta paciente tan nerviosa) le dije que no porque tenía miedo de la aguja 🙈 pero gracias a Dios ella insistió y puedo decir que fue la mejor de las limpiezas dentales que he tenido en mi vida, además de que hizo un trabajo excelente, yo pude estar muy tranquila y ella también 🤲... La doctora es la mejor con su paciencia, no sentí ni un poquito de molestia, es la mejor poniendo la anestesia, ni se siente y pudimos tener el mejor tratamiento 🙌🙌🙌 Gracias gracias gracias 🦷😍",
+                "name": "Nuria Ovares",
+                "date": "abril 2025",
+                "img": "/review/nunria_ovares.jpeg"
+            },
+            {
+                "quote": "Súper delicada con los niños y adultos, pero resalto su paciencia con los chiquitos difíciles 💕",
+                "name": "Paula Saborío Aguilar",
+                "date": "16 feb 2019",
+                "img": "/review/Paula-Saborio-Aguilar.jpeg"
+            },
+            {
+                "quote": "Nos encanta el trato de la Dra. Guillén. Es súper profesional, humana, carismática, amable. Es super dulce con los niños. Ha trabajado conmigo en tratamiento de alineadores y con mi hija de 7 años desde que tenía 5 en ortodoncia preventiva. La recomendamos al 1000%. Si anda en busca de una excelente dentista y especialista en ortodoncia, la Dra Guillén es la mejor 👍🏼 Le damos 5 estrellas 🌟🌟🌟🌟🌟",
+                "name": "Yeime Valverde Vargas",
+                "date": "11 jul 2023",
+                "img": "/review/Yeime-Valverde-Vargas.jpeg"
+            },
+            {
+                "quote": "Tuve una experiencia excelente con mi cirugía dental. Desde el primer momento, el equipo fue increíblemente atento y profesional. Me explicaron todo el procedimiento con claridad, resolvieron todas mis dudas y me hicieron sentir en total confianza. Se nota que tienen mucha experiencia y pasión por lo que hacen.",
+                "name": "Paco Unfried",
+                "date": "abril 2025",
+                "img": "/review/Paco-Unfried.jpeg"
+            },
+            {
+                "quote": "Excelente profesional y trato con los pacientes.",
+                "name": "Mabel Saborío",
+                "date": "22 ene 2020",
+                "img": "/review/Mabel-Saborio.jpeg"
+            }
+        ]
+    }
+}
