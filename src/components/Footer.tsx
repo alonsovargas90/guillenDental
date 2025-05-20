@@ -31,7 +31,7 @@ export default function Footer() {
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 Guillen Dental
                             </Typography>
-                            <Image src="/logo_gray.png" alt="Guillén Dental Care" width={140} height={140} />
+                            <Image src="/logos/logo_gray.png" alt="Guillén Dental Care" width={140} height={140} />
                             <Typography variant="body2" color="white" sx={{ maxWidth: isDesktop ? '250px' : '100%', textAlign: 'center' }} >
                                 {t('description')}
                             </Typography>
@@ -88,7 +88,7 @@ export default function Footer() {
 
                             <Stack gap='15px' flexDirection={'row'}>
                                 <Image
-                                    src="/logo-colegio-cirujanos-dentistas-de-costa-rica.png"
+                                    src="/logos/logo-colegio-cirujanos-dentistas-de-costa-rica.png"
                                     alt="Colegio Dentistas"
                                     width={isMobile ? 80 : 100}
                                     height={isMobile ? 80 : 100}
@@ -97,7 +97,7 @@ export default function Footer() {
                                     }}
                                 />
                                 <Image
-                                    src="/Logo-Essential-Costa-Rica.png"
+                                    src="/logos/Logo-Essential-Costa-Rica.png"
                                     alt="Essential Costa Rica"
                                     width={isMobile ? 80 : 100}
                                     height={isMobile ? 80 : 100}
@@ -108,7 +108,7 @@ export default function Footer() {
                                     }}
                                 />
                                 <Image
-                                    src="/2025-Invisalign-diamond-logo-213x300.png"
+                                    src="/logos/2025-Invisalign-diamond-logo-213x300.png"
                                     alt="Essential Costa Rica"
                                     width={isMobile ? 80 : 100}
                                     height={isMobile ? 80 : 100}
@@ -118,7 +118,7 @@ export default function Footer() {
                                     }}
                                 />
                                 <Image
-                                    src="/ACOP_logo.jpeg"
+                                    src="/logos/ACOP_logo.jpeg"
                                     alt="Essential Costa Rica"
                                     width={isMobile ? 120 : 180}
                                     height={isMobile ? 80 : 100}
