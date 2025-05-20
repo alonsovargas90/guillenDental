@@ -1,25 +1,47 @@
 'use client'
-import Hero from '@/components/hero'
-import HeroContact from '@/components/HeroContact'
-import InvisalignBanner from '@/components/InvisalignBanner'
-import OurTeam from '@/components/OurTeam'
-import Reviews from '@/components/Reviews'
-import Services from '@/components/Services'
-import TopPriority from '@/components/TopPriority'
-import UserCase from '@/components/UserCase'
-import Stack from '@mui/material/Stack'
-import { useTranslations } from 'next-intl'
+
+import { Box, Typography } from '@mui/material'
 
 export default function Home() {
-  const t = useTranslations('hero');
-  return <Stack>
-    <Hero greenTitle={t('greenTitle')} blackTitle={t('blackTitle')} image={'/hero.png'} flipImage backgroundPosition={"0% 20%"}/>
-    <HeroContact />
-    <Services />
-    <TopPriority />
-    <OurTeam />
-    <InvisalignBanner />
-    <UserCase />
-    <Reviews />
-  </Stack>
+
+  return (
+    <Box
+      sx={{
+        minHeight: '100vh',
+        width: '100%',
+        backgroundImage: 'url(/hero.png)',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        position: 'relative',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        color: '#fff',
+      }}
+    >
+      {/* Overlay */}
+      <Box
+        sx={{
+          position: 'absolute',
+          inset: 0,
+          backgroundColor: 'rgba(0, 0, 0, 0.5)', // Semi-transparent black
+          zIndex: 1,
+        }}
+      />
+
+      {/* Centered Content */}
+      <Typography
+        variant="h2"
+        sx={{
+          position: 'relative',
+          zIndex: 2,
+          textAlign: 'center',
+          fontWeight: 700,
+          px: 2,
+        }}
+      >
+        {'Coming Soon'}
+      </Typography>
+    </Box>
+  )
 }
