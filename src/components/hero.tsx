@@ -19,7 +19,7 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
       sx={{
         position: 'relative',
         width: '100%',
-        height: { xs: '250px', md: '500px' },
+        height: { xs: '250px', md: '700px' },
         padding: theme.spacingSystem.sm,
         display: 'flex',
         alignItems: 'center',
@@ -66,13 +66,12 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
         }}
       >
         <Typography
-          variant="h3"
+          variant="h1"
           sx={{
             textAlign: 'left',
             fontFamily: '"Mazzard Soft", sans-serif',
             color: theme.palette.brandGreen?.main,
             fontWeight: 600,
-            fontSize: { xs: '28px', sm: '38px', md: '48px' }
           }}
         >
           {greenTitle}
@@ -83,7 +82,7 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
             color: 'white',
             fontWeight: 400,
             textShadow: '0 1px 3px rgba(0,0,0,0.4)',
-            fontSize: { xs: '18px', sm: '24px', md: '34px' }
+            fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
           }}
         >
           {blackTitle}

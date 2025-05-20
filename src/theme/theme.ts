@@ -1,7 +1,7 @@
 import { createTheme } from '@mui/material/styles';
 import { spacingSystem } from './spacingSystem';
 
-export const theme = createTheme({
+const baseTheme = createTheme({
   palette: {
     mode: 'light',
     primary: {
@@ -47,11 +47,20 @@ export const theme = createTheme({
   },
   shape: { borderRadius: 8 },
   spacingSystem,
+  breakpoints: {
+    values: {
+      xs: 0,
+      sm: 600,
+      md: 900,
+      lg: 1200,
+      xl: 1536,
+    },
+  },
   typography: {
     fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
 
     h1: {
-      fontSize: '3.75rem',  // 60px
+      fontSize: '60px',  // 60px
       lineHeight: 1.2,
       fontWeight: 700,
     },
@@ -125,3 +134,128 @@ export const theme = createTheme({
     },
   }
 });
+
+baseTheme.typography = {
+  ...baseTheme.typography,
+  fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+  h1: {
+    fontSize: '40px', // mobile
+    lineHeight: 1.2,
+    fontWeight: 700,
+    fontFamily: baseTheme.typography.fontFamily,
+    [baseTheme.breakpoints.up('sm')]: {
+      fontSize: '48px', // +8
+    },
+    [baseTheme.breakpoints.up('md')]: {
+      fontSize: '60px', // +12
+    },
+  },
+  h2: {
+    fontSize: '32px', // mobile
+    lineHeight: 1.25,
+    fontWeight: 700,
+    fontFamily: baseTheme.typography.fontFamily,
+    [baseTheme.breakpoints.up('sm')]: {
+      fontSize: '40px',
+    },
+    [baseTheme.breakpoints.up('md')]: {
+      fontSize: '48px',
+    },
+  },
+  h3: {
+    fontSize: '24px',
+    lineHeight: 1.3,
+    fontWeight: 600,
+    fontFamily: baseTheme.typography.fontFamily,
+    [baseTheme.breakpoints.up('sm')]: {
+      fontSize: '32px',
+    },
+    [baseTheme.breakpoints.up('md')]: {
+      fontSize: '40px',
+    },
+  },
+  h4: {
+    fontSize: '20px',
+    lineHeight: 1.35,
+    fontWeight: 600,
+    fontFamily: baseTheme.typography.fontFamily,
+    [baseTheme.breakpoints.up('sm')]: {
+      fontSize: '24px',
+    },
+    [baseTheme.breakpoints.up('md')]: {
+      fontSize: '32px',
+    },
+  },
+  h5: {
+    fontSize: '16px',
+    lineHeight: 1.4,
+    fontWeight: 500,
+    fontFamily: baseTheme.typography.fontFamily,
+    [baseTheme.breakpoints.up('sm')]: {
+      fontSize: '20px',
+    },
+    [baseTheme.breakpoints.up('md')]: {
+      fontSize: '24px',
+    },
+  },
+  h6: {
+    fontSize: '14px',
+    lineHeight: 1.5,
+    fontWeight: 500,
+    fontFamily: baseTheme.typography.fontFamily,
+    [baseTheme.breakpoints.up('sm')]: {
+      fontSize: '16px',
+    },
+    [baseTheme.breakpoints.up('md')]: {
+      fontSize: '20px',
+    },
+  },
+
+  subtitle1: {
+    fontSize: '18px',
+    lineHeight: 1.5,
+    fontWeight: 400,
+    fontFamily: baseTheme.typography.fontFamily,
+  },
+  subtitle2: {
+    fontSize: '16px',
+    lineHeight: 1.5,
+    fontWeight: 400,
+    fontFamily: baseTheme.typography.fontFamily,
+  },
+  body1: {
+    fontSize: '16px',
+    lineHeight: 1.5,
+    fontWeight: 400,
+    fontFamily: baseTheme.typography.fontFamily,
+  },
+  body2: {
+    fontSize: '14px',
+    lineHeight: 1.43,
+    fontWeight: 400,
+    fontFamily: baseTheme.typography.fontFamily,
+  },
+  button: {
+    fontSize: '14px',
+    fontWeight: 600,
+    textTransform: 'none',
+    lineHeight: 1.5,
+    fontFamily: baseTheme.typography.fontFamily,
+  },
+  caption: {
+    fontSize: '12px',
+    lineHeight: 1.35,
+    fontWeight: 400,
+    fontFamily: baseTheme.typography.fontFamily,
+  },
+  overline: {
+    fontSize: '12px',
+    lineHeight: 2,
+    fontWeight: 600,
+    textTransform: 'uppercase',
+    letterSpacing: '0.08em',
+    fontFamily: baseTheme.typography.fontFamily,
+  },
+};
+
+export const theme = baseTheme;
