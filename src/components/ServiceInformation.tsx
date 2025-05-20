@@ -25,7 +25,7 @@ export default function ServiceInformation({ serviceInfo }: ServiceInfoProps) {
         {/* Top Section: Introduction + Images */}
         <Grid container spacing={4} alignItems="stretch">
           {/* Text column */}
-          <Grid item size={{ xs: 12, md: 4 }}>
+          <Grid size={{ xs: 12, md: 4 }}>
             <Box height="100%" display="flex" flexDirection="column" justifyContent="center">
               <Typography variant="h2" fontWeight={700} gutterBottom>
                 {serviceInfo.title}
@@ -37,7 +37,7 @@ export default function ServiceInformation({ serviceInfo }: ServiceInfoProps) {
           </Grid>
 
           {/* Image column */}
-          <Grid item size={{ xs: 12, md: 8 }}>
+          <Grid size={{ xs: 12, md: 8 }}>
             <Box
               sx={{
                 display: 'flex',

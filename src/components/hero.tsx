@@ -9,9 +9,10 @@ interface HeroProps {
   flipImage?: boolean;
   backgroundPosition?: string;
   backgroundSize?: string;
+  xl?: boolean;
 }
 
-export default function Hero({ greenTitle, blackTitle, image, backgroundPosition, backgroundSize, flipImage = false }: HeroProps) {
+export default function Hero({ greenTitle, blackTitle, image, backgroundPosition, backgroundSize, flipImage = false, xl= false }: HeroProps) {
   const theme = useTheme()
 
   return (
@@ -19,7 +20,7 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
       sx={{
         position: 'relative',
         width: '100%',
-        height: { xs: '250px', md: '700px' },
+        height: { xs: '250px', md: xl? '700px' : '500px' },
         padding: theme.spacingSystem.sm,
         display: 'flex',
         alignItems: 'center',
@@ -50,7 +51,6 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
           position: 'absolute',
           inset: 0,
           backgroundColor: 'rgba(0, 0, 0, 0.5)',
-          //backgroundColor: 'rgba(130, 155, 87, 0.5)',
           zIndex: 1
         }}
       />
