@@ -20,7 +20,7 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
         position: 'relative',
         width: '100%',
         height: { xs: '250px', md: '500px' },
-        padding: 8,
+        padding: theme.spacingSystem.sm,
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'left',
