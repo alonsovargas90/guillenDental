@@ -1,4 +1,4 @@
-export const CONTACTUS_EMAIL = 'contact@guillenDentalCare.com'
+export const CONTACTUS_EMAIL = 'info@guillendentalcare.com'
 export const FIXED_NUMBER = '+506 22731718'
 export const WHATSUP_NUMBER = '+506 87170841'
 export const WHATSUP_NUMBER_LINK = 'https://wa.me/50687170841'

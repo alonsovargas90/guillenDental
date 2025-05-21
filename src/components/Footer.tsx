@@ -59,8 +59,61 @@ export default function Footer() {
                     {/* Column 3: Social + Logos */}
                     <Grid size={{ xs: 12, md: 4 }}>
                         <Stack spacing={2} justifyContent='center' alignItems='center'>
+                            <Stack gap='15px' flexDirection={'row'}>
+                                <Image
+                                    src="/logos/logo-colegio-cirujanos-dentistas-de-costa-rica.png"
+                                    alt="Colegio Dentistas"
+                                    width={isMobile ? 80 : 80}
+                                    height={isMobile ? 80 : 80}
+                                    style={{
+                                        borderRadius: '100%'
+                                    }}
+                                />
+                                <Image
+                                    src="/logos/Logo-Essential-Costa-Rica.png"
+                                    alt="Essential Costa Rica"
+                                    width={isMobile ? 80 : 80}
+                                    height={isMobile ? 80 : 80}
+                                    style={{
+                                        padding: 5,
+                                        background: 'white',
+                                        borderRadius: '100%'
+                                    }}
+                                />
+                                <Image
+                                    src="/logos/2025-Invisalign-diamond-logo-213x300.png"
+                                    alt="Essential Costa Rica"
+                                    width={isMobile ? 80 : 80}
+                                    height={isMobile ? 80 : 100}
+                                    style={{
+                                        padding: 5,
+                                        background: 'white',
+                                    }}
+                                />
+                                <Image
+                                    src="/ACOP_logo.jpeg"
+                                    alt="Essential Costa Rica"
+                                    width={isMobile ? 120 : 160}
+                                    height={isMobile ? 80 : 100}
+                                    style={{
+                                        padding: 5,
+                                        background: 'white',
+                                    }}
+                                />
+                            </Stack>
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 {t('socialTitle')}
+                            </Typography>
+                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.main} mt={2}>
+                                <MuiLink
+                                    href="https://www.dentalimplantscr.com/privacy-policy/"
+                                    target="_blank"
+                                    underline="hover"
+                                    color={theme.palette.brandTeal.contrastText}
+                                    fontWeight="bold"
+                                >
+                                    {t('privacy')}
+                                </MuiLink>
                             </Typography>
                             <Stack direction="row" spacing={2}>
                                 <IconButton href={FACEBOOK_LINK} target="https://www.facebook.com/guillen.dental.care/" sx={{ backgroundColor: theme.palette.brandTeal.contrastText }}>
@@ -72,61 +125,6 @@ export default function Footer() {
                                 <IconButton href={TIKTOK_LINK} target="https://www.tiktok.com/@ortodoncia.guillendental" sx={{ backgroundColor: theme.palette.brandTeal.contrastText }}>
                                     <TiktokLogo size={22} color={theme.palette.brandGreen.main} />
                                 </IconButton>
-                            </Stack>
-
-                            <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.main} mt={2}>
-                                <MuiLink
-                                    href="https://www.dentalimplantscr.com/privacy-policy/"
-                                    target="_blank"
-                                    underline="hover"
-                                    color={theme.palette.brandTeal.contrastText}
-                                    fontWeight="bold"
-                                >
-                                    {t('privacy')}
-                                </MuiLink>
-                            </Typography>
-
-                            <Stack gap='15px' flexDirection={'row'}>
-                                <Image
-                                    src="/logos/logo-colegio-cirujanos-dentistas-de-costa-rica.png"
-                                    alt="Colegio Dentistas"
-                                    width={isMobile ? 80 : 100}
-                                    height={isMobile ? 80 : 100}
-                                    style={{
-                                        borderRadius: '100%'
-                                    }}
-                                />
-                                <Image
-                                    src="/logos/Logo-Essential-Costa-Rica.png"
-                                    alt="Essential Costa Rica"
-                                    width={isMobile ? 80 : 100}
-                                    height={isMobile ? 80 : 100}
-                                    style={{
-                                        padding: 5,
-                                        background: 'white',
-                                        borderRadius: '100%'
-                                    }}
-                                />
-                                <Image
-                                    src="/logos/2025-Invisalign-diamond-logo-213x300.png"
-                                    alt="Essential Costa Rica"
-                                    width={isMobile ? 80 : 100}
-                                    height={isMobile ? 80 : 100}
-                                    style={{
-                                        padding: 5,
-                                        background: 'white',
-                                    }}
-                                />
-                                <Image
-                                    src="/logos/ACOP_logo.jpeg"
-                                    alt="Essential Costa Rica"
-                                    width={isMobile ? 120 : 180}
-                                    height={isMobile ? 80 : 100}
-                                    style={{
-                                        padding: 5,
-                                        background: 'white',
-                                    }}
-                                />
                             </Stack>
                         </Stack>
                     </Grid>

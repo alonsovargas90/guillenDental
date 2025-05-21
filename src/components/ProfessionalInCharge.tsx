@@ -68,19 +68,10 @@ export default function ProfessionalInCharge({
               variant="subtitle1"
               fontWeight="medium"
               color="text.secondary"
-              sx={{ fontSize: { xs: '1rem', md: '1.25rem' } }}
+              sx={{ fontSize: { xs: '1rem', md: '1.25rem' }, textAlign: 'justify' }}
             >
               {title}
             </Typography>
-
-            <Typography
-              variant="body1"
-              color="text.primary"
-              sx={{ fontSize: { xs: '0.95rem', md: '1rem' } }}
-            >
-              {description}
-            </Typography>
-
             {Array.isArray(longDescription) ? (
               longDescription.map((paragraph, idx) => (
                 <Typography
@@ -88,7 +79,7 @@ export default function ProfessionalInCharge({
                   variant="body2"
                   color="text.secondary"
                   paragraph
-                  sx={{ whiteSpace: 'pre-line', fontSize: { xs: '0.9rem', md: '1rem' } }}
+                  sx={{ whiteSpace: 'pre-line', fontSize: { xs: '0.9rem', md: '1rem' }, textAlign: 'justify'}}
                 >
                   {paragraph}
                 </Typography>
@@ -97,7 +88,7 @@ export default function ProfessionalInCharge({
               <Typography
                 variant="body2"
                 color="text.secondary"
-                sx={{ whiteSpace: 'pre-line', fontSize: { xs: '0.9rem', md: '1rem' } }}
+                sx={{ whiteSpace: 'pre-line', fontSize: { xs: '0.9rem', md: '1rem' }, textAlign: 'justify' }}
               >
                 {longDescription}
               </Typography>

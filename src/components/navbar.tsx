@@ -77,7 +77,7 @@ export default function Navbar({ locale }: NavbarProps) {
         boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)'
       }}
     >
-      <Toolbar sx={{ justifyContent: 'space-between' }}>
+      <Toolbar sx={{ justifyContent: 'space-between', alignItems:'center' }}>
         {/* Logo */}
         <Link href={`/${locale}`} style={{ display: 'flex', alignItems: 'center' }}>
           <Image
@@ -91,6 +91,69 @@ export default function Navbar({ locale }: NavbarProps) {
 
         {isDesktop ? (
           <Box sx={{ display: 'flex', gap: { xs: 1, md: 2 } }}>
+              {/* Dropdown de servicios */}
+            <Box onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
+              <Button
+                onClick={handleClick}
+                sx={{
+                  color: theme.palette.text.primary,
+                  fontWeight: 500,
+                  textTransform: 'none',
+                  fontSize: { xs: '0.9rem', md: '1rem' },
+                  '&:hover': {
+                    backgroundColor: theme.palette.brandTeal?.main,
+                    color: theme.palette.common.white
+                  }
+                }}
+              >
+                {t('nav.services')}
+              </Button>
+              <Menu
+                disablePortal
+                anchorEl={anchorEl}
+                open={open}
+                onClose={handleClose}
+                TransitionComponent={Fade}
+                elevation={4}
+                slotProps={{
+                  paper: {
+                    sx: {
+                      zIndex: 2100,
+                      borderRadius: 2,
+                      borderTopLeftRadius: 0,
+                      borderTopRightRadius: 0,
+                      minWidth: 220,
+                      boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.1)'
+                    }
+                  },
+                  list: {
+                    sx: { padding: 0, zIndex: 2100 }
+                  }
+                }}
+              >
+                {services.map((service, index) => (
+                  <MenuItem
+                    key={index}
+                    component={Link}
+                    href={service.link}
+                    onClick={handleClose}
+                    sx={{
+                      textAlign: 'center',
+                      paddingY: 2.5,
+                      paddingX: 2.5,
+                      fontWeight: 500,
+                      '&:hover': {
+                        backgroundColor: theme.palette.brandTeal?.main,
+                        color: theme.palette.common.white
+                      },
+                      zIndex: 2100,
+                    }}
+                  >
+                    {service.service}
+                  </MenuItem>
+                ))}
+              </Menu>
+            </Box>
             {menuItems.map((item) => (
               <Button
                 key={item.href}
@@ -112,65 +175,6 @@ export default function Navbar({ locale }: NavbarProps) {
                 {item.label}
               </Button>
             ))}
-
-            {/* Dropdown de servicios */}
-            <Box onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
-              <Button
-                onClick={handleClick}
-                sx={{
-                  color: theme.palette.text.primary,
-                  fontWeight: 500,
-                  textTransform: 'none',
-                  fontSize: { xs: '0.9rem', md: '1rem' },
-                  '&:hover': {
-                    backgroundColor: theme.palette.brandTeal?.main,
-                    color: theme.palette.common.white
-                  }
-                }}
-              >
-                {t('nav.services')}
-              </Button>
-              <Menu
-                anchorEl={anchorEl}
-                open={open}
-                onClose={handleClose}
-                TransitionComponent={Fade}
-                elevation={3}
-                slotProps={{
-                  paper: {
-                    sx: {
-                      borderRadius: 2,
-                      minWidth: 220,
-                      boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.1)'
-                    }
-                  },
-                  list: {
-                    sx: { padding: 0 }
-                  }
-                }}
-              >
-                {services.map((service, index) => (
-                  <MenuItem
-                    key={index}
-                    component={Link}
-                    href={service.link}
-                    onClick={handleClose}
-                    sx={{
-                      paddingY: 2.5,
-                      paddingX: 2.5,
-                      fontSize: { xs: '0.9rem', md: '1.2rem' },
-                      fontWeight: 500,
-                      '&:hover': {
-                        backgroundColor: theme.palette.brandTeal?.main,
-                        color: theme.palette.common.white
-                      }
-                    }}
-                  >
-                    {service.service}
-                  </MenuItem>
-                ))}
-              </Menu>
-            </Box>
             {languageSwitcher}
           </Box>
         ) : (

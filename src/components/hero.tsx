@@ -72,6 +72,7 @@ export default function Hero({ greenTitle, blackTitle, image, backgroundPosition
             fontFamily: '"Mazzard Soft", sans-serif',
             color: theme.palette.brandGreen?.main,
             fontWeight: 600,
+            maxWidth: {xs: '65%', md: '100%'}
           }}
         >
           {greenTitle}
