@@ -24,19 +24,19 @@ export default function Services() {
   }[];
 
   return (
-    <Box py={8} px={2} bgcolor={'#BEBEBC'}>
+    <Box py={8} px={2}>
       {/* Section Header */}
       <Stack spacing={2} alignItems="center" textAlign="center" mb={6}>
-        <Typography variant="h3" fontWeight="bold" color={theme.palette.common.white} fontSize={{ xs: '38px', md: '48px' }} >
+        <Typography variant="h3" fontWeight="bold" fontSize={{ xs: '38px', md: '48px' }} >
           {t('title')}
         </Typography>
-        <Typography variant="h6" color={theme.palette.common.white} width={'80%'} fontSize={{ xs: '16px', md: '20px' }}>
+        <Typography variant="h6" width={'80%'} fontSize={{ xs: '16px', md: '20px' }}>
          {t('subtitle')}
         </Typography>
         <Button
           component={Link}
           href={`/contact`}
-          variant="text"
+          variant="contained"
         >
           {t('cta')}
         </Button>
@@ -79,7 +79,7 @@ export default function Services() {
                   }
                 }}
               >
-                <Box display="flex" justifyContent="center" mb={2}>
+                <Box display="flex" justifyContent="center" sx={{ height: 90}}>
                   <Image
                     src={item.img}
                     alt={item.service}
@@ -101,6 +101,7 @@ export default function Services() {
                     fontWeight="bold"
                     color={theme.palette.brandTeal.main}
                     gutterBottom
+                    sx={{ marginBottom: 0}}
                   >
                     {item.service}
                   </Typography>
@@ -108,7 +109,8 @@ export default function Services() {
                     variant="body2"
                     color={theme.palette.text.primary}
                     sx={{
-                      minHeight: 48,
+                      Height: 50,
+                      verticalAlign: 'top',
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center'
