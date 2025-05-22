@@ -14,7 +14,6 @@ export interface ProfessionalInChargeProps {
   image: string
   name: string
   title: string
-  description: string;
   invert?: boolean;
   longDescription: string[];
   socialLinks?: {

@@ -41,7 +41,6 @@ const OurTeamPage = () => {
             image={`/out-team/${member.img}.jpg`}
             name={member.name}
             title={member.specialty}
-            description={member.description}
             longDescription={member.longDescription}
             invert={i % 2 !== 0}
             socialLinks={{

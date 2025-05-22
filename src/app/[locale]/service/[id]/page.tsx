@@ -66,7 +66,6 @@ const ServicePage = () => {
             image={`/out-team/${specialistData.img}.jpg`}
             name={specialistData.name}
             title={specialistData.specialty}
-            description={specialistData.description}
             longDescription={specialistData.longDescription}
             socialLinks={{
               instagram: specialistData.instagram,

@@ -7,7 +7,6 @@ export default function ProfessionalInCharge({
   image,
   name,
   title,
-  description,
   longDescription,
   invert = false,
   socialLinks
