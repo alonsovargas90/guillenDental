@@ -31,7 +31,7 @@ export default function Footer() {
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 Guillen Dental
                             </Typography>
-                            <Image src="/logos/logo_gray.png" alt="Guillén Dental Care" width={140} height={140} />
+                            <Image src="/logos/logo_gray.png" alt="Guillén Dental Care" width={120} height={140} />
                             <Typography variant="body2" color="white" sx={{ maxWidth: isDesktop ? '250px' : '100%', textAlign: 'center' }} >
                                 {t('description')}
                             </Typography>

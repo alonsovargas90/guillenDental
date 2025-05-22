@@ -11,7 +11,7 @@ const baseTheme = createTheme({
       main: '#708D7B', // Teal from logo
     },
     brandYellow: {
-      main: '#E3CE59',
+      main: '#C0BB55',
       contrastText: '#000',
     },
     brandOlive: {
@@ -23,11 +23,11 @@ const baseTheme = createTheme({
       contrastText: '#fff',
     },
     brandGreen: {
-      main: '#829B57',
+      main: '#839c58',
       contrastText: '#fff',
     },
     brandTeal: {
-      main: '#708D7B',
+      main: '#718E7C',
       contrastText: '#fff',
     },
     invisalignBlue: {

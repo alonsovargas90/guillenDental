@@ -8,7 +8,7 @@
             "backgroundPosition": "0% 20%",
             "backgroundSize": "cover",
             "specialist": "Dra. Andrea Guillen Saborio",
-            "image": "/services/orthodoncy.svg"
+            "image": "/services/Orthodoncy.png"
         },
         "cosmetic-dentistry": {
             "title": "Cosmetic Dentistry",
@@ -18,7 +18,7 @@
             "backgroundPosition": "0% 30%",
             "backgroundSize": "cover",
             "specialist": "Dra. Andrea Guillen Saborio",
-            "image": "/services/Cosmetic Dentistry.png"
+            "image": "/services/Cosmetic.png"
         },
         "periatric-dentristry": {
             "title": "Pediatric Dentistry",
@@ -28,7 +28,7 @@
             "backgroundPosition": "100% 40%",
             "backgroundSize": "cover",
             "specialist": "Dra. María Poveda",
-            "image": "/services/periatric_dentristry.png"
+            "image": "/services/Pediatric.png"
         },
         "dental-surgery": {
             "title": "Dental Surgery",
@@ -38,7 +38,7 @@
             "backgroundSize": "cover",
             "specialist": "Dra. Andrea Guillen Saborio",
             "heroImage": "/services/dental-surgery_hero.jpeg",
-            "image": "/services/dental-surgery.svg"
+            "image": "/services/Surgery.png"
         },
         "periodontics": {
             "title": "Periodontics",
@@ -48,7 +48,7 @@
             "backgroundSize": "cover",
             "specialist": "Dra. Andrea Guillen Saborio",
             "heroImage": "/services/periodoncy_hero.jpeg",
-            "image": "/services/periodoncy.png"
+            "image": "/services/Periodoncy.png"
         },
         "dental-implants": {
             "title": "Dental Implants",
@@ -58,7 +58,17 @@
             "backgroundSize": "cover",
             "specialist": "Dra. Andrea Guillen Saborio",
             "heroImage": "/services/dental-geriatics_hero.jpeg",
-            "image": "/services/Dental Implants.svg"
+            "image": "/services/Implant.png"
+        },
+        "cleanings": {
+            "title": "Dental Cleanings",
+            "subtitle": "LoremUpsum",
+            "description": "Cleans teeth and gums from plaque and decay.",
+            "backgroundPosition": "100% 30%",
+            "backgroundSize": "cover",
+            "specialist": "Dra. Andrea Guillen Saborio",
+            "heroImage": "/services/dental-geriatics_hero.jpeg",
+            "image": "/services/Cleaning.png"
         },
         "oral-biopsies": {
             "title": "Oral Biopsies",
@@ -68,7 +78,7 @@
             "backgroundSize": "cover",
             "specialist": "Dra. Andrea Guillen Saborio",
             "heroImage": "/services/laboratorio-dental_hero.jpg",
-            "image": "/services/biopsias.png"
+            "image": "/services/Biopsias.png"
         }
     }
 }
