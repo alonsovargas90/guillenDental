@@ -31,7 +31,7 @@
             {
                 "service": "Periodontics",
                 "date": "Treat gum disease effectively.Promote strong gums and teeth.",
-                "img": "/services/Periodoncy.png",
+                "img": "/services/Periodoncy2.png",
                 "link": "/en/service/periodontics"
             },
             {
@@ -49,7 +49,7 @@
             {
                 "service": "Oral Biopsies",
                 "date": "Minimally invasive diagnosis.Clear results with expert care.",
-                "img": "/services/Biopsias.png",
+                "img": "/services/Biopsias2.png",
                 "link": "/en/service/oral-biopsies"
             }
         ]

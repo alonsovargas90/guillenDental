@@ -48,7 +48,7 @@
             "backgroundPosition": "100% 20%",
             "backgroundSize": "contain",
             "specialist": "Dra. Andrea Guillen Saborio",
-            "image": "/services/periodoncy.png"
+            "image": "/services/Periodoncy2.png"
         },
         "dental-implants": {
             "title": "Implantes Dentales",
@@ -68,7 +68,7 @@
             "backgroundPosition": "100% 20%",
             "backgroundSize": "contain",
             "specialist": "Dra. Andrea Guillen Saborio",
-            "image": "/services/biopsias.png"
+            "image": "/services/Biopsias2.png"
         }
     }
 }

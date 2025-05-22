@@ -31,7 +31,7 @@
       {
         "service": "Periodoncia",
         "date": "Tratamientos para encías. Salud y firmeza dental.",
-        "img": "/services/Periodoncy.png",
+        "img": "/services/Periodoncy2.png",
         "link": "/es/service/periodontics"
       },
       {
@@ -49,7 +49,7 @@
       {
         "service": "Biopsias Orales",
         "date": "Diagnóstico claro. Mínima molestia.",
-        "img": "/services/Biopsias.png",
+        "img": "/services/Biopsias2.png",
         "link": "/es/service/oral-biopsies"
       }
     ]
