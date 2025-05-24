@@ -46,7 +46,8 @@ export default function Navbar({ locale }: NavbarProps) {
   const menuItems = [
     { label: t('nav.about'), href: `/${locale}/contact` },
     { label: t('nav.team'), href: `/${locale}/team` },
-    { label: t('nav.beforeAfter'), href: `/${locale}/before-after` }
+    { label: t('nav.beforeAfter'), href: `/${locale}/before-after` },
+     { label: t('nav.medicalTourism'), href: `/${locale}/medical-tourisim` }
   ];
   const languageSwitcher = (
     <Box sx={{ display: 'flex', gap: 1, alignItems: 'center' }}>

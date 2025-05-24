@@ -17,7 +17,8 @@ export default getRequestConfig(async ({ locale }) => {
     'topPriority',
     'userCase',
     'serviceInfo',
-    'faq'
+    'faq',
+    'medicalTourism',
   ];
 
   const messages = Object.assign(
