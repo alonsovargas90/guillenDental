@@ -1,0 +1,29 @@
+{
+  "faq": {
+    "sectionLabel": "Preguntas Frecuentes",
+    "title": "¿Necesitas ayuda?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+    "items": [
+{
+        "question": "¿Qué es Invisalign y cómo funciona?",
+        "answer": "Invisalign utiliza alineadores transparentes para mover tus dientes gradualmente. Son casi invisibles y se pueden quitar para mayor comodidad."
+      },
+      {
+        "question": "¿Soy candidato para Invisalign?",
+        "answer": "La mayoría de adolescentes y adultos con desalineación leve o moderada califican. Una consulta con nuestros especialistas lo confirmará."
+      },
+      {
+        "question": "¿Cuánto dura el tratamiento con Invisalign?",
+        "answer": "La duración varía, pero muchos pacientes ven resultados entre 6 y 18 meses según el caso."
+      },
+      {
+        "question": "¿Cuánto cuesta una consulta?",
+        "answer": "Las consultas iniciales suelen ser gratuitas o de bajo costo. Contáctanos para conocer promociones y coberturas actuales."
+      },
+      {
+        "question": "¿El tratamiento con Invisalign está cubierto por el seguro?",
+        "answer": "Algunos seguros dentales cubren Invisalign como los brackets. Podemos ayudarte a verificar tu cobertura y ofrecer opciones de financiamiento."
+      }
+    ]
+  }
+}

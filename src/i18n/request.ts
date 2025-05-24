@@ -16,7 +16,8 @@ export default getRequestConfig(async ({ locale }) => {
     'invisalignBanner',
     'topPriority',
     'userCase',
-    'serviceInfo'
+    'serviceInfo',
+    'faq'
   ];
 
   const messages = Object.assign(

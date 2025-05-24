@@ -1,136 +1,139 @@
 'use client'
 
-import { Box, Typography, Link as MuiLink, Paper, Stack, useTheme } from '@mui/material'
-import { Email, WhatsApp, Room, Directions } from '@mui/icons-material'
-import { useTranslations } from 'next-intl'
-import { CONTACTUS_EMAIL, MAPS_DIRECTION, WAZE_DIRETION, WHATSUP_NUMBER, WHATSUP_NUMBER_LINK } from '@/constants/constants';
-import { useState } from 'react';
+import {
+    Box,
+    Typography,
+    Link as MuiLink,
+    Paper,
+    Stack,
+    useTheme,
+    Grid
+} from '@mui/material';
+import { Email, WhatsApp, Room, Directions } from '@mui/icons-material';
+import { useTranslations } from 'next-intl';
+import {
+    CONTACTUS_EMAIL,
+    MAPS_DIRECTION,
+    WAZE_DIRETION,
+    WHATSUP_NUMBER,
+    WHATSUP_NUMBER_LINK
+} from '@/constants/constants';
 
 export default function HeroContact() {
     const t = useTranslations('heroContact');
     const theme = useTheme();
+
     const items = [
         {
-            icon: <Email fontSize="large" />,
+            icon: <Email fontSize="medium" />,
             title: t('emailTitle'),
-            text: CONTACTUS_EMAIL,
-            link: `mailto:${CONTACTUS_EMAIL}`,
+            content: (
+                <Typography variant="body2" mt={0.5} color={theme.palette.text.primary}>
+                    <MuiLink href={`mailto:${CONTACTUS_EMAIL}`} underline="hover">
+                        {CONTACTUS_EMAIL}
+                    </MuiLink>
+                </Typography>
+
+            )
         },
         {
-            icon: <WhatsApp fontSize="large" />,
+            icon: <WhatsApp fontSize="medium" />,
             title: t('whatsappTitle'),
-            text: WHATSUP_NUMBER,
-            schedule: t('whatsappSchedule'),
-            link: WHATSUP_NUMBER_LINK,
+            content: (
+                <Box >
+                    <Typography variant="body2" mt={0.5} color={theme.palette.text.primary}>
+                        <MuiLink href={WHATSUP_NUMBER_LINK} underline="hover">
+                            {WHATSUP_NUMBER}
+                        </MuiLink>
+                    </Typography>
+                    <Typography variant="body2" mt={0.5} color={theme.palette.text.primary}>
+                        {t('whatsappSchedule')}
+                    </Typography>
+                </Box>
+            )
         },
         {
-            icon: <Room fontSize="large" />,
+            icon: <Room fontSize="medium" />,
             title: t('addressTitle'),
-            text: t('addressText'),
-            link: 'https://maps.app.goo.gl/MXfk7bc337uJjhjj6',
+            content: t('addressText')
         },
         {
-            icon: <Directions fontSize="large" />,
+            icon: <Directions fontSize="medium" />,
             title: t('directionsTitle'),
-            text: (
-                <>
-                    <MuiLink href={MAPS_DIRECTION} target="_blank">
-                        {t('googleMaps')}
-                    </MuiLink>
-                    <br />
-                    <MuiLink href={WAZE_DIRETION} target="_blank">
-                        {t('waze')}
-                    </MuiLink>
-                </>
-            ),
+            content: (
+                <Stack spacing={0.5}>
+                    <Typography variant="body2" color={theme.palette.text.primary}>
+                        <MuiLink href={MAPS_DIRECTION} target="_blank" underline="hover">
+                            {t('googleMaps')}
+                        </MuiLink>
+                        <MuiLink href={WAZE_DIRETION} target="_blank" underline="hover">
+                            {t('waze')}
+                        </MuiLink>
+                    </Typography>
+
+                </Stack>
+            )
         }
-    ]
-    const [hoverIndex, setHoverIndex] = useState<number>(-1);
+    ];
 
     return (
-        <Box sx={{
-            py: { xs: 3, md: 6 },
-            backgroundColor: '#fff',
-            position: 'relative',
-            zIndex: 999,
-        }}>
-            <Stack
-                direction={{ md: 'column', lg: 'row' }}
+        <Box sx={{ py: { xs: 4, md: 6 }, px: 2, bgcolor: '#fff', zIndex: 100 }}>
+            <Grid
+                container
+                spacing={4}
                 justifyContent="center"
-                alignItems="stretch"
-                gap={'20px'}
                 sx={{
+                    bgcolor: theme.palette.brandTeal.main,
+                    borderRadius: 3,
+                    px: { xs: 2, md: 6 },
+                    py: { xs: 4, md: 6 },
                     width: '90%',
-                    padding: { xs: '20px', md: '40px' },
-                    borderRadius: '4px',
-                    background: theme.palette.brandTeal.main,
-                    margin: { xs: '0px auto 0', md: '-100px auto 0' },
+                    margin: { xs: '0 auto', md: '-100px auto 0' },
                     boxShadow: '0 10px 20px rgba(0, 0, 0, 0.15)'
                 }}
             >
                 {items.map((item, index) => (
-                    <Box
-                        key={index}
-                        sx={{
-                            flex: 1,
-                            display: 'flex',
-                            backgroundColor: '#F2F0EF',
-                            flexDirection: 'column',
-                            transition: 'transform 0.3s ease',
-                            transform: hoverIndex === index ? 'scale(1.03)' : 'scale(1)',
-                        }}
-                        onMouseEnter={() => setHoverIndex(index)}
-                        onMouseLeave={() => setHoverIndex(-1)}
-                    >
+                    <Grid size={{ xs: 12, sm: 6, md: 3 }} key={index}>
                         <Paper
                             elevation={3}
                             sx={{
-                                p: { xs: 1, md: 3 },
-                                height: '100%',
+                                p: 3,
                                 textAlign: 'center',
-                                backgroundColor: 'rgba(37,37,37,0.06)',
-                                display: 'flex',
-                                flexDirection: 'column',
-                                justifyContent: 'center',
-                                flex: 1,
+                                borderRadius: 3,
+                                height: '100%',
+                                transition: 'all 0.3s',
+                                backgroundColor: '#F2F0EF',
+                                '&:hover': {
+                                    transform: 'scale(1.03)',
+                                    boxShadow: `0 6px 24px ${theme.palette.brandOlive}`
+                                }
                             }}
                         >
-                            <Box mb={2} color={theme.palette.brandTeal.main}>
+                            <Box
+                                sx={{
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    justifyContent: 'center',
+                                    width: 48,
+                                    height: 48,
+                                    borderRadius: '50%',
+                                    backgroundColor: theme.palette.brandTeal?.main,
+                                    color: '#fff',
+                                    mb: 2
+                                }}
+                            >
                                 {item.icon}
                             </Box>
-                            <Typography
-                                variant="h6"
-                                gutterBottom
-                                color={theme.palette.brandTeal.main}
-                            >
+                            <Typography variant="h6" fontWeight="bold" mb={1} color={theme.palette.brandTeal.main}>
                                 {item.title}
                             </Typography>
-                            <Typography
-                                variant="body2"
-                                component="div"
-                                color={theme.palette.brandGreen.main}
-                                minHeight={{ xs: '50px', md: '72px' }}
-                            >
-                                {typeof item.text === 'string' ? (
-                                    <MuiLink href={item.link} target="_blank" underline="hover" color="inherit">
-                                        <Typography>{item.text}</Typography>
-                                    </MuiLink>
-                                ) : (
-                                    item.text
-                                )}
-                                <Typography
-                                    sx={{
-                                        margin: '0 auto',
-                                        maxWidth: '60%',
-                                    }}
-                                >
-                                    {item.schedule ? item.schedule : null}
-                                </Typography>
-                            </Typography>
+                            <Box>
+                                {item.content}
+                            </Box>
                         </Paper>
-                    </Box>
+                    </Grid>
                 ))}
-            </Stack>
+            </Grid>
         </Box>
-    )
+    );
 }

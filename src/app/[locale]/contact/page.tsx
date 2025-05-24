@@ -1,5 +1,6 @@
 'use client'
 
+import FAQSection from '@/components/FAQ'
 import Hero from '@/components/hero'
 import HeroContact from '@/components/HeroContact'
 import InfoSection from '@/components/InfoSection'
@@ -82,8 +83,10 @@ export default function Home() {
           leftToRight={false}
         />
       </Container>
-
       <InvisalignBanner />
+      <Container sx={{ px: { xs: 2, md: 0 }, m: '0 auto !important' }}>
+        <FAQSection />
+      </Container>
       <MapSection />
     </Stack>
   );
