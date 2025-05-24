@@ -56,8 +56,11 @@ export default function MedicalTourismPage() {
     <Box py={{ xs: 6, md: 10 }} px={2} bgcolor={theme.palette.background.default}>
       <Container maxWidth="lg">
         <Stack spacing={4} textAlign="center" alignItems="center" mb={8}>
-          <Typography variant="overline" color={theme.palette.brandGray.main}>
+          <Typography variant="h1" color={theme.palette.brandGreen.main}>
             {t('title')}
+          </Typography>
+           <Typography variant="h3" color={theme.palette.brandGreen.main}>
+            {t('subtitle')}
           </Typography>
           <Typography variant="h2" color="text.primary">
             {t('intro')}
