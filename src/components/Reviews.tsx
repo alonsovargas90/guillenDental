@@ -55,8 +55,8 @@ export default function Reviews() {
                 justifyContent: 'space-evenly'
             }}>
                 <Stack>
-                    <Typography variant='h3' color='white' fontSize={{ xs: '2rem', md: '3rem' }} >{t('title')}</Typography>
-                    <Typography variant='h5' color='white' fontSize={{ xs: '1rem', md: '1.5rem' }} sx={{
+                    <Typography variant='h3' color='white' >{t('title')}</Typography>
+                    <Typography variant='h5' color='white' sx={{
                         marginBottom: '20px'
                     }}>{t('description')} </Typography>
 
@@ -69,7 +69,7 @@ export default function Reviews() {
                             backgroundColor: 'white',
                         }}>
                             <Typography
-                                variant="h5"
+                                variant="body1"
                                 fontStyle="italic"
                                 fontSize={'16px'}
                                 mb={2}
