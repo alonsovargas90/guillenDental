@@ -3,6 +3,7 @@
 import { Box, Stack, Typography, Button, useTheme } from '@mui/material';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
+import { WHATSUP_NUMBER_LINK } from '@/constants/constants';
 
 export default function InvisalignBanner() {
   const theme = useTheme();
@@ -103,7 +104,8 @@ export default function InvisalignBanner() {
           <Button
             variant="contained"
             color="primary"
-            href="#Contact"
+            target='_blank'
+            href={WHATSUP_NUMBER_LINK}
           >
             {t('cta')}
           </Button>

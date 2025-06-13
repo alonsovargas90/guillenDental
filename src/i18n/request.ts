@@ -3,7 +3,7 @@ import { locales, defaultLocale } from '@/i18n/i18n' // si lo tienes definido ah
 
 export default getRequestConfig(async ({ locale }) => {
   const safeLocale = locale && locales.includes(locale) ? locale : defaultLocale;
- const files = [
+  const files = [
     'hero',
     'footer',
     'nav',
@@ -19,6 +19,7 @@ export default getRequestConfig(async ({ locale }) => {
     'serviceInfo',
     'faq',
     'medicalTourism',
+    'beforeAfterPage'
   ];
 
   const messages = Object.assign(

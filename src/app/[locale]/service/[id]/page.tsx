@@ -6,7 +6,6 @@ import { useTranslations } from 'next-intl';
 import { Box, Typography, Container, useTheme } from '@mui/material';
 import Hero from '@/components/hero';
 import ProfessionalInCharge from '@/components/ProfessionalInCharge';
-import InfoSection from '@/components/InfoSection';
 import InvisalignBanner from '@/components/InvisalignBanner';
 import { ServiceInfo, TeamMember } from '@/types/types';
 import ServiceInformation from '@/components/ServiceInformation';
@@ -79,16 +78,6 @@ const ServicePage = () => {
             Specialist &quot;{content.specialist}&quot; not found in OurTeam.
           </Typography>
         )}
-      </Container>
-
-      <Container maxWidth="md">
-        <InfoSection
-          image={content.image}
-          title="Our Philosophy"
-          subtitle="Putting Patients First"
-          content={content.description}
-          leftToRight={false}
-        />
       </Container>
     </Box>
   );

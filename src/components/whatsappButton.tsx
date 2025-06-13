@@ -3,16 +3,15 @@
 import { Fab, Tooltip } from '@mui/material'
 import WhatsAppIcon from '@mui/icons-material/WhatsApp'
 import { useTheme } from '@mui/material/styles'
+import { WHATSUP_NUMBER_LINK } from '@/constants/constants'
 
 export default function WhatsappButton() {
     const theme = useTheme()
-    const whatsappLink = 'https://wa.me/50687170841?text=Hola%20estoy%20interesado%20en%20agendar%20una%20cita%20con%20Guillén%20DentalCare'
-
     return (
         <Tooltip title="Contáctanos por WhatsApp" placement="left">
             <Fab
                 color="success"
-                href={whatsappLink}
+                href={WHATSUP_NUMBER_LINK}
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{

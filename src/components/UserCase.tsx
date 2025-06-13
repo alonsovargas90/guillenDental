@@ -27,7 +27,7 @@ const UserCase = () => {
                 justifyContent="center"
             >
                 {/* TEXT BLOCK */}
-                <Box flex={1} sx={{ textAlign: { xs: 'center', md: 'left' } }}>
+                <Box flex={1} sx={{ textAlign: { xs: 'center', md: 'center' } }}>
                     <Typography
                         variant="overline"
                         color="primary"
@@ -41,13 +41,17 @@ const UserCase = () => {
                         variant="h4"
                         fontWeight="bold"
                         gutterBottom
-                        sx={{ fontSize: { xs: '1.8rem', sm: '2rem', md: '2.5rem' } }}
+                        sx={{
+                            fontSize: { xs: '1.8rem', sm: '2rem', md: '2.5rem' },
+                            textAlign: { xs: 'center', md: 'center' }
+                        }}
                     >
                         {t('title')}
                     </Typography>
 
                     <Typography
-                        variant="body1"
+                        variant="h4"
+                        color={theme.palette.brandGray.main}
                         sx={{
                             textAlign: { xs: 'justify', md: 'justify' },
                             fontSize: { xs: '0.95rem', md: '1rem' },
@@ -63,7 +67,7 @@ const UserCase = () => {
                     flex={1}
                     sx={{
                         width: '100%',
-                        maxWidth: 500,
+                        maxWidth: 600,
                         mx: 'auto',
                         mt: { xs: 4, md: 0 },
                         '& img': {
@@ -73,8 +77,8 @@ const UserCase = () => {
                     }}
                 >
                     <CompareImage
-                        leftImage="/before-after/home/before.jpg"
-                        rightImage="/before-after/home/after.jpg"
+                        leftImage="/before-after/home/before.jpeg"
+                        rightImage="/before-after/home/after.jpeg"
                         leftImageLabel="Before"
                         rightImageLabel="After"
                         sliderLineColor={theme.palette.brandTeal?.main}
