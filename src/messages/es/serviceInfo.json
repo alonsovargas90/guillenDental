@@ -126,6 +126,27 @@
                 }
             ]
         },
+        "cleanings": {
+            "title": "lorem ipsum",
+            "description": "Precise diagnostics with minimal intervention for early detection.",
+            "image1": "/services/orthodoncy.svg",
+            "image2": "/services/orthodoncy.svg",
+            "image3": "/services/orthodoncy.svg",
+            "cards": [
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                },
+                {
+                    "title": "LoremUpsum",
+                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                }
+            ]
+        },
         "oral-biopsies": {
             "title": "Lorem ipsum dolor sit amet",
             "description": "Lorem ipsum dolor sit amet",

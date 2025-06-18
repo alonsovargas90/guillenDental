@@ -31,7 +31,7 @@ export default function Footer() {
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 Guillen Dental
                             </Typography>
-                            <Image src="/logos/logo_gray.png" alt="Guillén Dental Care" width={120} height={140} />
+                            <Image src="/logos/logo_gris.png" alt="Guillén Dental Care" width={100} height={130} />
                             <Typography variant="body2" color="white" sx={{ maxWidth: isDesktop ? '250px' : '100%', textAlign: 'center' }} >
                                 {t('description')}
                             </Typography>
@@ -91,7 +91,7 @@ export default function Footer() {
                                     }}
                                 />
                                 <Image
-                                    src="/ACOP_logo.jpeg"
+                                    src="/logos/ACOP_logo.png"
                                     alt="Essential Costa Rica"
                                     width={isMobile ? 120 : 160}
                                     height={isMobile ? 80 : 100}

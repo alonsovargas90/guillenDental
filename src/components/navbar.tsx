@@ -82,10 +82,10 @@ export default function Navbar({ locale }: NavbarProps) {
         {/* Logo */}
         <Link href={`/${locale}`} style={{ display: 'flex', alignItems: 'center' }}>
           <Image
-            src="/logos/logo_nuevo.jpeg"
+            src="/logos/logo_nuevo.png"
             alt="Logo Guillén Dental Care"
-            width={isDesktop ? 90 : 60}
-            height={isDesktop ? 90 : 70}
+            width={isDesktop ? 70 : 60}
+            height={isDesktop ? 90 : 80}
             priority
           />
         </Link>

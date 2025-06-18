@@ -1,84 +1,84 @@
 {
-    "ServicePages": {
-        "orthodontics": {
-            "title": "Orthodontics",
-            "subtitle": "LoremUpsum",
-            "description": "Our orthodontics treatments include Invisalign and traditional braces tailored to your needs.",
-            "heroImage": "/services/orthodoncy_hero.jpg",
-            "backgroundPosition": "0% 20%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. Andrea Guillen Saborio",
-            "image": "/services/Orthodoncy.png"
-        },
-        "cosmetic-dentistry": {
-            "title": "Cosmetic Dentistry",
-            "subtitle": "LoremUpsum",
-            "description": "Improve the aesthetics of your smile with whitening, veneers, and more.",
-            "heroImage": "/services/cosmetic_dentistry_hero.webp",
-            "backgroundPosition": "0% 30%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. Andrea Guillen Saborio",
-            "image": "/services/Cosmetic.png"
-        },
-        "periatric-dentristry": {
-            "title": "Pediatric Dentistry",
-            "subtitle": "LoremUpsum",
-            "description": "Tratamientos para ninos y pequenos",
-            "heroImage": "/services/periatric_dentristry-hero.jpeg",
-            "backgroundPosition": "100% 40%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. María Poveda",
-            "image": "/services/Pediatric.png"
-        },
-        "dental-surgery": {
-            "title": "Dental Surgery",
-            "subtitle": "LoremUpsum",
-            "description": "Advanced surgical procedures for oral health restoration.",
-            "backgroundPosition": "100% 20%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. Andrea Guillen Saborio",
-            "heroImage": "/services/dental-surgery_hero.jpeg",
-            "image": "/services/Surgery.png"
-        },
-        "periodontics": {
-            "title": "Periodontics",
-            "subtitle": "LoremUpsum",
-            "description": "Comprehensive care for gum diseases and oral hygiene.",
-            "backgroundPosition": "100% 30%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. Andrea Guillen Saborio",
-            "heroImage": "/services/periodoncy_hero.jpeg",
-            "image": "/services/Periodoncy2.png"
-        },
-        "dental-implants": {
-            "title": "Dental Implants",
-            "subtitle": "LoremUpsum",
-            "description": "Regain your natural smile and dental functionality.",
-            "backgroundPosition": "100% 30%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. Andrea Guillen Saborio",
-            "heroImage": "/services/dental-geriatics_hero.jpeg",
-            "image": "/services/Implant.png"
-        },
-        "cleanings": {
-            "title": "Dental Cleanings",
-            "subtitle": "LoremUpsum",
-            "description": "Cleans teeth and gums from plaque and decay.",
-            "backgroundPosition": "100% 30%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. Andrea Guillen Saborio",
-            "heroImage": "/services/dental-geriatics_hero.jpeg",
-            "image": "/services/Cleaning.png"
-        },
-        "oral-biopsies": {
-            "title": "Oral Biopsies",
-            "subtitle": "LoremUpsum",
-            "description": "Precise diagnostics with minimal intervention for early detection.",
-            "backgroundPosition": "100% 40%",
-            "backgroundSize": "cover",
-            "specialist": "Dra. Andrea Guillen Saborio",
-            "heroImage": "/services/laboratorio-dental_hero.jpg",
-            "image": "/services/Biopsias2.png"
-        }
+  "ServicePages": {
+    "orthodontics": {
+      "title": "Orthodontics",
+      "subtitle": "Align your teeth with confidence",
+      "description": "Our orthodontics treatments include Invisalign and traditional braces tailored to your needs.",
+      "heroImage": "/services/orthodoncy_hero.jpg",
+      "backgroundPosition": "0% 20%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/Orthodoncy.png"
+    },
+    "cosmetic-dentistry": {
+      "title": "Cosmetic Dentistry",
+      "subtitle": "Enhance the beauty of your smile",
+      "description": "Improve the aesthetics of your smile with whitening, veneers, and more.",
+      "heroImage": "/services/cosmetic_dentistry_hero.webp",
+      "backgroundPosition": "0% 30%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "image": "/services/Cosmetic.png"
+    },
+    "periatric-dentristry": {
+      "title": "Pediatric Dentistry",
+      "subtitle": "Gentle care for young smiles",
+      "description": "Tratamientos para ninos y pequenos",
+      "heroImage": "/services/periatric_dentristry-hero.jpeg",
+      "backgroundPosition": "100% 40%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. María Poveda",
+      "image": "/services/Pediatric.png"
+    },
+    "dental-surgery": {
+      "title": "Dental Surgery",
+      "subtitle": "Surgical solutions for better oral health",
+      "description": "Advanced surgical procedures for oral health restoration.",
+      "backgroundPosition": "100% 20%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "heroImage": "/services/dental-surgery_hero.jpeg",
+      "image": "/services/Surgery.png"
+    },
+    "periodontics": {
+      "title": "Periodontics",
+      "subtitle": "Expert care for gum health",
+      "description": "Comprehensive care for gum diseases and oral hygiene.",
+      "backgroundPosition": "100% 70%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "heroImage": "/services/periodoncy_hero.jpeg",
+      "image": "/services/Periodoncy2.png"
+    },
+    "dental-implants": {
+      "title": "Dental Implants",
+      "subtitle": "Restore your smile permanently",
+      "description": "Regain your natural smile and dental functionality.",
+      "backgroundPosition": "100% 30%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "heroImage": "/services/dental-geriatics_hero.jpeg",
+      "image": "/services/Implant.png"
+    },
+    "cleanings": {
+      "title": "Dental Cleanings",
+      "subtitle": "Protect your teeth with professional care",
+      "description": "Cleans teeth and gums from plaque and decay.",
+      "backgroundPosition": "100% 30%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "heroImage": "/services/dental-geriatics_hero.jpeg",
+      "image": "/services/Cleaning.png"
+    },
+    "oral-biopsies": {
+      "title": "Oral Biopsies",
+      "subtitle": "Early detection through accurate diagnosis",
+      "description": "Precise diagnostics with minimal intervention for early detection.",
+      "backgroundPosition": "100% 40%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Andrea Guillen Saborio",
+      "heroImage": "/services/laboratorio-dental_hero.jpg",
+      "image": "/services/Biopsias2.png"
     }
+  }
 }
