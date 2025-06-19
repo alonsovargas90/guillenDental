@@ -66,7 +66,7 @@ export default function Reviews() {
                             p: 4,
                             borderRadius: '12px',
                             color: theme.palette.common.white,
-                            background: theme.palette.brandGreen.main,
+                            background: theme.palette.brandTeal.main,
                         }}>
                             <Typography
                                 variant="body1"
