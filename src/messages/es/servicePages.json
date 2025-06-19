@@ -61,7 +61,7 @@
       "image": "/services/Dental Implants.svg"
     },
     "cleanings": {
-      "title": "Dental Cleanings",
+      "title": "Limpieza Dental",
       "subtitle": "Limpieza profunda y prevención",
       "description": "Cleans teeth and gums from plaque and decay.",
       "backgroundPosition": "100% 30%",
@@ -74,10 +74,10 @@
       "title": "Biopsias Orales",
       "subtitle": "Detección temprana y diagnóstico",
       "description": "Diagnóstico preciso con intervención mínima para una detección temprana.",
-      "heroImage": "/services/cosmetic_dentristry_hero.png",
-      "backgroundPosition": "100% 20%",
-      "backgroundSize": "contain",
+      "backgroundPosition": "100% 40%",
+      "backgroundSize": "cover",
       "specialist": "",
+      "heroImage": "/services/laboratorio-dental_hero.jpg",
       "image": "/services/Biopsias2.png"
     }
   }

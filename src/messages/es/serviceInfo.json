@@ -150,8 +150,8 @@
         "oral-biopsies": {
             "title": "Biopsias Orales",
             "description": "Diagnósticos precisos y procedimientos para evaluar anomalías en los tejidos orales.",
-            "image1": "/services/info/Biopsis-1.jfif",
-            "image2": "/services/info/Biopsis-2.jfif",
+            "image1": "/services/info/Biopsis-1.jpg",
+            "image2": "/services/info/Biopsis-2.jpg",
             "image3": "/services/info/Biopsis-3.jpg",
             "cards": [
                 {
