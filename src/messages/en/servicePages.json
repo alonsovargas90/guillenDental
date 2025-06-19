@@ -54,10 +54,10 @@
       "title": "Dental Implants",
       "subtitle": "Restore your smile permanently",
       "description": "Regain your natural smile and dental functionality.",
-      "backgroundPosition": "100% 30%",
+      "backgroundPosition": "100% 50%",
       "backgroundSize": "cover",
       "specialist": "Dr. Óscar Reiche Fischel",
-      "heroImage": "/services/dental-geriatics_hero.jpeg",
+      "heroImage": "/services/implants_hero.jpg",
       "image": "/services/Implant.png"
     },
     "cleanings": {
