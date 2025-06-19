@@ -5,5 +5,10 @@
         "align": "align",
         "description": "Our Invisalign aligners help straighten your teeth discreetly and comfortably. Discover your perfect smile today!",
         "cta": "Schedule Your Consultation"
+    },
+    "PaymentBanner": {
+        "title": "Flexible Payment Options for Your Dental Care",
+        "description": "We make it easier to access the treatment you need with multiple financing and payment solutions tailored to your budget.",
+        "cta": "More information"
     }
 }

@@ -5,5 +5,10 @@
         "align": "align",
         "description": "Nuestros alineadores Invisalign ayudan a alinear tus dientes de forma discreta y cómoda. ¡Descubre tu sonrisa ideal hoy!",
         "cta": "Agenda tu consulta"
+    },
+    "PaymentBanner": {
+        "title": "Opciones de pago flexibles para tu cuidado dental",
+        "description": "Facilitamos el acceso al tratamiento que necesitas con múltiples soluciones de pago y financiamiento adaptadas a tu presupuesto.",
+        "cta": "Más información"
     }
 }
