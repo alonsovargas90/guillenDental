@@ -15,7 +15,6 @@ const UserCase = () => {
         <Box
             id="user-case"
             sx={{
-                backgroundColor: '#f8f8f8',
                 py: { xs: 6, md: 10 },
                 px: { xs: 2, md: 6 },
             }}

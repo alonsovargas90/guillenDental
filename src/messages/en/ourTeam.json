@@ -37,12 +37,29 @@
                 "tiktok": ""
             },
             {
-                "name": "Juan Perez",
-                "img": "juan",
-                "specialty": "Surgical Team",
-                "description": "Dedicated to surgical precision and care.",
+                "name": "Dr. Francisco Jiménez",
+                "img": "Francisco-Jimenez",
+                "specialty": "Periodoncia",
+                "description": "Dr. Francisco Jiménez specializes in Periodontics at our clinic. His excellence has led him to be the director of the Department of Diagnostic and Surgical Sciences at the Faculty of Dentistry of the University of Costa Rica (UCR), where he also teaches.",
                 "longDescription": [
-                    "Juan is part of our elite surgical team focused on delivering precise and compassionate care during advanced dental procedures."
+                    "Dr. Francisco Jiménez specializes in Periodontics at our clinic. His excellence has led him to be the director of the Department of Diagnostic and Surgical Sciences at the Faculty of Dentistry of the University of Costa Rica (UCR), where he also teaches.",
+                    "• He obtained his Bachelor's and Doctorate degrees in General Dentistry at UCR in December 2005 and later specialized in Periodontics at the University of Chile.",
+                    "• In our clinic, he focuses on the diagnosis and treatment of periodontal diseases, offering procedures such as scaling and root planing, periodontal surgery, gum grafts, and dental implant placement.",
+                    "• His comprehensive approach and ability to handle even the most apprehensive patients towards good periodontal health make him one of our most beloved specialists."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Dr. Diego Ramírez Alvarado",
+                "img": "Diego-ramirez",
+                "specialty": "Prosthodontics",
+                "description": "Dr. Diego Ramírez Alvarado is our Specialist in Prosthodontics.",
+                "longDescription": [
+                    "His outstanding career in oral rehabilitation, dental aesthetics, and surgery has made him a national and international conference speaker for promoting continuous education among his peers. He earned his Dental Degree from the University of Costa Rica in 2014 and completed a Prosthodontics internship at the same institution from 2015 to 2016. He later specialized in Prosthodontics at the University of Puerto Rico, Medical Sciences Campus, in 2020.",
+                    "In our clinic, he is responsible for treatments that restore functionality and aesthetics to patients through dental implants, crowns, bridges, porcelain veneers, and full oral rehabilitations.",
+                    "His commitment to excellence and attention to detail make him a national leader, and we are very pleased to have him on our team."
                 ],
                 "instagram": "",
                 "linkedin": "",

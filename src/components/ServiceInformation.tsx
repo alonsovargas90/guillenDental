@@ -88,7 +88,9 @@ export default function ServiceInformation({ serviceInfo }: ServiceInfoProps) {
                     height: '100%',
                   }}
                 >
-                  <Typography variant="h6" fontWeight={600} gutterBottom>
+                  <Typography variant="h6" fontWeight={600} gutterBottom sx={{
+                    height: '55px'
+                  }}>
                     {card.title}
                   </Typography>
                   <Typography variant="body2" color="text.secondary">

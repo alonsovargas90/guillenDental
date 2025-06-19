@@ -73,11 +73,7 @@ const ServicePage = () => {
               tiktok: specialistData.tiktok,
             }}
           />
-        ) : (
-          <Typography color="error">
-            Specialist &quot;{content.specialist}&quot; not found in OurTeam.
-          </Typography>
-        )}
+        ) : null}
       </Container>
     </Box>
   );

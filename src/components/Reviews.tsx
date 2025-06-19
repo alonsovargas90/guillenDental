@@ -51,7 +51,6 @@ export default function Reviews() {
             <Stack sx={{
                 p: 3,
                 width: isDesktop ? '50%' : '100%',
-                background: theme.palette.brandGreen.main,
                 justifyContent: 'space-evenly'
             }}>
                 <Stack>
@@ -66,7 +65,8 @@ export default function Reviews() {
                         <Box key={index} sx={{
                             p: 4,
                             borderRadius: '12px',
-                            backgroundColor: 'white',
+                            color: theme.palette.common.white,
+                            background: theme.palette.brandGreen.main,
                         }}>
                             <Typography
                                 variant="body1"

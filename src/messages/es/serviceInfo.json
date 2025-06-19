@@ -1,170 +1,170 @@
 {
     "ServiceInfo": {
         "orthodontics": {
-            "title": "Lorem ipsum dolor sit amet",
-            "description": "Lorem ipsum dolor sit amet",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Endereza tu Sonrisa con Confianza",
+            "description": "Ya sea que estés considerando Invisalign o brackets tradicionales, nuestra atención ortodóntica está diseñada para alinear tus dientes de manera cómoda y efectiva. Personalizamos cada tratamiento según tus metas únicas, para que puedas sonreír con orgullo en cada etapa del camino.",
+            "image1": "/services/info/Orthodoncy-1.jpeg",
+            "image2": "/services/info/Orthodoncy-2.jpeg",
+            "image3": "/services/info/Orthodoncy-3.jpeg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Planes de Tratamiento Personalizados",
+                    "subtitle": "Cada sonrisa es única. Nuestra atención ortodóntica comienza con una evaluación personalizada y un plan de tratamiento adaptado a la estructura dental individual, necesidades y estilo de vida."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Brackets Avanzados e Invisalign",
+                    "subtitle": "Ofrecemos tanto brackets tradicionales como alineadores claros Invisalign para proporcionar soluciones flexibles para corregir problemas de alineación, espaciado y mordida, todo con precisión y comodidad."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Beneficios a Largo Plazo para la Salud Oral",
+                    "subtitle": "El tratamiento ortodóntico hace más que mejorar tu sonrisa. Los dientes correctamente alineados facilitan la limpieza diaria, reducen el riesgo de caries y enfermedades de las encías, y apoyan una salud oral duradera."
                 }
             ]
         },
         "cosmetic-dentistry": {
-            "title": " Lorem ipsum dolor sit amet",
-            "description": "Lorem ipsum dolor sit amet",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Odontología Cosmética",
+            "description": "Mejora la estética de tu sonrisa con blanqueamiento, carillas y más.",
+            "image1": "/services/info/Cosmetic-1.jpg",
+            "image2": "/services/info/Cosmetic-3.jpg",
+            "image3": "/services/info/Cosmetic-2.jpg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Blanqueamiento Dental",
+                    "subtitle": "Ilumina tu sonrisa con tratamientos profesionales de blanqueamiento dental que eliminan de manera segura y efectiva las manchas causadas por alimentos, bebidas y el envejecimiento. Nuestras opciones en la clínica y para llevar ofrecen resultados notables."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Carillas de Porcelana",
+                    "subtitle": "Logra una sonrisa impecable con carillas de porcelana hechas a medida. Estas finas y duraderas láminas se adhieren al frente de tus dientes para corregir astillas, espacios, superficies irregulares y decoloraciones."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Bonding Cosmético",
+                    "subtitle": "Repara imperfecciones menores como grietas, espacios y decoloraciones utilizando resina del color del diente que se mezcla perfectamente con el esmalte natural. Una forma rápida y rentable de mejorar tu sonrisa."
                 }
             ]
         },
         "periatric-dentristry": {
-            "title": "Lorem ipsum dolor sit amet",
-            "description": "Lorem ipsum dolor sit amet",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Odontología Pediátrica",
+            "description": "Atención dental especializada para niños con un enfoque amigable y preventivo.",
+            "image1": "/services/info/Pediatric-1.jpeg",
+            "image2": "/services/info/Pediatric-2.jpeg",
+            "image3": "/services/info/Pediatric-3.jpeg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Revisiones Dentales Preventivas",
+                    "subtitle": "Ofrecemos exámenes regulares para monitorear el desarrollo dental, detectar caries tempranas y asegurar sonrisas saludables desde una edad temprana. La prevención es clave para la salud oral de por vida."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Selladores y Tratamientos de Flúor",
+                    "subtitle": "Aplicamos selladores dentales y flúor para proteger tanto los dientes de leche como los permanentes contra las caries. Estos tratamientos son seguros, rápidos y altamente efectivos a largo plazo."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Tratamientos de Caries y Lesiones",
+                    "subtitle": "Tratamos caries e incidentes comunes como traumas dentales con técnicas suaves diseñadas para niños. Nuestro equipo está capacitado para ayudar a los más pequeños a sentirse seguros y cómodos."
                 }
             ]
         },
         "dental-surgery": {
-            "title": "Lorem ipsum dolor sit amet",
-            "description": "Lorem ipsum dolor sit amet",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Cirugía Dental",
+            "description": "Procedimientos quirúrgicos avanzados para la restauración de la salud oral.",
+            "image1": "/services/info/Surgery-1.jpeg",
+            "image2": "/services/info/Surgery-2.jpeg",
+            "image3": "/services/info/Surgery-3.jpeg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Cirugías Orales Completas",
+                    "subtitle": "Nuestros servicios de cirugía dental abarcan una variedad de procedimientos avanzados para restaurar la salud oral, incluidos implantes dentales, extracción de muelas del juicio y cirugía correctiva de mandíbula."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Cuidado Dental de Emergencia",
+                    "subtitle": "Proporcionamos tratamientos dentales urgentes para lesiones, infecciones y dolores de muelas severos, asegurando alivio inmediato y atención integral de seguimiento."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Odontología Reconstructiva",
+                    "subtitle": "Desde la reconstrucción completa de la boca hasta la reparación de traumas faciales, nuestros servicios de odontología reconstructiva tienen como objetivo restaurar la función, la estética y el bienestar oral general."
                 }
             ]
         },
         "periodontics": {
-            "title": "Lorem ipsum dolor sit amet",
-            "description": "Lorem ipsum dolor sit amet",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Periodoncia",
+            "description": "Atención integral para enfermedades de las encías e higiene oral.",
+            "image1": "/services/info/Periodontics-1.jpg",
+            "image2": "/services/info/Periodontics-2.jpeg",
+            "image3": "/services/info/Periodontics-3.jpg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Tratamientos de Enfermedades de las Encías",
+                    "subtitle": "Nos especializamos en el diagnóstico y tratamiento de enfermedades de las encías como la gingivitis y la periodontitis, utilizando técnicas avanzadas para restaurar la salud de las encías y prevenir problemas futuros."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Cirugías Periodontales",
+                    "subtitle": "Nuestras cirugías periodontales incluyen injertos de encías, procedimientos de reducción de bolsillos y tratamientos de regeneración ósea para mejorar la estructura de las encías y respaldar implantes dentales."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Cuidado Preventivo y de Mantenimiento",
+                    "subtitle": "Ofrecemos planes de mantenimiento personalizados para gestionar la salud de las encías, incluidas limpiezas regulares, limpiezas profundas y orientación sobre el cuidado en el hogar para prevenir enfermedades periodontales."
                 }
             ]
         },
         "dental-implants": {
-            "title": "Lorem ipsum dolor sit amet",
-            "description": "Lorem ipsum dolor sit amet",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Implantes Dentales",
+            "description": "Recupera tu sonrisa natural y la funcionalidad dental.",
+            "image1": "/services/info/Implants-1.jpg",
+            "image2": "/services/info/Implants-2.jpeg",
+            "image3": "/services/info/Implants-3.jpg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Consultas de Implantes",
+                    "subtitle": "Nuestras consultas de implantes dentales incluyen evaluaciones exhaustivas y planes de tratamiento personalizados para determinar las mejores soluciones de implantes para tus necesidades de salud oral."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Colocación de Implantes",
+                    "subtitle": "Utilizamos técnicas de vanguardia para la colocación precisa de implantes dentales, garantizando estética óptima, funcionalidad y éxito a largo plazo de los implantes dentales."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Restauración de Implantes",
+                    "subtitle": "Desde reemplazos de dientes individuales hasta restauraciones completas de la boca, nuestros servicios de restauración de implantes se centran en mejorar la apariencia de tu sonrisa y restaurar la función masticatoria natural."
                 }
             ]
         },
         "cleanings": {
-            "title": "lorem ipsum",
-            "description": "Precise diagnostics with minimal intervention for early detection.",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Limpiezas",
+            "description": "Diagnósticos precisos con procedimientos avanzados para la restauración de la salud oral.",
+            "image1": "/services/info/Cleanings-1.jpg",
+            "image2": "/services/info/Cleanings-2.jpg",
+            "image3": "/services/info/Cleanings-3.jpeg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Limpiezas Dentales Regulares",
+                    "subtitle": "Nuestras limpiezas dentales profesionales eliminan placa, sarro y manchas superficiales para mantener la salud oral óptima y prevenir enfermedades de las encías."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Tratamientos de Limpieza Profunda",
+                    "subtitle": "Ofrecemos procedimientos de limpieza profunda para abordar problemas periodontales, como escalamiento y alisado radicular, para restaurar la salud de las encías y prevenir la pérdida dental."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Educación en Cuidado Preventivo",
+                    "subtitle": "Nuestro equipo dental proporciona educación personalizada sobre prácticas de higiene oral, consejos dietéticos y rutinas de cuidado en el hogar para respaldar la salud dental y el bienestar a largo plazo."
                 }
             ]
         },
         "oral-biopsies": {
-            "title": "Lorem ipsum dolor sit amet",
-            "description": "Lorem ipsum dolor sit amet",
-            "image1": "/services/orthodoncy.svg",
-            "image2": "/services/orthodoncy.svg",
-            "image3": "/services/orthodoncy.svg",
+            "title": "Biopsias Orales",
+            "description": "Diagnósticos precisos y procedimientos para evaluar anomalías en los tejidos orales.",
+            "image1": "/services/info/Biopsis-1.jfif",
+            "image2": "/services/info/Biopsis-2.jfif",
+            "image3": "/services/info/Biopsis-3.jpg",
             "cards": [
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Evaluación Integral de Tejidos Orales",
+                    "subtitle": "Realizamos exámenes detallados y biopsias para diagnosticar lesiones orales, úlceras y crecimientos sospechosos de tejido, asegurando una detección y tratamiento oportunos."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Procedimientos de Biopsia",
+                    "subtitle": "Nuestros procedimientos de biopsia involucran técnicas seguras y precisas de muestreo de tejidos para proporcionar informes patológicos precisos y guiar planes de tratamiento adecuados."
                 },
                 {
-                    "title": "LoremUpsum",
-                    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta ligula urna, interdum consectetur libero fermentum vitae. Aenean varius, risus id sollicitudin vulputate, libero est auctor felis, sit amet laoreet nunc enim ac arcu. Ut a lorem ultricies, pulvinar turpis non, aliquam nisi. Vivamus suscipit risus leo"
+                    "title": "Educación y Apoyo al Paciente",
+                    "subtitle": "Priorizamos la educación del paciente, ofreciendo explicaciones claras sobre los procedimientos de biopsia, interpretación de resultados y apoyo continuo durante todo el proceso diagnóstico."
                 }
             ]
         }

@@ -70,12 +70,29 @@
                 "tiktok": ""
             },
             {
-                "name": "Jose Pablo Vargas",
-                "img": "juan",
-                "specialty": "Surgical Team",
-                "description": "Dedicated to surgical precision and care.",
+                "name": "Dr. Francisco Jiménez",
+                "img": "Francisco-Jimenez",
+                "specialty": "Periodoncia",
+                "description": "El Dr. Francisco Jiménez se desempeña como especialista en Periodoncia en nuestra clínica. Su excelencia lo ha llevado a ser director del Departamento de Ciencias Diagnósticas y Quirúrgicas en la Facultad de Odontología de la Universidad de Costa Rica (UCR), donde también ejerce como docente",
                 "longDescription": [
-                    "Juan is part of our elite surgical team focused on delivering precise and compassionate care during advanced dental procedures."
+                    "El Dr. Francisco Jiménez se desempeña como especialista en Periodoncia en nuestra clínica. Su excelencia lo ha llevado a ser director del Departamento de Ciencias Diagnósticas y Quirúrgicas en la Facultad de Odontología de la Universidad de Costa Rica (UCR), donde también ejerce como docente",
+                    "• Obtuvo su licenciatura y doctorado en Odontología General en la UCR en diciembre de 2005 y posteriormente se especializó en periodoncia en la Universidad de Chile.",
+                    "• En nuestra clínica se enfoca en el diagnóstico y tratamiento de enfermedades periodontales, ofreciendo procedimientos como raspado y alisado radicular, cirugía periodontal, injertos de encía y colocación de implantes dentales.",
+                    "• Su enfoque integral y su habilidad para manejar a los pacientes más aprensivos en pro a una buena salud periodontal, lo hacen uno de nuestros especialistas más queridos."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Dr. Diego Ramírez Alvarado",
+                "img": "Diego-ramirez",
+                "specialty": "Prostodoncia",
+                "description": "El Dr. Diego Ramírez Alvarado es nuestro Especialista en Prostodoncia.",
+                "longDescription": [
+                    "Su destacada trayectoria en rehabilitación oral, estética dental y cirugía, lo han hecho conferencista nacional en internacional para promoción de educación continua entre sus colegas. Obtuvo su título en Odontología en la Universidad de Costa Rica en 2014 y completó una pasantía en Prostodoncia en la misma institución entre 2015 y 2016. Posteriormente, se especializó en Prostodoncia en la Universidad de Puerto Rico, Medical Sciences Campus, en 2020 .",
+                    "En nuestra clínica es el encargado de los tratamientos que permiten devolver al paciente la funcionalidad y estética mediante implantes dentales, coronas, puentes, carillas de porcelana y rehabilitaciones orales completas. ",
+                    "Su compromiso con la excelencia y la atención al detalle lo convierten en un líder a nivel nacional, del cual nos sentimos muy complacidos de tener en el equipo."
                 ],
                 "instagram": "",
                 "linkedin": "",
@@ -97,6 +114,39 @@
                     "• Retratamientos de conductos previamente tratados",
                     "• Apicectomías",
                     "La Dra. Lizano se caracteriza por su gran empatía, brindando seguridad a los pacientes durante procedimientos que pueden generar ansiedad. Su precisión, enfoque conservador y uso de tecnología avanzada proporcionan una experiencia segura y eficaz para preservar las piezas dentales."
+                ],
+                "instagram": "",
+                "linkedin": "",
+                "tiktok": ""
+            },
+            {
+                "name": "Dr. Óscar Reiche Fischel",
+                "img": "oscar_reiche",
+                "specialty": "Cirujano Oral y Maxilofacial",
+                "description": "En Guillén Dental Care, contamos con el respaldo del Dr. Óscar Reiche Fischel, un reconocido cirujano oral y maxilofacial con una destacada trayectoria en el tratamiento de condiciones complejas de la cavidad oral, el sistema maxilofacial y los tejidos blandos asociados.",
+                "longDescription": [
+                    "En Guillén Dental Care, contamos con el respaldo del Dr. Óscar Reiche Fischel, un reconocido cirujano oral y maxilofacial con una destacada trayectoria en el tratamiento de condiciones complejas de la cavidad oral, el sistema maxilofacial y los tejidos blandos asociados.",
+                    "Formación Académica:",
+                    "• Doctor en Cirugía Dental, Universidad de Costa Rica (1984–1989)",
+                    "• Especialidad en Implantología Oral, Universidad de Miami / Jackson Memorial Hospital, EE. UU. (1990–1991)",
+                    "• Residencia en Cirugía Oral y Maxilofacial, Universidad de Texas / Medical Center en Houston, EE. UU. (1991–1995)",
+                    "• Subespecialidad en Cirugía Maxilofacial Ortognática y Reconstructiva, Centro Médico Baylor (ahora Universidad Texas A&M), Dallas, EE. UU. (1995–1996)",
+                    "Experiencia Profesional:",
+                    "• Co-Director, Departamento de Cirugía Oral y Maxilofacial, Hospital Rafael Ángel Calderón Guardia (1996–2005)",
+                    "• Profesor Titular, Programa de Postgrado en Cirugía Oral y Maxilofacial, Universidad de Costa Rica (2001–2006)",
+                    "• Profesor Titular de Ortodoncia, ULACIT (2001–2016)",
+                    "• Presidente Fundador, Academia Costarricense de Cirugía Oral y Maxilofacial (ACCOM) (2003–2013)",
+                    "• Representante Nacional, Asociación Internacional de Cirujanos Orales y Maxilofaciales (IAOMS) (2001–2015)",
+                    "Procedimientos Especializados:",
+                    "• Cirugía de dientes del juicio impactados o retenidos",
+                    "• Colocación de implantes dentales",
+                    "• Cirugía ortognática y armonización facial",
+                    "• Biopsias y extracción de lesiones orales",
+                    "• Nivelación ósea y reconstrucción mandibular",
+                    "• Cirugías de tejidos blandos (frenectomías, quistes, entre otros)",
+                    "Su rigurosa formación académica, combinada con precisión quirúrgica y cuidado compasivo, lo convierten en un líder en el campo.",
+                    "En cada caso, el Dr. Reiche prioriza la funcionalidad, la estética y una recuperación segura del paciente.",
+                    "Gracias a su colaboración, Guillén Dental Care garantiza un enfoque integral, ético y altamente profesional incluso en los tratamientos quirúrgicos más exigentes."
                 ],
                 "instagram": "",
                 "linkedin": "",

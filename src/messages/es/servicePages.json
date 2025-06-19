@@ -11,7 +11,7 @@
       "image": "/services/orthodoncy.svg"
     },
     "periatric_dentristry": {
-      "title": "Pediatric Dentistry",
+      "title": "Pediatría Dental",
       "subtitle": "Cuidado dental para niños",
       "description": "Tratamientos para ninos y pequenos",
       "heroImage": "/services/periatric_dentristry-hero.jpeg",
@@ -27,7 +27,7 @@
       "heroImage": "/services/cosmetic_dentistry_hero.webp",
       "backgroundPosition": "0% 20%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dr. Diego Ramírez Alvarado",
       "image": "/services/Cosmetic Dentistry.png"
     },
     "dental-surgery": {
@@ -37,7 +37,7 @@
       "heroImage": "/services/dental-surgery_hero.png",
       "backgroundPosition": "100% 20%",
       "backgroundSize": "contain",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dr. Óscar Reiche Fischel",
       "image": "/services/dental-surgery.svg"
     },
     "periodontics": {
@@ -47,7 +47,7 @@
       "heroImage": "/services/cosmetic_dentristry_hero.png",
       "backgroundPosition": "100% 70%",
       "backgroundSize": "contain",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dr. Francisco Jiménez",
       "image": "/services/Periodoncy2.png"
     },
     "dental-implants": {
@@ -57,7 +57,7 @@
       "heroImage": "/services/cosmetic_dentristry_hero.png",
       "backgroundPosition": "100% 20%",
       "backgroundSize": "contain",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dr. Óscar Reiche Fischel",
       "image": "/services/Dental Implants.svg"
     },
     "cleanings": {
@@ -77,7 +77,7 @@
       "heroImage": "/services/cosmetic_dentristry_hero.png",
       "backgroundPosition": "100% 20%",
       "backgroundSize": "contain",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "",
       "image": "/services/Biopsias2.png"
     }
   }
