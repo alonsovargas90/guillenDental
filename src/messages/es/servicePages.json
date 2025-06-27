@@ -47,7 +47,7 @@
       "backgroundPosition": "100% 70%",
       "backgroundSize": "cover",
       "specialist": "Dr. Francisco Jiménez",
-      "heroImage": "/services/Periodoncy_hero.jpeg",
+       "heroImage": "/services/periodoncy_hero.jpeg",
       "image": "/services/Periodoncy2.png"
     },
     "endodontics": {
