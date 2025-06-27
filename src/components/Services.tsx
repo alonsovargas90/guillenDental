@@ -54,19 +54,25 @@ export default function Services() {
 
       {/* Services Grid */}
       <Stack
-        direction="row"
-        flexWrap="wrap"
-        justifyContent="center"
-        useFlexGap
+        justifyContent='center'
         gap={4}
+        sx={{
+          display: 'grid',
+          width: '90%',
+          margin: '0 auto',
+          gridTemplateColumns: {xs: 'repeat(1, 1fr)', md: 'repeat(2, 1fr)', lg: 'repeat(5, 1fr)'},
+          gap: 4,
+          px: 0,
+          py: 0,
+        }}
       >
         {services.map((item, index) => (
           <Link key={index} href={item.link} style={{ textDecoration: 'none' }}>
             <Box
               sx={{
                 perspective: isMobile ? 'none' : 1000,
-                width: '250px',
-                height: '300px'
+                width: '100%',
+                height: {xs:'200px', md: '250px'}
               }}
             >
               <Box

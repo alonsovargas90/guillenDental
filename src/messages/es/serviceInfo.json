@@ -105,6 +105,27 @@
                 }
             ]
         },
+        "endodontics": {
+            "title": "Endodoncia",
+            "description": "Cuidado especializado para preservar dientes naturales mediante tratamientos avanzados del conducto radicular.",
+            "image1": "/services/info/Endodontics-1.jpg",
+            "image2": "/services/info/Endodontics-2.jpg",
+            "image3": "/services/info/Endodontics-3.jpg",
+            "cards": [
+                {
+                    "title": "Tratamientos de Conducto Radicular",
+                    "subtitle": "Eliminamos la pulpa dental infectada, limpiamos y sellamos los conductos para aliviar el dolor y salvar el diente."
+                },
+                {
+                    "title": "Cirugías Endodónticas",
+                    "subtitle": "Procedimientos como apicectomías para tratar infecciones persistentes y preservar dientes que no responden a tratamientos convencionales."
+                },
+                {
+                    "title": "Cuidado Preventivo y Mantenimiento",
+                    "subtitle": "Evaluaciones regulares y educación en higiene oral para prevenir enfermedades pulpares y mantener la salud dental a largo plazo."
+                }
+            ]
+        },
         "dental-implants": {
             "title": "Implantes Dentales",
             "description": "Recupera tu sonrisa natural y la funcionalidad dental.",
@@ -165,6 +186,27 @@
                 {
                     "title": "Educación y Apoyo al Paciente",
                     "subtitle": "Priorizamos la educación del paciente, ofreciendo explicaciones claras sobre los procedimientos de biopsia, interpretación de resultados y apoyo continuo durante todo el proceso diagnóstico."
+                }
+            ]
+        },
+        "botox": {
+            "title": "Bótox Facial para el Bruxismo",
+            "description": "Tratamiento no invasivo para aliviar la tensión mandibular, reducir el rechinamiento dental y mejorar la estética facial.",
+            "image1": "/services/info/Botox-Bruxism-1.jpg",
+            "image2": "/services/info/Botox-Bruxism-2.jpg",
+            "image3": "/services/info/Botox-Bruxism-3.jpg",
+            "cards": [
+                {
+                    "title": "Relajación Dirigida de los Músculos Mandibulares",
+                    "subtitle": "Las inyecciones de bótox en los músculos maseteros ayudan a reducir el apretamiento y rechinamiento involuntario, aliviando el dolor mandibular y previniendo daños dentales."
+                },
+                {
+                    "title": "Procedimiento Mínimamente Invasivo",
+                    "subtitle": "El tratamiento consiste en inyecciones rápidas y precisas con mínimas molestias y sin tiempo de recuperación, permitiendo a los pacientes retomar sus actividades diarias de inmediato."
+                },
+                {
+                    "title": "Mejora del Contorno Facial",
+                    "subtitle": "Además de los beneficios terapéuticos, el bótox puede afinar la línea mandibular al reducir la masa muscular, contribuyendo a una apariencia facial más estilizada."
                 }
             ]
         }

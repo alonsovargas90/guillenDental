@@ -34,10 +34,10 @@
       "title": "Dental Surgery",
       "subtitle": "Surgical solutions for better oral health",
       "description": "Advanced surgical procedures for oral health restoration.",
-      "backgroundPosition": "100% 20%",
+      "backgroundPosition": "100% 0%",
       "backgroundSize": "cover",
       "specialist": "Dr. Óscar Reiche Fischel",
-      "heroImage": "/services/dental-surgery_hero.jpeg",
+      "heroImage": "/services/dental-surgery_hero.jpg",
       "image": "/services/Surgery.png"
     },
     "periodontics": {
@@ -50,14 +50,24 @@
       "heroImage": "/services/periodoncy_hero.jpeg",
       "image": "/services/Periodoncy2.png"
     },
+    "endodontics": {
+      "title": "Endodontics",
+      "subtitle": "Root canal treatments to relieve pain and save your teeth",
+      "description": "We specialize in root canal treatments to relieve pain and save natural teeth.",
+      "backgroundPosition": "100% 50%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Karina Lizano Escalante",
+      "heroImage": "/services/endodoncy_hero.jpg",
+      "image": "/services/Biopsias2.png"
+    },
     "dental-implants": {
       "title": "Dental Implants",
       "subtitle": "Restore your smile permanently",
       "description": "Regain your natural smile and dental functionality.",
-      "backgroundPosition": "100% 50%",
+      "backgroundPosition": "100% 80%",
       "backgroundSize": "cover",
       "specialist": "Dr. Óscar Reiche Fischel",
-      "heroImage": "/services/implants_hero.jpg",
+      "heroImage": "/services/Dental-Implants_hero.jpg",
       "image": "/services/Implant.png"
     },
     "cleanings": {
@@ -74,10 +84,20 @@
       "title": "Oral Biopsies",
       "subtitle": "Early detection through accurate diagnosis",
       "description": "Precise diagnostics with minimal intervention for early detection.",
-      "backgroundPosition": "100% 40%",
+      "backgroundPosition": "100% 50%",
       "backgroundSize": "cover",
       "specialist": "",
       "heroImage": "/services/laboratorio-dental_hero.jpg",
+      "image": "/services/Biopsias2.png"
+    },
+    "botox": {
+      "title": "Botox Inyections",
+      "subtitle": "Minimally invasive diagnosis. Clear results with expert care",
+      "description": "Precise diagnostics with minimal intervention for early detection.",
+      "backgroundPosition": "100% 60%",
+      "backgroundSize": "cover",
+      "specialist": "",
+      "heroImage": "/services/botox_hero.jpg",
       "image": "/services/Biopsias2.png"
     }
   }

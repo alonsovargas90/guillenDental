@@ -35,22 +35,28 @@
                 "link": "/en/service/periodontics"
             },
             {
+                "service": "Endodontincs",
+                "date": "Tratamientos para encías. Salud y firmeza dental.",
+                "img": "/services/Periodoncy2.png",
+                "link": "/es/service/endodontics"
+            },
+            {
                 "service": "Dental Implants",
                 "date": "Reclaim your natural smile.A lasting fix for missing teeth.",
                 "img": "/services/Implant.png",
                 "link": "/en/service/dental-implants"
             },
-             {
+            {
                 "service": "Oral Cleanings",
                 "date": "Thorough teeth and gum cleaning.Stop plaque and prevent decay.",
                 "img": "/services/Cleaning.png",
                 "link": "/en/service/cleanings"
             },
             {
-                "service": "Oral Biopsies",
-                "date": "Minimally invasive diagnosis.Clear results with expert care.",
+                "service": "Botox",
+                "date": "Minimally invasive diagnosis. Clear results with expert care.",
                 "img": "/services/Biopsias2.png",
-                "link": "/en/service/oral-biopsies"
+                "link": "/en/service/botox"
             }
         ]
     }

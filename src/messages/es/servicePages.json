@@ -25,7 +25,7 @@
       "subtitle": "Embellece tu sonrisa",
       "description": "Mejora la estética de tu sonrisa con blanqueamiento, carillas y más.",
       "heroImage": "/services/cosmetic_dentistry_hero.webp",
-      "backgroundPosition": "0% 20%",
+      "backgroundPosition": "100% 20%",
       "backgroundSize": "cover",
       "specialist": "Dr. Diego Ramírez Alvarado",
       "image": "/services/Cosmetic Dentistry.png"
@@ -34,9 +34,9 @@
       "title": "Cirugía Dental",
       "subtitle": "Procedimientos quirúrgicos orales",
       "description": "Procedimientos quirúrgicos avanzados para restaurar la salud bucal.",
-      "heroImage": "/services/dental-surgery_hero.png",
-      "backgroundPosition": "100% 20%",
-      "backgroundSize": "contain",
+      "heroImage": "/services/dental-surgery_hero.jpg",
+      "backgroundPosition": "100% 0%",
+      "backgroundSize": "cover",
       "specialist": "Dr. Óscar Reiche Fischel",
       "image": "/services/dental-surgery.svg"
     },
@@ -47,15 +47,25 @@
       "backgroundPosition": "100% 70%",
       "backgroundSize": "cover",
       "specialist": "Dr. Francisco Jiménez",
-      "heroImage": "/services/periodoncy_hero.jpeg",
+      "heroImage": "/services/Periodoncy_hero.jpeg",
       "image": "/services/Periodoncy2.png"
+    },
+    "endodontics": {
+      "title": "Endodoncia",
+      "subtitle": "Tratamientos de nervio para aliviar el dolor",
+      "description": "Nos especializamos en tratamientos de conducto para aliviar el dolor y conservar los dientes naturales.",
+      "backgroundPosition": "100% 50%",
+      "backgroundSize": "cover",
+      "specialist": "Dra. Karina Lizano Escalante",
+      "heroImage": "/services/endodoncy_hero.jpg",
+      "image": "/services/Biopsias2.png"
     },
     "dental-implants": {
       "title": "Implantes Dentales",
       "subtitle": "Recupera tu sonrisa",
       "description": "Recupera tu sonrisa natural y funcionalidad dental.",
-      "heroImage": "/services/implants_hero.jpg",
-      "backgroundPosition": "100% 50%",
+      "heroImage": "/services/Dental-Implants_hero.jpg",
+      "backgroundPosition": "100% 80%",
       "backgroundSize": "cover",
       "specialist": "Dr. Óscar Reiche Fischel",
       "image": "/services/Dental Implants.svg"
@@ -74,10 +84,20 @@
       "title": "Biopsias Orales",
       "subtitle": "Detección temprana y diagnóstico",
       "description": "Diagnóstico preciso con intervención mínima para una detección temprana.",
-      "backgroundPosition": "100% 40%",
+      "backgroundPosition": "100% 50%",
       "backgroundSize": "cover",
       "specialist": "",
       "heroImage": "/services/laboratorio-dental_hero.jpg",
+      "image": "/services/Biopsias2.png"
+    },
+    "botox": {
+      "title": "Inyecciones de Botox",
+      "subtitle": "Diagnóstico mínimamente invasivo. Resultados claros con atención experta.",
+      "description": "Precise diagnostics with minimal intervention for early detection.",
+      "backgroundPosition": "100% 60%",
+      "backgroundSize": "cover",
+      "specialist": "",
+      "heroImage": "/services/botox_hero.jpg",
       "image": "/services/Biopsias2.png"
     }
   }

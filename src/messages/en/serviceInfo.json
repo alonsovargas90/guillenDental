@@ -105,6 +105,27 @@
                 }
             ]
         },
+        "endodontics": {
+            "title": "Endodontics",
+            "description": "Specialized care to preserve natural teeth through advanced root canal treatments.",
+            "image1": "/services/info/Endodontics-1.jpg",
+            "image2": "/services/info/Endodontics-2.jpg",
+            "image3": "/services/info/Endodontics-3.jpg",
+            "cards": [
+                {
+                    "title": "Root Canal Treatments",
+                    "subtitle": "We remove infected or inflamed pulp tissue, clean and seal the canals to relieve pain and save the tooth."
+                },
+                {
+                    "title": "Endodontic Surgeries",
+                    "subtitle": "Procedures like apicoectomies address persistent infections, preserving teeth that don't respond to conventional treatments."
+                },
+                {
+                    "title": "Preventive Care and Maintenance",
+                    "subtitle": "Regular evaluations and guidance on oral hygiene to prevent pulp diseases and maintain long-term dental health."
+                }
+            ]
+        },
         "dental-implants": {
             "title": "Dental Implants",
             "description": "Regain your natural smile and dental functionality.",
@@ -165,6 +186,27 @@
                 {
                     "title": "Patient Education and Support",
                     "subtitle": "We prioritize patient education, offering clear explanations of biopsy procedures, results interpretation, and ongoing support throughout the diagnostic process."
+                }
+            ]
+        },
+        "botox": {
+            "title": "Facial Botox for Bruxism",
+            "description": "Non-invasive treatment to alleviate jaw tension, reduce teeth grinding, and enhance facial aesthetics.",
+            "image1": "/services/info/Botox-Bruxism-1.jpg",
+            "image2": "/services/info/Botox-Bruxism-2.jpg",
+            "image3": "/services/info/Botox-Bruxism-3.jpg",
+            "cards": [
+                {
+                    "title": "Targeted Jaw Muscle Relaxation",
+                    "subtitle": "Botox injections into the masseter muscles help reduce involuntary clenching and grinding, providing relief from jaw pain and preventing dental damage."
+                },
+                {
+                    "title": "Minimally Invasive Procedure",
+                    "subtitle": "The treatment involves quick, precise injections with minimal discomfort and no downtime, allowing patients to resume daily activities immediately."
+                },
+                {
+                    "title": "Enhanced Facial Contouring",
+                    "subtitle": "Beyond therapeutic benefits, Botox can slim the jawline by reducing muscle bulk, contributing to a more refined facial appearance."
                 }
             ]
         }

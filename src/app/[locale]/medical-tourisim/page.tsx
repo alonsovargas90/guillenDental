@@ -56,8 +56,8 @@ export default function MedicalTourismPage() {
   return (
     <>
       <Hero
-        image="/turismo-medico.jpeg"
-        backgroundPosition="50% 30%" greenTitle={''} blackTitle={''} />
+        image="/turismo-medico-3.jpg"
+        backgroundPosition="50% 60%" greenTitle={''} blackTitle={''} />
       <Box py={{ xs: 6, md: 10 }} px={2} bgcolor={theme.palette.background.default}>
 
 

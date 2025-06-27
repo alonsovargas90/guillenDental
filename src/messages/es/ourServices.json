@@ -35,6 +35,12 @@
         "link": "/es/service/periodontics"
       },
       {
+        "service": "Endodoncia",
+        "date": "Tratamientos de Nervicos. Vive sin dolor.",
+        "img": "/services/Periodoncy2.png",
+        "link": "/es/service/endodontics"
+      },
+      {
         "service": "Implantes Dentales",
         "date": "Recupera tu sonrisa. Solución fija y natural.",
         "img": "/services/Implant.png",
@@ -51,6 +57,12 @@
         "date": "Diagnóstico claro. Mínima molestia.",
         "img": "/services/Biopsias2.png",
         "link": "/es/service/oral-biopsies"
+      },
+      {
+        "service": "Inyecciones de Botox",
+        "date": "Diagnóstico mínimamente invasivo. Resultados claros con atención experta.",
+        "img": "/services/Biopsias2.png",
+        "link": "/es/service/botox"
       }
     ]
   }
