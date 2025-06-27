@@ -4,9 +4,11 @@ import { Box, Stack, Typography, Button, useTheme } from '@mui/material';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { WHATSUP_NUMBER_LINK } from '@/constants/constants';
+import { useIsDesktop } from '@/hooks/useIsDesktop';
 
 export default function InvisalignBanner() {
   const theme = useTheme();
+  const { isDesktop } = useIsDesktop();
   const t = useTranslations('InvisalignBanner');
 
   return (
@@ -49,6 +51,7 @@ export default function InvisalignBanner() {
         justifyContent='center'
         maxWidth="800px"
         spacing={2}
+        padding={{xs: 4, md: 0}}
         sx={{ color: theme.palette.brandGreen.contrastText }}
       >
         <Box
@@ -60,42 +63,89 @@ export default function InvisalignBanner() {
             lineHeight: 1,
           }}
         >
-          <Typography
-            component="span"
-            variant="h3"
-            fontWeight="bold"
-            fontSize={{ xs: '2rem', md: '3rem' }}
-            marginRight={'8px'}
-          >
-            {t('title')}{' '}
-          </Typography>
-          <Typography
-            component="span"
-            variant="h3"
-            fontWeight="bold"
-            color={theme.palette.invisalignSkyBlue.main}
-            fontSize={{ xs: '2rem', md: '3rem' }}
-          >
-            {t('invis')}
-          </Typography>
-          <Typography
-            component="span"
-            variant="h3"
-            fontWeight="bold"
-            color={theme.palette.invisalignBlue.main}
-            fontSize={{ xs: '2rem', md: '3rem' }}
-          >
-            {t('align')}
-          </Typography>
-          <sup style={{
-            fontSize: '1em',
-            lineHeight: 1,
-            color: theme.palette.invisalignBlue.main,
-            top: '0',
-            position: 'relative'
-          }}>
-            ®
-          </sup>
+          {isDesktop ? <>
+            <Typography
+              component="span"
+              variant="h3"
+              fontWeight="bold"
+              fontSize={{ xs: '2rem', md: '3rem' }}
+              marginRight={'8px'}
+            >
+              {t('title')}{' '}
+            </Typography>
+            <Typography
+              component="span"
+              variant="h3"
+              fontWeight="bold"
+              color={theme.palette.invisalignSkyBlue.main}
+              fontSize={{ xs: '2rem', md: '3rem' }}
+            >
+              {t('invis')}
+            </Typography>
+            <Typography
+              component="span"
+              variant="h3"
+              fontWeight="bold"
+              color={theme.palette.invisalignBlue.main}
+              fontSize={{ xs: '2rem', md: '3rem' }}
+            >
+              {t('align')}
+            </Typography>
+            <sup style={{
+              fontSize: '1em',
+              lineHeight: 1,
+              color: theme.palette.invisalignBlue.main,
+              top: '0',
+              position: 'relative'
+            }}>
+              ®
+            </sup>
+          </> : <>
+            <Box>
+              <Typography
+                component="span"
+                variant="h3"
+                fontWeight="bold"
+                fontSize={{ xs: '2rem', md: '3rem' }}
+                marginRight={'8px'}
+              >
+                {t('title')}{' '}
+              </Typography>
+              <Box>
+                <Typography
+                  component="span"
+                  variant="h3"
+                  fontWeight="bold"
+                  color={theme.palette.invisalignSkyBlue.main}
+                  fontSize={{ xs: '2rem', md: '3rem' }}
+                >
+                  {t('invis')}
+                </Typography>
+                <Typography
+                  component="span"
+                  variant="h3"
+                  fontWeight="bold"
+                  color={theme.palette.invisalignBlue.main}
+                  fontSize={{ xs: '2rem', md: '3rem' }}
+                >
+                  {t('align')}
+                </Typography>
+                <sup style={{
+                  fontSize: '1em',
+                  lineHeight: 1,
+                  color: theme.palette.invisalignBlue.main,
+                  top: '0',
+                  position: 'relative'
+                }}>
+                  ®
+                </sup>
+              </Box>
+            </Box>
+
+
+          </>
+          }
+
         </Box>
         <Typography variant="body1">
           {t('description')}
@@ -110,7 +160,6 @@ export default function InvisalignBanner() {
             {t('cta')}
           </Button>
         </Stack>
-
       </Stack>
     </Box >
   );
