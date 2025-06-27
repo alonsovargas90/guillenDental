@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.guillendentalcare.com
+
+# Sitemaps
+Sitemap: https://www.guillendentalcare.com/sitemap.xml

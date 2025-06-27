@@ -54,3 +54,24 @@ export interface ServiceInfo {
   image3: string;
   cards: ServiceCard[];
 }
+
+export interface SeoOptions {
+  title?: string;
+  description?: string;
+  url?: string;
+  image?: string;
+  locale?: string;
+  keywords?: string[];
+  icons?: {
+    icon?: Array<{ url: string; type?: string; sizes?: string }>;
+    apple?: Array<{ url: string; sizes?: string }>;
+  };
+}
+
+export interface MetaHeadProps {
+  title?: string;
+  description?: string;
+  url?: string;
+  image?: string;
+  locale?: string;
+}
