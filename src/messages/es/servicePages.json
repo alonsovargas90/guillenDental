@@ -47,7 +47,7 @@
       "backgroundPosition": "100% 70%",
       "backgroundSize": "cover",
       "specialist": "Dr. Francisco Jiménez",
-       "heroImage": "/services/periodoncy_hero.jpeg",
+      "heroImage": "/services/periodoncy_hero.jpeg",
       "image": "/services/Periodoncy2.png"
     },
     "endodontics": {
@@ -58,7 +58,7 @@
       "backgroundSize": "cover",
       "specialist": "Dra. Karina Lizano Escalante",
       "heroImage": "/services/endodoncy_hero.jpg",
-      "image": "/services/Biopsias2.png"
+      "image": "/services/Endodoncy.png"
     },
     "dental-implants": {
       "title": "Implantes Dentales",
@@ -98,7 +98,7 @@
       "backgroundSize": "cover",
       "specialist": "",
       "heroImage": "/services/botox_hero.jpg",
-      "image": "/services/Biopsias2.png"
+      "image": "/services/Botox.png"
     }
   }
 }

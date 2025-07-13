@@ -37,7 +37,7 @@
             {
                 "service": "Endodontincs",
                 "date": "Tratamientos para encías. Salud y firmeza dental.",
-                "img": "/services/Periodoncy2.png",
+                "img": "/services/Endodoncy.png",
                 "link": "/es/service/endodontics"
             },
             {
@@ -55,7 +55,7 @@
             {
                 "service": "Botox",
                 "date": "Minimally invasive diagnosis. Clear results with expert care.",
-                "img": "/services/Biopsias2.png",
+                "img": "/services/Botox.png",
                 "link": "/en/service/botox"
             }
         ]

@@ -58,7 +58,7 @@
       "backgroundSize": "cover",
       "specialist": "Dra. Karina Lizano Escalante",
       "heroImage": "/services/endodoncy_hero.jpg",
-      "image": "/services/Biopsias2.png"
+      "image": "/services/Endodoncy.png"
     },
     "dental-implants": {
       "title": "Dental Implants",
@@ -98,7 +98,7 @@
       "backgroundSize": "cover",
       "specialist": "",
       "heroImage": "/services/botox_hero.jpg",
-      "image": "/services/Biopsias2.png"
+      "image": "/services/Botox.png"
     }
   }
 }

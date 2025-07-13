@@ -37,7 +37,7 @@
       {
         "service": "Endodoncia",
         "date": "Tratamientos de Nervicos. Vive sin dolor.",
-        "img": "/services/Periodoncy2.png",
+        "img": "/services/Endodoncy.png",
         "link": "/es/service/endodontics"
       },
       {
@@ -61,7 +61,7 @@
       {
         "service": "Inyecciones de Botox",
         "date": "Diagnóstico mínimamente invasivo. Resultados claros con atención experta.",
-        "img": "/services/Biopsias2.png",
+        "img": "/services/Botox.png",
         "link": "/es/service/botox"
       }
     ]
