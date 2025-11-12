@@ -29,9 +29,27 @@ export default function Reviews() {
 
     return (
         <Stack sx={{
+            py: 8,
             flexDirection: isDesktop ? 'row' : 'column',
         }}>
-              <Stack sx={{
+            <Box sx={{
+                position: 'relative',
+                height: { xs: '350px', md: '500px' },
+                width: isDesktop ? '50%' : '100%',
+                flexGrow: 1
+            }}>
+                <Image
+                    src={`/ReviewMain.jpg`}
+                    alt={'Sofi la chef y unuestra dentista Andrea Guillen'}
+                    fill
+                    className="image"
+                    style={{
+                        objectFit: 'cover',
+                        objectPosition: '0% 35%'
+                    }}
+                />
+            </Box>
+            <Stack sx={{
                 p: 3,
                 width: isDesktop ? '50%' : '100%',
                 justifyContent: 'space-evenly'
@@ -85,23 +103,6 @@ export default function Reviews() {
                     ))}
                 </Slider>
             </Stack>
-            <Box sx={{
-                position: 'relative',
-                height: { xs: '350px', md: '500px' },
-                width: isDesktop ? '50%' : '100%',
-                flexGrow: 1
-            }}>
-                <Image
-                    src={`/ReviewMain.jpg`}
-                    alt={'Sofi la chef y unuestra dentista Andrea Guillen'}
-                    fill
-                    className="image"
-                    style={{
-                        objectFit: 'cover',
-                        objectPosition: '0% 35%'
-                    }}
-                />
-            </Box>
         </Stack>
     )
 }

@@ -20,9 +20,8 @@ export default function Home() {
     <HeroContact />
     <OurTeam />
     <InvisalignBanner />
-     <UserCase />
-    <Reviews />
+    <UserCase />
     <PaymentFacilitiesBanner />
-   
+    <Reviews />
   </Stack>
 }
