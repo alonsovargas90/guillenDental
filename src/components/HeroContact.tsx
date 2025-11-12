@@ -87,8 +87,8 @@ export default function HeroContact() {
                     borderRadius: 3,
                     px: { xs: 2, md: 6 },
                     py: { xs: 4, md: 6 },
-                    width: '90%',
-                    margin: { xs: '0 auto', md: '-100px auto 0' },
+                    width: '100%',
+                    margin: { xs: '0 auto', md: '0 auto 0' },
                     boxShadow: '0 10px 20px rgba(0, 0, 0, 0.15)'
                 }}
             >

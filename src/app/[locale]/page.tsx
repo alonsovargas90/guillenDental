@@ -15,9 +15,9 @@ export default function Home() {
   const t = useTranslations('hero');
   return <Stack>
     <Hero greenTitle={t('greenTitle')} blackTitle={t('blackTitle')} image={'/hero.png'} flipImage backgroundPosition={"0% 20%"} xl />
-    <HeroContact />
     <Services />
     <TopPriority />
+    <HeroContact />
     <OurTeam />
     <InvisalignBanner />
      <UserCase />

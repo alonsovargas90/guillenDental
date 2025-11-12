@@ -31,31 +31,14 @@ export default function Reviews() {
         <Stack sx={{
             flexDirection: isDesktop ? 'row' : 'column',
         }}>
-            <Box sx={{
-                position: 'relative',
-                height: { xs: '350px', md: '500px' },
-                width: isDesktop ? '50%' : '100%',
-                flexGrow: 1
-            }}>
-                <Image
-                    src={`/ReviewMain.jpg`}
-                    alt={'Sofi la chef y unuestra dentista Andrea Guillen'}
-                    fill
-                    className="image"
-                    style={{
-                        objectFit: 'cover',
-                        objectPosition: '0% 35%'
-                    }}
-                />
-            </Box>
-            <Stack sx={{
+              <Stack sx={{
                 p: 3,
                 width: isDesktop ? '50%' : '100%',
                 justifyContent: 'space-evenly'
             }}>
                 <Stack>
-                    <Typography variant='h3' color='white' >{t('title')}</Typography>
-                    <Typography variant='h5' color='white' sx={{
+                    <Typography variant='h3' color='black' >{t('title')}</Typography>
+                    <Typography variant='h5' color='black' sx={{
                         marginBottom: '20px'
                     }}>{t('description')} </Typography>
 
@@ -102,6 +85,23 @@ export default function Reviews() {
                     ))}
                 </Slider>
             </Stack>
+            <Box sx={{
+                position: 'relative',
+                height: { xs: '350px', md: '500px' },
+                width: isDesktop ? '50%' : '100%',
+                flexGrow: 1
+            }}>
+                <Image
+                    src={`/ReviewMain.jpg`}
+                    alt={'Sofi la chef y unuestra dentista Andrea Guillen'}
+                    fill
+                    className="image"
+                    style={{
+                        objectFit: 'cover',
+                        objectPosition: '0% 35%'
+                    }}
+                />
+            </Box>
         </Stack>
     )
 }

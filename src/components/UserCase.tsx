@@ -24,7 +24,30 @@ const UserCase = () => {
                 spacing={{ xs: 4, md: 6 }}
                 alignItems="center"
                 justifyContent="center"
+                borderRadius={'40px'}
             >
+                 {/* IMAGE BLOCK */}
+                <Box
+                    flex={1}
+                    sx={{
+                        width: '100%',
+                        maxWidth: 600,
+                        mx: 'auto',
+                        mt: { xs: 4, md: 0 },
+                        '& img': {
+                            width: '100% !important',
+                            height: 'auto !important',
+                        }
+                    }}
+                >
+                    <CompareImage
+                        leftImage="/before-after/home/before.jpeg"
+                        rightImage="/before-after/home/after.jpeg"
+                        leftImageLabel="Before"
+                        rightImageLabel="After"
+                        sliderLineColor={theme.palette.brandTeal?.main}
+                    />
+                </Box>
                 {/* TEXT BLOCK */}
                 <Box flex={1} sx={{ textAlign: { xs: 'center', md: 'center' } }}>
                     <Typography
@@ -59,29 +82,6 @@ const UserCase = () => {
                     >
                         {t('description')}
                     </Typography>
-                </Box>
-
-                {/* IMAGE BLOCK */}
-                <Box
-                    flex={1}
-                    sx={{
-                        width: '100%',
-                        maxWidth: 600,
-                        mx: 'auto',
-                        mt: { xs: 4, md: 0 },
-                        '& img': {
-                            width: '100% !important',
-                            height: 'auto !important',
-                        }
-                    }}
-                >
-                    <CompareImage
-                        leftImage="/before-after/home/before.jpeg"
-                        rightImage="/before-after/home/after.jpeg"
-                        leftImageLabel="Before"
-                        rightImageLabel="After"
-                        sliderLineColor={theme.palette.brandTeal?.main}
-                    />
                 </Box>
             </Stack>
         </Box>
