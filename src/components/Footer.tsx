@@ -104,7 +104,7 @@ export default function Footer() {
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
                                 {t('socialTitle')}
                             </Typography>
-                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.main} mt={2}>
+                             {/* <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.main} mt={2}>
                                 <MuiLink
                                     href=""
                                     target="_blank"
@@ -114,7 +114,7 @@ export default function Footer() {
                                 >
                                     {t('privacy')}
                                 </MuiLink>
-                            </Typography>
+                            </Typography> */}
                             <Stack direction="row" spacing={2}>
                                 <IconButton href={FACEBOOK_LINK} target="https://www.facebook.com/guillen.dental.care/" sx={{ backgroundColor: theme.palette.brandTeal.contrastText }}>
                                     <FacebookIcon sx={{ color: theme.palette.brandGreen.main }} />
