@@ -55,8 +55,8 @@ export default function Reviews() {
                 justifyContent: 'space-evenly'
             }}>
                 <Stack>
-                    <Typography variant='h3' color='black' >{t('title')}</Typography>
-                    <Typography variant='h5' color='black' sx={{
+                    <Typography variant='h3' color={theme.palette.brandTeal?.main} textAlign='center'>{t('title')}</Typography>
+                    <Typography variant='h6' color='black' textAlign='center' sx={{
                         marginBottom: '20px'
                     }}>{t('description')} </Typography>
 
@@ -65,7 +65,7 @@ export default function Reviews() {
                     {reviews.map((review, index) => (
                         <Box key={index} sx={{
                             p: 4,
-                            borderRadius: '12px',
+                            borderRadius: '20px',
                             color: theme.palette.common.white,
                             background: theme.palette.brandTeal.main,
                         }}>
