@@ -57,6 +57,7 @@ export default function Home() {
                   mx: 'auto',
                   position: 'relative',
                   overflow: 'hidden',
+                  borderRadius: '50px',
 
                   // Force image height
                   '& .react-compare-image img': {

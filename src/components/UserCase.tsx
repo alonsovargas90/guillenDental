@@ -24,7 +24,7 @@ const UserCase = () => {
                 spacing={{ xs: 4, md: 6 }}
                 alignItems="center"
                 justifyContent="center"
-                borderRadius={'40px'}
+             
             >
                  {/* IMAGE BLOCK */}
                 <Box
@@ -32,6 +32,9 @@ const UserCase = () => {
                     sx={{
                         width: '100%',
                         maxWidth: 600,
+                        borderRadius: '50px',
+                        overflow: 'hidden',
+                        backgroundColor: theme.palette.brandTeal?.main,
                         mx: 'auto',
                         mt: { xs: 4, md: 0 },
                         '& img': {
@@ -43,8 +46,8 @@ const UserCase = () => {
                     <CompareImage
                         leftImage="/before-after/home/before.jpeg"
                         rightImage="/before-after/home/after.jpeg"
-                        leftImageLabel="Before"
-                        rightImageLabel="After"
+                        leftImageLabel="Despues"
+                        rightImageLabel="Antes"
                         sliderLineColor={theme.palette.brandTeal?.main}
                     />
                 </Box>
