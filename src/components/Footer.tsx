@@ -106,7 +106,7 @@ export default function Footer() {
                             </Typography>
                              <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.main} mt={2}>
                                 <MuiLink
-                                    href="https://www.dentalimplantscr.com/privacy-policy/"
+                                    href=""
                                     target="_blank"
                                     underline="hover"
                                     color={theme.palette.brandTeal.contrastText}
