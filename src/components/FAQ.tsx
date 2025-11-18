@@ -79,7 +79,7 @@ export default function FAQSection() {
               >
                 <EmailIcon sx={{ color: theme.palette.text.primary }} />
               </Box>
-              <MuiLink href={`mailto:${t('contactEmail')}`} underline="hover">
+              <MuiLink href={`mailto:${CONTACTUS_EMAIL}`} underline="hover">
                 {CONTACTUS_EMAIL}
               </MuiLink>
             </Stack>
@@ -105,13 +105,17 @@ export default function FAQSection() {
                 <AccordionSummary
                   expandIcon={
                     expanded === index ? (
-                      <IconButton>
+                      <>
+                       <IconButton>
                         <CloseIcon fontSize="small" />
                       </IconButton>
+                      </>
                     ) : (
-                      <IconButton>
+                      <>
+                       <IconButton>
                         <ExpandMoreIcon fontSize="small" />
                       </IconButton>
+                      </>
                     )
                   }
                   sx={{
