@@ -17,7 +17,7 @@ export default function MapSection() {
   const theme = useTheme();
 
   // Coordinates for San José, Costa Rica
-  const position: [number, number] = [9.9281, -84.0907];
+  const position: [number, number] = [9.934980498481417, -84.06301167097732];
 
   return (
     <Box
@@ -33,7 +33,7 @@ export default function MapSection() {
     >
       <MapContainer
         center={position}
-        zoom={13}
+        zoom={20}
         style={{ height: '100%', width: '100%' }}
       >
         <TileLayer
@@ -41,7 +41,8 @@ export default function MapSection() {
         />
         <Marker position={position}>
           <Popup>
-            Guillén DentalCare<br /> San José, Costa Rica
+            Guillén Dental Care<br />
+            Diagonal Beer Factory, Barrio Escalante, San José, Costa Rica
           </Popup>
         </Marker>
       </MapContainer>
