@@ -7,13 +7,13 @@
       "heroImage": "/services/orthodoncy_hero.jpg",
       "backgroundPosition": "0% 20%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dra. Andrea Guillén Saborío",
       "image": "/services/orthodoncy.svg"
     },
     "periatric-dentristry": {
       "title": "Pediatría Dental",
       "subtitle": "Cuidado dental para niños",
-      "description": "Tratamientos para ninos y pequenos",
+      "description": "Tratamientos para niños y pequeños",
       "heroImage": "/services/periatric_dentristry-hero.jpeg",
       "backgroundPosition": "100% 40%",
       "backgroundSize": "cover",
@@ -73,10 +73,10 @@
     "cleanings": {
       "title": "Limpieza Dental",
       "subtitle": "Limpieza profunda y prevención",
-      "description": "Cleans teeth and gums from plaque and decay.",
+      "description": "Limpia dientes y encías de placa y caries.",
       "backgroundPosition": "100% 30%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dra. Andrea Guillén Saborío",
       "heroImage": "/services/dental-geriatics_hero.jpeg",
       "image": "/services/Cleaning.png"
     },
@@ -92,8 +92,8 @@
     },
     "botox": {
       "title": "Bruxismo",
-      "subtitle": "Diagnóstico y acompanamiento. Resultados claros con atención continua.",
-      "description": "Precise diagnostics with minimal intervention for early detection.",
+      "subtitle": "Diagnóstico y acompañamiento. Resultados claros con atención continua.",
+      "description": "Diagnósticos precisos con intervención mínima para una detección temprana.",
       "backgroundPosition": "100% 60%",
       "backgroundSize": "cover",
       "specialist": "",

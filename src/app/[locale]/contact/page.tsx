@@ -63,22 +63,22 @@ export default function Home() {
       <Container sx={{ px: { xs: 2, md: 0 }, m: '0 auto !important' }}>
         <InfoSection
           image="/about/nuestra_cultura.jpeg"
-          title="Our Culture"
-          subtitle="Who We Are"
+          title={tAbout('Our Culture')}
+          subtitle={tAbout('Who We Are')}
           content={tAbout('Cultura')}
           leftToRight={false}
         />
         <InfoSection
           image="/about/vision.jpeg"
-          title="Our Mission"
-          subtitle="What Drives Us"
+          title={tAbout('Our Mission')}
+          subtitle={tAbout('What Drives Us')}
           content={tAbout('Mission')}
           leftToRight={true}
         />
         <InfoSection
           image="/about/mision.jpeg"
-          title="Our Vision"
-          subtitle="Where We’re Going"
+          title={tAbout('Our Vison')}
+          subtitle={tAbout('Where Were Going')}
           content={tAbout('Vision')}
           leftToRight={false}
         />
