@@ -4,26 +4,7 @@
     "title": "Do you need some help?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
     "items": [
-      {
-        "question": "What is Invisalign and how does it work?",
-        "answer": "Invisalign uses a series of clear aligners to gently shift your teeth into place. They are nearly invisible and removable for comfort and convenience."
-      },
-      {
-        "question": "Am I a candidate for Invisalign?",
-        "answer": "Most teens and adults with mild to moderate misalignment qualify. A consultation with our specialists will confirm your eligibility."
-      },
-      {
-        "question": "How long does Invisalign treatment take?",
-        "answer": "Treatment time varies, but many patients see results in 6 to 18 months depending on their case complexity."
-      },
-      {
-        "question": "How much does a consultation cost?",
-        "answer": "Initial consultations are often complimentary or have a minimal fee. Contact us to learn about current offers and coverage."
-      },
-      {
-        "question": "Is Invisalign treatment covered by insurance?",
-        "answer": "Some dental plans cover Invisalign like braces. We can help you check your benefits and provide financing options."
-      }
+
     ]
   }
 }

@@ -1,7 +1,13 @@
 {
   "UserCase": {
-    "label": "Affordable dental care",
-    "title": "High-quality dental services",
-    "description": "At Guillén Dental, your smile is our greatest priority. We offer world-class dental care at a fraction of the international cost. Our clinic combines cutting-edge technology with a compassionate, expert team. From cleanings to full restorations, we deliver precision and excellence. Patients from around the world trust us for personalized, transformative treatments. Discover how Guillén Dental can help you smile with confidence again."
+    "label": "Atención dental asequible",
+    "title": "Servicios dentales de alta calidad",
+    "description": [
+      "En Guillén Dental Care tu salud y estética dental son nuestra prioridad.",
+      "Contamos con un equipo multidisciplinario de especialistas y tecnología moderna para brindarte diagnósticos precisos y tratamientos seguros.",
+      "Ofrecemos desde limpiezas y prevención hasta ortodoncia, estética dental, cirugía, implantes y odontopediatría, todo en un mismo lugar.",
+      "Nuestro enfoque combina profesionalismo, calidez y excelencia clínica, para que cada paciente reciba un plan de tratamiento personalizado y adaptado a sus necesidades.",
+      "Descubrí cómo nuestro equipo puede ayudarte a lograr una sonrisa saludable y funcional, con resultados confiables."
+    ]
   }
 }

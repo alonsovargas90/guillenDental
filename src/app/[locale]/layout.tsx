@@ -4,6 +4,7 @@ import ClientLayout from '@/components/ClientLayout'
 import '@/styles/global.css';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
+import 'react-photo-view/dist/react-photo-view.css';
 import Head from 'next/head';
 
 export default async function LocaleLayout({

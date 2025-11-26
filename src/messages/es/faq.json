@@ -4,25 +4,26 @@
     "title": "¿Necesitas ayuda?",
     "description": "",
     "items": [
-{
-        "question": "¿Qué es Invisalign y cómo funciona?",
-        "answer": "Invisalign utiliza alineadores transparentes para mover tus dientes gradualmente. Son casi invisibles y se pueden quitar para mayor comodidad."
+      {
+        "question": "¿Cuál es el costo del tratamiento con alineadores de ortodoncia?",
+        "answer": [
+          "El costo del tratamiento con alineadores es variable, pues depende de la complejidad de cada caso y de la cantidad de alineadores necesarios para lograr el resultado ideal. Para determinarlo con precisión, es necesario contar con radiografías actualizadas y realizar una valoración presencial, donde evaluamos el diagnóstico y diseñamos tu plan de tratamiento personalizado.",
+          "En promedio, el costo del tratamiento con alineadores oscila entre $1,600 y $3,600, e incluye tanto los alineadores como todas las citas de control durante el proceso."
+        ]
       },
       {
-        "question": "¿Soy candidato para Invisalign?",
-        "answer": "La mayoría de adolescentes y adultos con desalineación leve o moderada califican. Una consulta con nuestros especialistas lo confirmará."
+        "question": "¿Dónde puedo tomarme las radiografías necesarias?",
+        "answer": [
+          "En Guillén Dental Care contamos con nuestro propio centro radiológico, escáner intraoral y todo el equipo necesario para realizar tus estudios en el mismo lugar.",
+          "Aquí mismo puedes hacerte las radiografías, la valoración y todos los registros que necesitamos para diagnosticar tu caso con precisión y, si lo deseas, incluso planear tu diseño de sonrisa."
+        ]
       },
       {
-        "question": "¿Cuánto dura el tratamiento con Invisalign?",
-        "answer": "La duración varía, pero muchos pacientes ven resultados entre 6 y 18 meses según el caso."
-      },
-      {
-        "question": "¿Cuánto cuesta una consulta?",
-        "answer": "Las consultas iniciales suelen ser gratuitas o de bajo costo. Contáctanos para conocer promociones y coberturas actuales."
-      },
-      {
-        "question": "¿El tratamiento con Invisalign está cubierto por el seguro?",
-        "answer": "Algunos seguros dentales cubren Invisalign como los brackets. Podemos ayudarte a verificar tu cobertura y ofrecer opciones de financiamiento."
+        "question": "¿Cuánto cuesta el blanqueamiento dental?",
+        "answer": [
+          "En Guillén Dental Care contamos con nuestro propio centro radiológico, escáner intraoral y todo el equipo necesario para realizar tus estudios en el mismo lugar.",
+          "Aquí mismo puedes hacerte las radiografías, la valoración y todos los registros que necesitamos para diagnosticar tu caso con precisión y, si lo deseas, incluso planear tu diseño de sonrisa."
+        ]
       }
     ]
   }

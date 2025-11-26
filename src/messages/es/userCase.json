@@ -2,6 +2,12 @@
   "UserCase": {
     "label": "Atención dental asequible",
     "title": "Servicios dentales de alta calidad",
-    "description": "En Guillén Dental, tu sonrisa es nuestra mayor prioridad. Ofrecemos atención dental de clase mundial a una fracción del costo internacional. Nuestra clínica combina tecnología de vanguardia con un equipo experto y compasivo. Desde limpiezas hasta restauraciones completas, brindamos precisión y excelencia. Pacientes de todo el mundo confían en nosotros para tratamientos personalizados y transformadores. Descubre cómo Guillén Dental puede ayudarte a sonreír con confianza nuevamente."
+    "description": [
+      "En Guillén Dental Care tu salud y estética dental son nuestra prioridad.",
+      "Contamos con un equipo multidisciplinario de especialistas y tecnología moderna para brindarte diagnósticos precisos y tratamientos seguros.",
+      "Ofrecemos desde limpiezas y prevención hasta ortodoncia, estética dental, cirugía, implantes y odontopediatría, todo en un mismo lugar.",
+      "Nuestro enfoque combina profesionalismo, calidez y excelencia clínica, para que cada paciente reciba un plan de tratamiento personalizado y adaptado a sus necesidades.",
+      "Descubrí cómo nuestro equipo puede ayudarte a lograr una sonrisa saludable y funcional, con resultados confiables."
+    ]
   }
 }

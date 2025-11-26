@@ -1,5 +1,6 @@
 'use client';
 
+import { WHATSUP_NUMBER_LINK } from '@/constants/constants';
 import {
   Stack,
   Box,
@@ -34,7 +35,7 @@ export default function Services() {
         <Typography variant="h6" width="80%" fontSize={{ xs: '16px', md: '20px' }}>
           {t('subtitle')}
         </Typography>
-        <Link href="/contact" passHref>
+        <Link  href={WHATSUP_NUMBER_LINK} passHref target='_blank'>
           <Box component="button" sx={{
             backgroundColor: theme.palette.brandTeal.main,
             color: '#fff',

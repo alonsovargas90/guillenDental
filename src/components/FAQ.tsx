@@ -29,7 +29,7 @@ export default function FAQSection() {
     setExpanded((prev) => (prev === panel ? null : panel));
   };
 
-  const faqItems = t.raw('items') as { question: string; answer: string }[];
+  const faqItems = t.raw('items') as { question: string; answer: string[] }[];
 
   return (
     <Box px={2} py={6}>
@@ -129,7 +129,9 @@ export default function FAQSection() {
                   <Typography fontWeight={500}>{item.question}</Typography>
                 </AccordionSummary>
                 <AccordionDetails>
-                  <Typography color="text.secondary">{item.answer}</Typography>
+                  {
+                    item.answer.map(par => <Typography color="text.secondary">{par}</Typography>)
+                  }
                 </AccordionDetails>
               </Accordion>
             ))}

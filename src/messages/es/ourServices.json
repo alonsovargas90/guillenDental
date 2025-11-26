@@ -1,42 +1,42 @@
 {
   "OurServices": {
-    "title": "Descubrí nuestros otros servicios",
-    "subtitle": "Nuestro equipo de dentistas puede ayudarte con una variedad de tratamientos dentales",
+    "title": "Descubrí todos nuestros servicios dentales",
+    "subtitle": "Nuestros especialistas con amplia trayectoria y reconocimiento,  ofrecen tratamientos seguros, precisos y estéticos.",
     "cta": "Reserva una cita",
     "list": [
       {
         "service": "Ortodoncia",
-        "date": "Brackets o Invisalign. Corrige tu sonrisa.",
+        "date": "Brackets o Invisalign. Alinea tu sonrisa.",
         "img": "/services/Orthodoncy.png",
         "link": "/es/service/orthodontics"
       },
       {
         "service": "Odontopediatría",
-        "date": "Cuidado dental infantil. Atención suave y segura.",
+        "date": "Cuidado dental infantil. Enfoque calido y seguro",
         "img": "/services/Pediatric.png",
         "link": "/es/service/periatric-dentristry"
       },
       {
         "service": "Odontología Cosmética",
-        "date": "Mejora tu sonrisa. Resultados visibles y naturales.",
+        "date": "Diseno de sonrisa. Resultados altamente y naturales.",
         "img": "/services/Cosmetic.png",
         "link": "/es/service/cosmetic-dentistry"
       },
       {
-        "service": "Cirugía Dental",
-        "date": "Procedimientos seguros. Cirugía con confianza.",
+        "service": "Cirugía Oral",
+        "date": "Procedimientos seguros. Cirugía bajo sedacion.",
         "img": "/services/Surgery.png",
         "link": "/es/service/dental-surgery"
       },
       {
         "service": "Periodoncia",
-        "date": "Tratamientos para encías. Salud y firmeza dental.",
+        "date": "Tratamientos para encías. Salud y longevidad dental.",
         "img": "/services/Periodoncy2.png",
         "link": "/es/service/periodontics"
       },
       {
         "service": "Endodoncia",
-        "date": "Tratamientos de Nervicos. Vive sin dolor.",
+        "date": "Tratamientos de nervio. Conserva tus dientes Naturales.",
         "img": "/services/Endodoncy.png",
         "link": "/es/service/endodontics"
       },
@@ -48,19 +48,19 @@
       },
       {
         "service": "Limpiezas Dentales",
-        "date": "Elimina placa y sarro. Previene caries.",
+        "date": "Elimina manchas y biofilme. Previene caries.",
         "img": "/services/Cleaning.png",
         "link": "/es/service/cleanings"
       },
       {
-        "service": "Biopsias Orales",
-        "date": "Diagnóstico claro. Mínima molestia.",
+        "service": "Patologia Oral",
+        "date": "Diagnóstico claro. Biopsias seguras.",
         "img": "/services/Biopsias2.png",
         "link": "/es/service/oral-biopsies"
       },
       {
-        "service": "Inyecciones de Botox",
-        "date": "Diagnóstico mínimamente invasivo. Resultados claros con atención experta.",
+        "service": "Bruxismo",
+        "date": "Tratamiento integral.",
         "img": "/services/Botox.png",
         "link": "/es/service/botox"
       }

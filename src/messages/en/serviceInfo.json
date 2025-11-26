@@ -64,7 +64,7 @@
             ]
         },
         "dental-surgery": {
-            "title": "Dental Surgery",
+            "title": "Oral Surgery",
             "description": "Advanced surgical procedures for oral health restoration.",
             "image1": "/services/info/Surgery-1.jpeg",
             "image2": "/services/info/Surgery-2.jpeg",
@@ -169,7 +169,7 @@
             ]
         },
         "oral-biopsies": {
-            "title": "Oral Biopsies",
+            "title": "Oral Pathology",
             "description": "Accurate diagnostics and procedures for evaluating oral tissue abnormalities.",
             "image1": "/services/info/Biopsis-1.jpg",
             "image2": "/services/info/Biopsis-2.jpg",
@@ -190,7 +190,7 @@
             ]
         },
         "botox": {
-            "title": "Facial Botox for Bruxism",
+            "title": "Bruxism",
             "description": "Non-invasive treatment to alleviate jaw tension, reduce teeth grinding, and enhance facial aesthetics.",
             "image1": "/services/info/Botox-Bruxism-1.jpg",
             "image2": "/services/info/Botox-Bruxism-2.jpg",

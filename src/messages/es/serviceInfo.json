@@ -64,7 +64,7 @@
             ]
         },
         "dental-surgery": {
-            "title": "Cirugía Dental",
+            "title": "Cirugía Oral",
             "description": "Procedimientos quirúrgicos avanzados para recuperar piezas dentales perdidas, descartar patologias, eliminar cordales o piezas dentales que no deban permanecer en boca de manera segura y eficaz.",
             "image1": "/services/info/Surgery-1.jpeg",
             "image2": "/services/info/Surgery-2.jpeg",
@@ -169,7 +169,7 @@
             ]
         },
         "oral-biopsies": {
-            "title": "Biopsias Orales",
+            "title": "Patología Oral",
             "description": "Diagnósticos precisos y procedimientos para evaluar anomalías en los tejidos orales.",
             "image1": "/services/info/Biopsis-1.jpg",
             "image2": "/services/info/Biopsis-2.jpg",

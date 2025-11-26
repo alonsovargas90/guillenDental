@@ -53,7 +53,7 @@ export default function Home() {
           <Typography
             variant="body1"
             color={theme.palette.text.secondary}
-            sx={{ fontSize: { xs: '0.95rem', md: '1rem' }, textAlign: { xs: 'center', md: 'left' } }}
+            sx={{ fontSize: { xs: '1rem', md: '1.25rem' }, textAlign: { xs: 'center', md: 'left' } }}
           >
             {tAbout('Secondary_description')}
           </Typography>

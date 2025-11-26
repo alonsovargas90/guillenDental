@@ -29,7 +29,7 @@ export default function Footer() {
                     <Grid size={{ xs: 12, md: 4 }}>
                         <Stack spacing={2} justifyContent='center' alignItems='center'>
                             <Typography variant="h6" fontWeight="bold" color={theme.palette.brandTeal.contrastText}>
-                                Guillen Dental
+                                Guillén Dental
                             </Typography>
                             <Image src="/logos/logo_gris.png" alt="Guillén Dental Care" width={100} height={130} />
                             <Typography variant="body2" color="white" sx={{ maxWidth: isDesktop ? '250px' : '100%', textAlign: 'center' }} >

@@ -31,6 +31,8 @@ const ServicePage = () => {
   const teams = useMemo(() => tTeam.raw('OurTeam.members') as TeamMember[], [tTeam]);
   const services = useMemo(() => tTeam.raw('ServiceInfo') as Record<string, ServiceInfo>, [tTeam]);
   const content = t.raw(key) as ServicePageContent | undefined;
+  console.log('content', content);
+  console.log('teams', teams);
   const serviceData = services?.[key];
   const specialistData = teams.find(x => x.name === content?.specialist);
 

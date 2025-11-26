@@ -4,7 +4,7 @@ import { buildMetadata } from '@/lib/seo';
 import { ReactNode } from 'react'
 
 export const metadata = buildMetadata({
-  title: 'Guillen Dental Care – Clínica Dental en San José, Costa Rica',
+  title: 'Guillén Dental Care – Clínica Dental en San José, Costa Rica',
   description: 'Ofrecemos servicios odontológicos de alta calidad en San José. Contáctanos para una sonrisa saludable.',
   url: 'https://www.guillendentalcare.com',
   image: 'https://www.guillendentalcare.com/hero.png',

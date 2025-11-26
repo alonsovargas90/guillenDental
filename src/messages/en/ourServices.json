@@ -23,7 +23,7 @@
                 "link": "/en/service/cosmetic-dentistry"
             },
             {
-                "service": "Dental Surgery",
+                "service": "Oral Surgery",
                 "date": "Safe & andvance Surgery. Oral procedures you can trust",
                 "img": "/services/Surgery.png",
                 "link": "/en/service/dental-surgery"
@@ -52,8 +52,14 @@
                 "img": "/services/Cleaning.png",
                 "link": "/en/service/cleanings"
             },
+             {
+                "service": "Oral Patology",
+                "date": "Clear Diagnotics. None invasive procedures",
+                "img": "/services/Biopsias2.png",
+                "link": "/en/service/oral-biopsies"
+            },
             {
-                "service": "Botox",
+                "service": "Bruxism",
                 "date": "Minimally invasive diagnosis. Clear results with expert care.",
                 "img": "/services/Botox.png",
                 "link": "/en/service/botox"

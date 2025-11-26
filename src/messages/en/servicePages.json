@@ -7,7 +7,7 @@
       "heroImage": "/services/orthodoncy_hero.jpg",
       "backgroundPosition": "0% 20%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dra. Andrea Guillén Saborío",
       "image": "/services/Orthodoncy.png"
     },
     "periatric-dentristry": {
@@ -31,7 +31,7 @@
       "image": "/services/Cosmetic.png"
     },
     "dental-surgery": {
-      "title": "Dental Surgery",
+      "title": "Oral Surgery",
       "subtitle": "Surgical solutions for better oral health",
       "description": "Advanced surgical procedures for oral health restoration.",
       "backgroundPosition": "100% 0%",
@@ -76,12 +76,12 @@
       "description": "Cleans teeth and gums from plaque and decay.",
       "backgroundPosition": "100% 30%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Andrea Guillen Saborio",
+      "specialist": "Dra. Andrea Guillén Saborío",
       "heroImage": "/services/dental-geriatics_hero.jpeg",
       "image": "/services/Cleaning.png"
     },
     "oral-biopsies": {
-      "title": "Oral Biopsies",
+      "title": "Oral Pathology",
       "subtitle": "Early detection through accurate diagnosis",
       "description": "Precise diagnostics with minimal intervention for early detection.",
       "backgroundPosition": "100% 50%",

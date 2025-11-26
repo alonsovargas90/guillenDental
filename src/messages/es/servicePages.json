@@ -31,7 +31,7 @@
       "image": "/services/Cosmetic Dentistry.png"
     },
     "dental-surgery": {
-      "title": "Cirugía Dental",
+      "title": "Cirugía Oral",
       "subtitle": "Procedimientos quirúrgicos orales",
       "description": "Procedimientos quirúrgicos avanzados para restaurar la salud bucal.",
       "heroImage": "/services/dental-surgery_hero.jpg",
@@ -81,7 +81,7 @@
       "image": "/services/Cleaning.png"
     },
     "oral-biopsies": {
-      "title": "Biopsias Orales",
+      "title": "Patología Oral",
       "subtitle": "Detección temprana y diagnóstico",
       "description": "Diagnóstico preciso con intervención mínima para una detección temprana.",
       "backgroundPosition": "100% 50%",

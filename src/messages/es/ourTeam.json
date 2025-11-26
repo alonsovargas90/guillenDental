@@ -1,12 +1,12 @@
 {
     "OurTeam": {
         "title": "Nuestro Equipo",
-        "description": "Discover the passionate professionals behind your smile transformation.",
+        "description": "Descubre a los profesionales apasionados detrás de tu transformación de sonrisa.",
         "members": [
             {
-                "name": "Dra. Andrea Guillen Saborio",
+                "name": "Dra. Andrea Guillén Saborío",
                 "img": "andrea",
-                "specialty": "Director of Dental Care and lead Odontologist",
+                "specialty": "Director de Atención Dental y odontólogo principal",
                 "description": "La Dra. Andrea Guillén es especialista en Ortodoncia y Ortopedia de los Maxilares, con más de 9 años de experiencia clínica transformando sonrisas con un enfoque integral, empático y altamente profesional.",
                 "longDescription": [
                     "La Dra. Andrea Guillén es especialista en Ortodoncia y Ortopedia de los Maxilares, con más de 9 años de experiencia clínica transformando sonrisas con un enfoque integral, empático y altamente profesional.",
@@ -54,8 +54,8 @@
             {
                 "name": "Dra. María Poveda",
                 "img": "María_Poveda",
-                "specialty": "Pediatric Dentist",
-                "description": "Our specialist in pediatric dentistry, with over 9 years of clinical experience caring for children’s dental health.",
+                "specialty": "Odontopediatra",
+                "description": "Nuestra especialista en odontología pediátrica, con más de 9 años de experiencia clínica cuidando la salud dental de los niños.",
                "longDescription": [
                     "La Dra. María Poveda es nuestra especialista en odontopediatría, con más de 9 años de experiencia clínica en el cuidado dental infantil. Se destaca por su enfoque empático, su filosofía de atención integral y su habilidad para generar confianza con los niños y sus familias.",
                     "Es miembro de la junta directiva de la Academia Costarricense de Odontología Pediátrica (ACOP) y cuenta con una sólida formación académica:",
@@ -102,7 +102,7 @@
                 "name": "Dra. Karina Lizano Escalante",
                 "img": "Karina_Lizano_Escalante",
                 "specialty": "Endodoncista",
-                "description": "nuestra especialista en endodoncia, dedicada al  tratamiento de condiciones relacionadas con el 'nervio' dental.",
+                "description": "Nuestra especialista en endodoncia, dedicada al  tratamiento de condiciones relacionadas con el 'nervio' dental.",
                 "longDescription": [
                     "La Dra. Karina Lizano Escalante es nuestra especialista en endodoncia, dedicada al diagnóstico y tratamiento de condiciones relacionadas con el tejido pulpar o 'nervio' dental.",
                     "Cuenta con una Licenciatura en Odontología por la Universidad de Costa Rica y una Especialidad en Endodoncia otorgada por la Universidad Autónoma de Tlaxcala, México. Además, es miembro activo de la Academia de Endodoncia de Costa Rica, lo cual refleja su compromiso con la excelencia clínica y la actualización profesional constante.",

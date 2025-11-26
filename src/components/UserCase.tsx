@@ -11,6 +11,9 @@ const UserCase = () => {
     const theme = useTheme()
     const t = useTranslations('UserCase')
 
+    // ✅ Use .raw() to get the array from the JSON
+    const description: string[] = t.raw('description')
+
     return (
         <Box
             id="user-case"
@@ -24,9 +27,8 @@ const UserCase = () => {
                 spacing={{ xs: 4, md: 6 }}
                 alignItems="center"
                 justifyContent="center"
-             
             >
-                 {/* IMAGE BLOCK */}
+                {/* IMAGE BLOCK */}
                 <Box
                     flex={1}
                     sx={{
@@ -46,11 +48,12 @@ const UserCase = () => {
                     <CompareImage
                         leftImage="/before-after/home/before.jpeg"
                         rightImage="/before-after/home/after.jpeg"
-                        leftImageLabel="Despues"
-                        rightImageLabel="Antes"
+                        leftImageLabel="Antes"
+                        rightImageLabel="Después"
                         sliderLineColor={theme.palette.brandTeal?.main}
                     />
                 </Box>
+
                 {/* TEXT BLOCK */}
                 <Box flex={1} sx={{ textAlign: { xs: 'center', md: 'center' } }}>
                     <Typography
@@ -68,23 +71,26 @@ const UserCase = () => {
                         gutterBottom
                         sx={{
                             fontSize: { xs: '1.8rem', sm: '2rem', md: '2.5rem' },
-                            textAlign: { xs: 'center', md: 'center' }
+                            textAlign: 'center',
                         }}
                     >
                         {t('title')}
                     </Typography>
 
-                    <Typography
-                        variant="h4"
-                        color={theme.palette.brandGray.main}
-                        sx={{
-                            textAlign: { xs: 'justify', md: 'justify' },
-                            fontSize: { xs: '0.95rem', md: '1rem' },
-                            mb: 2,
-                        }}
-                    >
-                        {t('description')}
-                    </Typography>
+                    {description.map((line, index) => (
+                        <Typography
+                            key={index}
+                            variant="body1"
+                            color={theme.palette.brandGray.main}
+                             sx={{
+                                    textAlign: { xs: 'justify', md: 'center' },
+                                    fontSize: { xs: '0.95rem', md: '1rem' },
+                                    mb: 1,
+                                }}
+                        >
+                            {line}
+                        </Typography>
+                    ))}
                 </Box>
             </Stack>
         </Box>
