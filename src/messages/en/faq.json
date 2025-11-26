@@ -1,10 +1,108 @@
 {
   "faq": {
-    "sectionLabel": "FAQ",
-    "title": "Do you need some help?",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
+    "sectionLabel": "Frequently Asked Questions",
+    "title": "Need help?",
+    "description": "Find answers to the most common questions about our treatments, processes, and dental services. We're here to help you make informed decisions about your oral health.",
     "items": [
-
+      {
+        "question": "What is the cost of orthodontic aligner treatment?",
+        "answer": [
+          "The cost of aligner treatment varies depending on the complexity of each case and the number of aligners needed to achieve the ideal result. To determine it accurately, it is necessary to have updated X-rays and perform an in-person evaluation, where we assess your diagnosis and design your personalized treatment plan.",
+          "On average, the cost of aligner treatment ranges between $1,600 and $3,600 and includes both the aligners and all follow-up appointments throughout the process."
+        ]
+      },
+      {
+        "question": "Where can I get the necessary X-rays?",
+        "answer": [
+          "At Guillén Dental Care we have our own radiology center, intraoral scanner, and all the equipment needed to perform your studies in the same place.",
+          "You can get your X-rays, evaluation, and all the records required to diagnose your case accurately right here — and if you wish, even plan your smile design."
+        ]
+      },
+      {
+        "question": "How much does teeth whitening cost?",
+        "answer": [
+          "At Guillén Dental Care we have our own radiology center, intraoral scanner, and all the equipment needed to perform your studies in the same place.",
+          "You can get your X-rays, evaluation, and all the records required to diagnose your case accurately right here — and if you wish, even plan your smile design."
+        ]
+      },
+      {
+        "question": "Which whitening method is best for me?",
+        "answer": [
+          "The ideal teeth whitening method varies depending on each patient’s needs and oral conditions.",
+          "Before performing any technique, a professional cleaning and evaluation are essential. This allows us to:",
+          "• Detect cavities or fractures that may contraindicate the treatment.",
+          "• Evaluate gum health and determine whether prior care is needed.",
+          "• Identify any required treatment before whitening to ensure safe and effective results.",
+          "• Present all available options so you can decide with our specialist which method is best for you.",
+          "Our goal is to ensure a safe, personalized treatment with predictable results."
+        ]
+      },
+      {
+        "question": "What is the cost of a smile design?",
+        "answer": [
+          "The cost of a smile design is individual and personalized for each patient.",
+          "To provide you with an accurate diagnosis, proper budget, and complete treatment plan, you must attend an evaluation with our specialist in aesthetics and prosthodontics.",
+          "During this appointment, we assess your dental health, facial proportions, and esthetic goals to create a design that truly fits you."
+        ]
+      },
+      {
+        "question": "Do you perform dental implants?",
+        "answer": [
+          "Yes. At Guillén Dental Care we perform dental implants with a highly specialized team.",
+          "We have an oral surgeon and anesthesiologist, allowing us to provide a safe, comfortable, and anxiety-free experience, even for patients requiring more complex surgeries.",
+          "Our specialists have extensive experience and work in some of the main hospitals in the country, ensuring:",
+          "• Safe and controlled procedures",
+          "• Predictable and reliable treatments",
+          "• A patient-centered approach focused on comfort and well-being",
+          "Your health, safety, and confidence are our priority."
+        ]
+      },
+      {
+        "question": "Do you treat children? Do you have a pediatric dentist?",
+        "answer": [
+          "Yes. At Guillén Dental Care we have a highly specialized pediatric dentist, who is also a faculty member in the Pediatric Dentistry postgraduate program at the University of Costa Rica.",
+          "She has extensive clinical experience, a focus on pediatric dentofacial orthopedics, and training to work with patients with disabilities, adapting each treatment to their needs.",
+          "When necessary, she can also treat infants and young children under conscious sedation, ensuring a safe, calm, and appropriate experience for the youngest patients."
+        ]
+      },
+      {
+        "question": "Do you treat tongue-tie or offer breastfeeding support programs?",
+        "answer": [
+          "Yes. Our pediatric dentist offers a specialized program for the management of tongue-tie (ankyloglossia) and breastfeeding support.",
+          "She is trained to evaluate, diagnose, and treat conditions that may affect sucking, breastfeeding, or speech, providing a safe and comprehensive approach for the baby and their family."
+        ]
+      },
+      {
+        "question": "Do you perform nerve treatments (endodontics)?",
+        "answer": [
+          "Yes. At Guillén Dental Care we perform nerve treatments and root surgeries (apicoectomies), even in complex cases.",
+          "Our specialist uses a microscope in all procedures, ensuring superior vision, greater precision, and more predictable, long-lasting results."
+        ]
+      },
+      {
+        "question": "Do you treat gum conditions (periodontics)?",
+        "answer": [
+          "Yes. At Guillén Dental Care we have a periodontics specialist with extensive clinical experience and academic background at the University of Costa Rica.",
+          "Their focus is to maintain dental support, preserve teeth for many years, and guide patients in proper oral hygiene to prevent gum bleeding, bad breath, and periodontal diseases.",
+          "Our goal is to help you restore and maintain optimal gum health in the long term."
+        ]
+      },
+      {
+        "question": "Do you offer orthodontics with metal or clear braces?",
+        "answer": [
+          "Yes. At Guillén Dental Care we offer both metal and clear braces.",
+          "To begin any orthodontic treatment—including corrective orthodontics and maxillary orthopedics—a prior evaluation with our specialist is essential, along with a radiographic review, which can be done here at the clinic.",
+          "This allows us to establish an accurate diagnosis and design the ideal treatment plan for each patient."
+        ]
+      },
+      {
+        "question": "Do you perform bridges, crowns, or implants?",
+        "answer": [
+          "Yes. At Guillén Dental Care we have a prosthodontics specialist who performs highly aesthetic, functional, and long-lasting treatments.",
+          "Their approach allows for comprehensive rehabilitation, restoring optimal chewing function along with natural and harmonious esthetics, often in very efficient treatment times.",
+          "We offer crowns, bridges, implants, and complete rehabilitations, always using high-quality materials and personalized planning."
+        ]
+      }
     ]
   }
 }

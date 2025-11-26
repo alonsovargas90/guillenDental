@@ -1,214 +1,214 @@
 {
-    "ServiceInfo": {
-        "orthodontics": {
-            "title": "Alinea tu Sonrisa con Confianza",
-            "description": "Si estás considerando Invisalign o brackets tradicionales, ofrecemos opciones personalizadas según tus objetivos y diagnostico, para que puedas sonreir con comidad y libertad en cada etapa del tratamiento.",
-            "image1": "/services/info/Orthodoncy-1.jpeg",
-            "image2": "/services/info/Orthodoncy-2.jpeg",
-            "image3": "/services/info/Orthodoncy-3.jpeg",
-            "cards": [
-                {
-                    "title": "Planes de Tratamiento Personalizados",
-                    "subtitle": "Cada sonrisa es única. Nuestra atención ortodóntica comienza con una evaluación personalizada y un plan de tratamiento adaptado al paciente, requiriendo radiografias y fotografias para un estudio completo."
-                },
-                {
-                    "title": "Brackets Avanzados e Invisalign",
-                    "subtitle": "Ofrecemos tanto brackets tradicionales como alineadores claros  para proporcionar soluciones si presentas espacios entre los dientes, desgastes dentales, apinamiento, mordida profunda o abierta, mordida cruzada, malformaciones esquletales y preparacion para diseno de sonrisa con carillas."
-                },
-                {
-                    "title": "Beneficios a Largo Plazo para la Salud Oral",
-                    "subtitle": "El tratamiento ortodóntico hace más que mejorar tu sonrisa. Los dientes correctamente alineados facilitan la limpieza diaria, reducen el riesgo de caries y enfermedades de las encías, y apoyan una salud oral duradera."
-                }
-            ]
+  "ServiceInfo": {
+    "orthodontics": {
+      "title": "Alineá tu sonrisa con confianza",
+      "description": "Si estás considerando Invisalign o brackets tradicionales, ofrecemos opciones personalizadas según tus objetivos y diagnóstico, para que puedas sonreír con comodidad y libertad en cada etapa del tratamiento.",
+      "image1": "/services/info/Orthodoncy-1.jpeg",
+      "image2": "/services/info/Orthodoncy-2.jpeg",
+      "image3": "/services/info/Orthodoncy-3.jpeg",
+      "cards": [
+        {
+          "title": "Planes de tratamiento personalizados",
+          "subtitle": "Cada sonrisa es única. Nuestra atención ortodóntica comienza con una evaluación personalizada y un plan de tratamiento adaptado al paciente, requiriendo radiografías y fotografías para un estudio completo."
         },
-        "cosmetic-dentistry": {
-            "title": "Odontología Cosmética",
-            "description": "Realza la belleza natural de tu sonrisa con nuestros tratamientos de estética dental, que incluyen blanqueamiento profesional, carillas de porcelana, resinas estéticas y diseño digital de sonrisa. Logra una apariencia armoniosa, saludable y radiante con resultados personalizados y duraderos.",
-            "image1": "/services/info/Cosmetic-1.jpg",
-            "image2": "/services/info/Cosmetic-3.jpg",
-            "image3": "/services/info/Cosmetic-2.jpg",
-            "cards": [
-                {
-                    "title": "Blanqueamiento Dental",
-                    "subtitle": "Ilumina tu sonrisa con tratamientos profesionales de blanqueamiento dental que eliminan de manera segura y efectiva las manchas causadas por alimentos, bebidas y el envejecimiento. Nuestras de uso en consultorio y casa, ofrecen resultados notables con minima o nula sensibilidad"
-                },
-                {
-                    "title": "Carillas de Porcelana",
-                    "subtitle": "Logra una sonrisa impecable con carillas de porcelana hechas a la medida para asegurar un tamaño y color dental que no cambien con el tiempo y te hagan sentir mejor contigo mismo e incluso rejuvenecido."
-                },
-                {
-                    "title": "Bonding Cosmético",
-                    "subtitle": "Repara imperfecciones menores como grietas, espacios y decoloraciones utilizando resina del color del diente que se mezcla perfectamente con el esmalte natural. Una forma rápida y rentable de mejorar tu sonrisa."
-                }
-            ]
+        {
+          "title": "Brackets avanzados e Invisalign",
+          "subtitle": "Ofrecemos tanto brackets tradicionales como alineadores claros para proporcionar soluciones si presentás espacios entre los dientes, desgastes dentales, apiñamiento, mordida profunda o abierta, mordida cruzada, malformaciones esqueléticas y preparación para diseño de sonrisa con carillas."
         },
-        "periatric-dentristry": {
-            "title": "Odontología Pediátrica",
-            "description": "Atención dental especializada para niños con un enfoque amigable y preventivo.",
-            "image1": "/services/info/Pediatric-1.jpeg",
-            "image2": "/services/info/Pediatric-2.jpeg",
-            "image3": "/services/info/Pediatric-3.jpeg",
-            "cards": [
-                {
-                    "title": "Revisiones Dentales Preventivas",
-                    "subtitle": "Ofrecemos exámenes regulares para monitorear el desarrollo dental, detectar caries tempranas y asegurar sonrisas saludables desde una edad temprana. La prevención es clave para la salud oral de por vida."
-                },
-                {
-                    "title": "Selladores y Tratamientos de Flúor",
-                    "subtitle": "Aplicamos selladores dentales y flúor para proteger tanto los dientes de leche como los permanentes contra las caries. Estos tratamientos son seguros, rápidos y altamente efectivos a largo plazo."
-                },
-                {
-                    "title": "Tratamientos de Caries y Lesiones",
-                    "subtitle": "Tratamos caries e incidentes comunes como traumas dentales con técnicas suaves diseñadas para niños. Nuestro equipo está capacitado para ayudar a los más pequeños a sentirse seguros y cómodos."
-                }
-            ]
-        },
-        "dental-surgery": {
-            "title": "Cirugía Oral",
-            "description": "Procedimientos quirúrgicos avanzados para recuperar piezas dentales perdidas, descartar patologias, eliminar cordales o piezas dentales que no deban permanecer en boca de manera segura y eficaz.",
-            "image1": "/services/info/Surgery-1.jpeg",
-            "image2": "/services/info/Surgery-2.jpeg",
-            "image3": "/services/info/Surgery-3.jpeg",
-            "cards": [
-                {
-                    "title": "Cirugías Orales Completas",
-                    "subtitle": "Nuestros servicios de cirugía dental abarcan una variedad de procedimientos avanzados para restaurar la salud oral, incluidos implantes dentales, extracción de muelas del juicio y cirugía correctiva de mandíbula y maxila en busqueda de una adecuada respiracion y masticacion, asi como una sonrisa mas armoniosa."
-                },
-                {
-                    "title": "Cuidado Dental de Emergencia",
-                    "subtitle": "Proporcionamos tratamientos dentales urgentes para lesiones, infecciones y dolores de muelas severos, asegurando alivio inmediato y atención integral de seguimiento."
-                },
-                {
-                    "title": "Odontología Reconstructiva",
-                    "subtitle": "Nuestros cirujanos formados en destacadas Universidades logran devolverle al paciente su funcion masticatoria. Tambien se realizan cirugias por trauma facial en caso de accidente o biopsias por crecimiento de tejidos anomalos. Todo procedimiento quirurgico puede ser bajo sedacion por anestesiologo"
-                }
-            ]
-        },
-        "periodontics": {
-            "title": "Periodoncia",
-            "description": "Atención integral para enfermedades de las encías e higiene oral. Al haber desequilibrio en las bacterias presentes en boca, asi como una constante inflamacion, nuestra salud sistemica se puede ver comprometida. Nuestros cirujanos especializados en cirugia periodontal estan listos para tratar el origen de su mal aliento, perdida prematura dental o de hueso o reposicion de encia perdida.",
-            "image1": "/services/info/Periodontics-1.jpg",
-            "image2": "/services/info/Periodontics-2.jpeg",
-            "image3": "/services/info/Periodontics-4.jpg",
-            "cards": [
-                {
-                    "title": "Tratamientos de enfermedades de las encías",
-                    "subtitle": "Nos especializamos en el diagnóstico y tratamiento de enfermedades de las encías como la gingivitis y la periodontitis, utilizando técnicas avanzadas y empaticas que le garanticen salud dental."
-                },
-                {
-                    "title": "Cirugías periodontales",
-                    "subtitle": "Nuestras cirugías periodontales incluyen injertos de encías, procedimientos de reducción de bolsas por perdida osea y tratamientos de regeneración ósea para mejorar la estructura de las encías y respaldar implantes dentales."
-                },
-                {
-                    "title": "Cuidado preventivo y de mantenimiento",
-                    "subtitle": "Ofrecemos planes de mantenimiento personalizados para gestionar la salud de las encías, incluidas limpiezas regulares, limpiezas profundas y orientación sobre el cuidado en el hogar para preservas su salud integral."
-                }
-            ]
-        },
-        "endodontics": {
-            "title": "Endodoncia",
-            "description": "Tramiento especializado para preservar dientes naturales mediante tratamientos avanzados del conducto radicular con microscopio operado por endodoncista.",
-            "image1": "/services/info/Endodontics-1.jpg",
-            "image2": "/services/info/Endodontics-2.jpg",
-            "image3": "/services/info/Endodontics-3.jpg",
-            "cards": [
-                {
-                    "title": "Tratamientos de conducto radicular",
-                    "subtitle": "Eliminamos la pulpa dental infectada, limpiamos y sellamos los conductos para aliviar el dolor y salvar las piezas dentales y el hueso que la soporta al rededor. Se tratan pacientes con perdida de la vitalidad dental por accidente."
-                },
-                {
-                    "title": "Cirugías endodónticas",
-                    "subtitle": "Se realizan apicectomías para tratar infecciones persistentes y preservar dientes que no responden a tratamientos convencionales. Nuestro objetivo siempre sera procurar mantener la pieza dental natural el mayor tiempo posible."
-                },
-                {
-                    "title": "Cuidado preventivo y mantenimiento",
-                    "subtitle": "Se mantienen evaluaciones regulares tanto fisica como radiograficamente, asi como educación en higiene oral para prevenir enfermedades pulpares y mantener la salud dental a largo plazo."
-                }
-            ]
-        },
-        "dental-implants": {
-            "title": "Implantes Dentales",
-            "description": "Recupera tu sonrisa natural y la funcionalidad dental.",
-            "image1": "/services/info/Implants-1.jpg",
-            "image2": "/services/info/Implants-2.jpeg",
-            "image3": "/services/info/Implants-3.jpg",
-            "cards": [
-                {
-                    "title": "Consultas de Implantes",
-                    "subtitle": "Nuestras consultas de implantes dentales incluyen evaluaciones exhaustivas y planes de tratamiento personalizados para determinar las mejores soluciones de implantes para tus necesidades de salud oral."
-                },
-                {
-                    "title": "Colocación de Implantes",
-                    "subtitle": "Utilizamos técnicas de vanguardia para la colocación precisa de implantes dentales, garantizando estética óptima, funcionalidad y éxito a largo plazo de los implantes dentales."
-                },
-                {
-                    "title": "Restauración de Implantes",
-                    "subtitle": "Desde reemplazos de dientes individuales hasta restauraciones completas de la boca, nuestros servicios de restauración de implantes se centran en mejorar la apariencia de tu sonrisa y restaurar la función masticatoria natural."
-                }
-            ]
-        },
-        "cleanings": {
-            "title": "Limpiezas",
-            "description": "Diagnósticos posterior a una limpieza dental para eliminar manchas y calculo dental que permita distinguir caries, fisuras, encias inflamadas, etc.",
-            "image1": "/services/info/Cleanings-1.jpg",
-            "image2": "/services/info/Cleanings-2.jpg",
-            "image3": "/services/info/Cleanings-3.jpeg",
-            "cards": [
-                {
-                    "title": "Limpiezas Dentales Regulares",
-                    "subtitle": "Nuestras limpiezas dentales profesionales eliminan biofilme dental, sarro y manchas superficiales para mantener la salud oral óptima y prevenir enfermedades de las encías. Son programadas y recordadas de manera periodica."
-                },
-                {
-                    "title": "Tratamientos de Limpieza Profunda",
-                    "subtitle": "Ofrecemos limpieza profunda con profijet para eliminar manchas extrinsecas mas dificiles de eliminar en pacientes fumadores o que acumulen mayores pigmentos por distintas condiciones."
-                },
-                {
-                    "title": "Educación en Cuidado Preventivo",
-                    "subtitle": "Nuestro equipo dental proporciona educación personalizada sobre prácticas de higiene oral, consejos dietéticos y rutinas de cuidado en el hogar para respaldar el bienestar del paciente de forma individualizada."
-                }
-            ]
-        },
-        "oral-biopsies": {
-            "title": "Patología Oral",
-            "description": "Diagnósticos precisos y procedimientos para evaluar anomalías en los tejidos orales.",
-            "image1": "/services/info/Biopsis-1.jpg",
-            "image2": "/services/info/Biopsis-2.jpg",
-            "image3": "/services/info/Biopsis-3.jpg",
-            "cards": [
-                {
-                    "title": "Evaluación Integral de Tejidos Orales",
-                    "subtitle": "Realizamos exámenes detallados y biopsias para diagnosticar lesiones orales, úlceras y crecimientos sospechosos de tejido, asegurando una detección y tratamiento oportunos."
-                },
-                {
-                    "title": "Procedimientos de Biopsia",
-                    "subtitle": "Nuestros procedimientos de biopsia involucran técnicas seguras y precisas de muestreo de tejidos para proporcionar informes patológicos precisos y guiar planes de tratamiento adecuados."
-                },
-                {
-                    "title": "Educación y Apoyo al Paciente",
-                    "subtitle": "Priorizamos la educación del paciente, ofreciendo explicaciones claras sobre los procedimientos de biopsia, interpretación de resultados y apoyo continuo durante todo el proceso diagnóstico."
-                }
-            ]
-        },
-        "botox": {
-            "title": "¿Rechina usted los dientes?",
-            "description": "El bruxismo es una condicion y no una patologia. Existen muchos motivos que pueden originarlo y es por eso que un estudio completo y guiado lo pueden llevar a controlarlo y evitar consecuencias negativas al respecto.",
-            "image1": "/services/info/Botox-Bruxism-1.jpg",
-            "image2": "/services/info/Botox-Bruxism-2.jpg",
-            "image3": "/services/info/Botox-Bruxism-3.jpg",
-            "cards": [
-                {
-                    "title": "Relajación Dirigida de los Músculos Mandibulares",
-                    "subtitle": "Una de las formas de tratar el bruximo segun el diagnostico del paciente, es la aplicacion de toxina botulinica conocida como \"Botox\". Esto al reducir el apretamiento y rechinamiento involuntario de manera que se genere alivio y se prevengan daños dentales. El paciente nota una disminucion del agotamiento y mal dormir. Su aplicacion trae como consecuencia un afinamiento de la cara."
-                },
-                {
-                    "title": "Ferulas Nccturnas",
-                    "subtitle": "La confeccion de una ferula precisa y personalizada reduce notablemente riesgos de fracturas y desgaste dental, evitando costosas rehabilitaciones y un mal descanso del paciente en su ausencia."
-                },
-                {
-                    "title": "Ortodoncia y Rehabilitacionral",
-                    "subtitle": "Corregir su mordida, es en muchos casos una de las opciones de tratamiento para tratar el rechinamiento y desgaste dental.Permitanos ver su caso con uno o mas especialistas a la vez, ya que estos tratamientos logran  equilibrio mediante trabajos interdisciplinarios." 
-                }
-            ]
+        {
+          "title": "Beneficios a largo plazo para la salud oral",
+          "subtitle": "El tratamiento ortodóntico hace más que mejorar tu sonrisa. Los dientes correctamente alineados facilitan la limpieza diaria, reducen el riesgo de caries y enfermedades de las encías, y apoyan una salud oral duradera."
         }
+      ]
+    },
+    "cosmetic-dentistry": {
+      "title": "Odontología cosmética",
+      "description": "Realzá la belleza natural de tu sonrisa con nuestros tratamientos de estética dental, que incluyen blanqueamiento profesional, carillas de porcelana, resinas estéticas y diseño digital de sonrisa. Obtené una apariencia armoniosa, saludable y radiante con resultados personalizados y duraderos.",
+      "image1": "/services/info/Cosmetic-1.jpg",
+      "image2": "/services/info/Cosmetic-3.jpg",
+      "image3": "/services/info/Cosmetic-2.jpg",
+      "cards": [
+        {
+          "title": "Blanqueamiento dental",
+          "subtitle": "Iluminá tu sonrisa con tratamientos profesionales de blanqueamiento dental que eliminan de manera segura y efectiva las manchas causadas por alimentos, bebidas y el envejecimiento. Nuestras técnicas en consultorio y de uso en casa ofrecen resultados notables con mínima o nula sensibilidad."
+        },
+        {
+          "title": "Carillas de porcelana",
+          "subtitle": "Lográ una sonrisa impecable con carillas de porcelana hechas a la medida para asegurar un tamaño y color dental que no cambien con el tiempo y te hagan sentir mejor contigo mismo, incluso rejuvenecido."
+        },
+        {
+          "title": "Bonding cosmético",
+          "subtitle": "Repará imperfecciones menores como grietas, espacios y decoloraciones utilizando resina del color del diente que se mezcla perfectamente con el esmalte natural. Una forma rápida y rentable de mejorar tu sonrisa."
+        }
+      ]
+    },
+    "periatric-dentristry": {
+      "title": "Odontología pediátrica",
+      "description": "Atención dental especializada para niños con un enfoque amigable, preventivo y empático.",
+      "image1": "/services/info/Pediatric-1.jpeg",
+      "image2": "/services/info/Pediatric-2.jpeg",
+      "image3": "/services/info/Pediatric-3.jpeg",
+      "cards": [
+        {
+          "title": "Revisiones dentales preventivas",
+          "subtitle": "Ofrecemos exámenes regulares para monitorear el desarrollo dental, detectar caries tempranas y asegurar sonrisas saludables desde una edad temprana. La prevención es clave para la salud oral de por vida."
+        },
+        {
+          "title": "Selladores y tratamientos de flúor",
+          "subtitle": "Aplicamos selladores dentales y flúor para proteger tanto los dientes de leche como los permanentes contra las caries. Estos tratamientos son seguros, rápidos y altamente efectivos a largo plazo."
+        },
+        {
+          "title": "Tratamientos de caries y lesiones",
+          "subtitle": "Tratamos caries e incidentes comunes como traumas dentales con técnicas suaves diseñadas para niños. Nuestro equipo está capacitado para ayudar a los más pequeños a sentirse seguros y cómodos."
+        }
+      ]
+    },
+    "dental-surgery": {
+      "title": "Cirugía oral",
+      "description": "Procedimientos quirúrgicos avanzados para recuperar piezas dentales perdidas, descartar patologías, eliminar cordales o extraer piezas que no deban permanecer en boca, de manera segura y eficaz.",
+      "image1": "/services/info/Surgery-1.jpeg",
+      "image2": "/services/info/Surgery-2.jpeg",
+      "image3": "/services/info/Surgery-3.jpeg",
+      "cards": [
+        {
+          "title": "Cirugías orales completas",
+          "subtitle": "Nuestros servicios de cirugía dental abarcan una variedad de procedimientos avanzados para restaurar la salud oral, incluidos implantes dentales, extracción de muelas del juicio y cirugía correctiva de mandíbula y maxila en búsqueda de una adecuada respiración y masticación, así como una sonrisa más armoniosa."
+        },
+        {
+          "title": "Cuidado dental de emergencia",
+          "subtitle": "Proporcionamos tratamientos dentales urgentes para lesiones, infecciones y dolores severos, asegurando alivio inmediato y atención integral de seguimiento."
+        },
+        {
+          "title": "Odontología reconstructiva",
+          "subtitle": "Nuestros cirujanos, formados en destacadas universidades, logran devolverle al paciente su función masticatoria. También realizamos cirugías por trauma facial o biopsias por crecimiento de tejidos anómalos. Todo procedimiento quirúrgico puede realizarse bajo sedación administrada por un anestesiólogo."
+        }
+      ]
+    },
+    "periodontics": {
+      "title": "Periodoncia",
+      "description": "Atención integral para enfermedades de las encías e higiene oral. Cuando existe desequilibrio en las bacterias presentes en boca y una inflamación constante, nuestra salud sistémica puede verse comprometida. Nuestros especialistas en cirugía periodontal están listos para tratar el origen del mal aliento, la pérdida prematura dental o de hueso, y la reposición de encía perdida.",
+      "image1": "/services/info/Periodontics-1.jpg",
+      "image2": "/services/info/Periodontics-2.jpeg",
+      "image3": "/services/info/Periodontics-4.jpg",
+      "cards": [
+        {
+          "title": "Tratamientos para enfermedades de las encías",
+          "subtitle": "Nos especializamos en el diagnóstico y tratamiento de enfermedades de las encías como la gingivitis y la periodontitis, utilizando técnicas avanzadas y empáticas que garanticen salud dental duradera."
+        },
+        {
+          "title": "Cirugías periodontales",
+          "subtitle": "Nuestras cirugías periodontales incluyen injertos de encía, procedimientos de reducción de bolsas por pérdida ósea y tratamientos de regeneración ósea para mejorar la estructura de las encías y respaldar implantes dentales."
+        },
+        {
+          "title": "Cuidado preventivo y mantenimiento",
+          "subtitle": "Ofrecemos planes de mantenimiento personalizados para gestionar la salud de las encías, incluidas limpiezas regulares, limpiezas profundas y orientación sobre el cuidado en el hogar para preservar su salud integral."
+        }
+      ]
+    },
+    "endodontics": {
+      "title": "Endodoncia",
+      "description": "Tratamiento especializado para preservar dientes naturales mediante procedimientos avanzados de conducto radicular, realizados con microscopio por nuestra endodoncista.",
+      "image1": "/services/info/Endodontics-1.jpg",
+      "image2": "/services/info/Endodontics-2.jpg",
+      "image3": "/services/info/Endodontics-3.jpg",
+      "cards": [
+        {
+          "title": "Tratamientos de conducto radicular",
+          "subtitle": "Eliminamos la pulpa dental infectada, limpiamos y sellamos los conductos para aliviar el dolor y salvar las piezas dentales, así como el hueso que las sostiene. También tratamos dientes que pierden vitalidad debido a accidentes."
+        },
+        {
+          "title": "Cirugías endodónticas",
+          "subtitle": "Realizamos apicectomías para tratar infecciones persistentes y preservar dientes que no responden a tratamientos convencionales. Nuestro objetivo siempre será mantener la pieza dental natural el mayor tiempo posible."
+        },
+        {
+          "title": "Cuidado preventivo y mantenimiento",
+          "subtitle": "Realizamos evaluaciones regulares tanto clínicas como radiográficas, además de educación en higiene oral para prevenir enfermedades pulpares y mantener la salud dental a largo plazo."
+        }
+      ]
+    },
+    "dental-implants": {
+      "title": "Implantes dentales",
+      "description": "Recuperá tu sonrisa natural y la funcionalidad dental.",
+      "image1": "/services/info/Implants-1.jpg",
+      "image2": "/services/info/Implants-2.jpeg",
+      "image3": "/services/info/Implants-3.jpg",
+      "cards": [
+        {
+          "title": "Consultas de implantes",
+          "subtitle": "Nuestras consultas de implantes incluyen evaluaciones exhaustivas y planes de tratamiento personalizados para determinar las mejores soluciones de implantes según tus necesidades."
+        },
+        {
+          "title": "Colocación de implantes",
+          "subtitle": "Utilizamos técnicas de vanguardia para la colocación precisa de implantes dentales, garantizando estética óptima, funcionalidad y éxito a largo plazo."
+        },
+        {
+          "title": "Restauración de implantes",
+          "subtitle": "Desde reemplazos individuales hasta restauraciones completas, nuestros servicios de rehabilitación con implantes se enfocan en mejorar la apariencia de tu sonrisa y restaurar la función masticatoria natural."
+        }
+      ]
+    },
+    "cleanings": {
+      "title": "Limpiezas",
+      "description": "Diagnósticos posteriores a una limpieza dental para eliminar manchas y cálculo dental y así identificar caries, fisuras, encías inflamadas, entre otros.",
+      "image1": "/services/info/Cleanings-1.jpg",
+      "image2": "/services/info/Cleanings-2.jpg",
+      "image3": "/services/info/Cleanings-3.jpeg",
+      "cards": [
+        {
+          "title": "Limpiezas dentales regulares",
+          "subtitle": "Nuestras limpiezas profesionales eliminan biofilm, sarro y manchas superficiales para mantener una salud oral óptima y prevenir enfermedades de las encías. Se programan de manera periódica."
+        },
+        {
+          "title": "Tratamientos de limpieza profunda",
+          "subtitle": "Ofrecemos limpieza profunda con Profijet para eliminar manchas extrínsecas difíciles, especialmente en pacientes fumadores o con mayor acumulación de pigmentos."
+        },
+        {
+          "title": "Educación en cuidado preventivo",
+          "subtitle": "Nuestro equipo brinda educación personalizada sobre higiene oral, hábitos dietéticos y rutinas de cuidado en el hogar para un bienestar integral."
+        }
+      ]
+    },
+    "oral-biopsies": {
+      "title": "Patología oral",
+      "description": "Diagnósticos precisos y procedimientos para evaluar anomalías en los tejidos orales.",
+      "image1": "/services/info/Biopsis-1.jpg",
+      "image2": "/services/info/Biopsis-2.jpg",
+      "image3": "/services/info/Biopsis-3.jpg",
+      "cards": [
+        {
+          "title": "Evaluación integral de tejidos orales",
+          "subtitle": "Realizamos exámenes detallados y biopsias para diagnosticar lesiones orales, úlceras y crecimientos sospechosos, garantizando una detección y tratamiento oportunos."
+        },
+        {
+          "title": "Procedimientos de biopsia",
+          "subtitle": "Nuestros procedimientos emplean técnicas seguras y precisas de muestreo de tejidos para obtener diagnósticos patológicos exactos y guiar tratamientos adecuados."
+        },
+        {
+          "title": "Educación y apoyo al paciente",
+          "subtitle": "Priorizamos la educación del paciente, ofreciendo explicaciones claras sobre los procedimientos, interpretación de resultados y acompañamiento durante todo el proceso diagnóstico."
+        }
+      ]
+    },
+    "botox": {
+      "title": "¿Rechinás los dientes?",
+      "description": "El bruxismo es una condición, no una patología. Existen múltiples motivos que pueden originarlo y, por eso, un estudio completo y guiado puede ayudarte a controlarlo y evitar consecuencias negativas.",
+      "image1": "/services/info/Botox-Bruxism-1.jpg",
+      "image2": "/services/info/Botox-Bruxism-2.jpg",
+      "image3": "/services/info/Botox-Bruxism-3.jpg",
+      "cards": [
+        {
+          "title": "Relajación dirigida de los músculos mandibulares",
+          "subtitle": "Una forma de tratar el bruxismo, según el diagnóstico del paciente, es la aplicación de toxina botulínica, conocida como \"Botox\". Esto reduce el apretamiento y rechinamiento involuntario, generando alivio y previniendo daños dentales. El paciente nota menos agotamiento y mejor descanso. Su aplicación puede proporcionar un afinamiento facial estético."
+        },
+        {
+          "title": "Férulas nocturnas",
+          "subtitle": "La confección de una férula precisa y personalizada reduce notablemente el riesgo de fracturas y desgaste dental, evitando rehabilitaciones costosas y mejorando la calidad del sueño."
+        },
+        {
+          "title": "Ortodoncia y rehabilitación oral",
+          "subtitle": "Corregir la mordida es, en muchos casos, una opción fundamental para tratar el rechinamiento y el desgaste dental. Permitinos evaluar tu caso con uno o más especialistas, ya que los tratamientos interdisciplinarios logran resultados equilibrados y duraderos."
+        }
+      ]
     }
+  }
 }

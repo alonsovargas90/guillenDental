@@ -2,48 +2,48 @@
   "ServicePages": {
     "orthodontics": {
       "title": "Orthodontics",
-      "subtitle": "Align your teeth with confidence",
-      "description": "Our orthodontics treatments include Invisalign and traditional braces tailored to your needs.",
+      "subtitle": "Correct dental alignment",
+      "description": "If you are considering Invisalign or traditional braces, we offer personalized options based on your goals and diagnosis.",
       "heroImage": "/services/orthodoncy_hero.jpg",
       "backgroundPosition": "0% 20%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Andrea Guillén Saborío",
-      "image": "/services/Orthodoncy.png"
+      "specialist": "Dr. Andrea Guillén Saborío",
+      "image": "/services/orthodoncy.svg"
     },
     "periatric-dentristry": {
       "title": "Pediatric Dentistry",
-      "subtitle": "Gentle care for young smiles",
-      "description": "Tratamientos para ninos y pequenos",
+      "subtitle": "Dental care for children",
+      "description": "Treatments for children and young patients.",
       "heroImage": "/services/periatric_dentristry-hero.jpeg",
       "backgroundPosition": "100% 40%",
       "backgroundSize": "cover",
-      "specialist": "Dra. María Poveda",
+      "specialist": "Dr. María Poveda",
       "image": "/services/Pediatric.png"
     },
     "cosmetic-dentistry": {
       "title": "Cosmetic Dentistry",
-      "subtitle": "Enhance the beauty of your smile",
+      "subtitle": "Enhance your smile",
       "description": "Improve the aesthetics of your smile with whitening, veneers, and more.",
       "heroImage": "/services/cosmetic_dentistry_hero.webp",
-      "backgroundPosition": "0% 30%",
+      "backgroundPosition": "100% 20%",
       "backgroundSize": "cover",
       "specialist": "Dr. Diego Ramírez Alvarado",
-      "image": "/services/Cosmetic.png"
+      "image": "/services/Cosmetic Dentistry.png"
     },
     "dental-surgery": {
       "title": "Oral Surgery",
-      "subtitle": "Surgical solutions for better oral health",
-      "description": "Advanced surgical procedures for oral health restoration.",
+      "subtitle": "Oral surgical procedures",
+      "description": "Advanced surgical procedures to restore oral health.",
+      "heroImage": "/services/dental-surgery_hero.jpg",
       "backgroundPosition": "100% 0%",
       "backgroundSize": "cover",
       "specialist": "Dr. Óscar Reiche Fischel",
-      "heroImage": "/services/dental-surgery_hero.jpg",
-      "image": "/services/Surgery.png"
+      "image": "/services/dental-surgery.svg"
     },
     "periodontics": {
       "title": "Periodontics",
-      "subtitle": "Expert care for gum health",
-      "description": "Comprehensive care for gum diseases and oral hygiene.",
+      "subtitle": "Gum and tissue health",
+      "description": "Comprehensive care for gum disease and oral hygiene.",
       "backgroundPosition": "100% 70%",
       "backgroundSize": "cover",
       "specialist": "Dr. Francisco Jiménez",
@@ -52,38 +52,38 @@
     },
     "endodontics": {
       "title": "Endodontics",
-      "subtitle": "Root canal treatments to relieve pain and save your teeth",
-      "description": "We specialize in root canal treatments to relieve pain and save natural teeth.",
+      "subtitle": "Root canal treatments to relieve pain",
+      "description": "We specialize in root canal treatments to relieve pain and preserve natural teeth.",
       "backgroundPosition": "100% 50%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Karina Lizano Escalante",
+      "specialist": "Dr. Karina Lizano Escalante",
       "heroImage": "/services/endodoncy_hero.jpg",
       "image": "/services/Endodoncy.png"
     },
     "dental-implants": {
       "title": "Dental Implants",
-      "subtitle": "Restore your smile permanently",
-      "description": "Regain your natural smile and dental functionality.",
+      "subtitle": "Restore your smile",
+      "description": "Restore your natural smile and dental functionality.",
+      "heroImage": "/services/Dental-Implants_hero.jpg",
       "backgroundPosition": "100% 80%",
       "backgroundSize": "cover",
       "specialist": "Dr. Óscar Reiche Fischel",
-      "heroImage": "/services/Dental-Implants_hero.jpg",
-      "image": "/services/Implant.png"
+      "image": "/services/Dental Implants.svg"
     },
     "cleanings": {
-      "title": "Dental Cleanings",
-      "subtitle": "Protect your teeth with professional care",
-      "description": "Cleans teeth and gums from plaque and decay.",
+      "title": "Dental Cleaning",
+      "subtitle": "Deep cleaning and prevention",
+      "description": "Removes plaque and decay from teeth and gums.",
       "backgroundPosition": "100% 30%",
       "backgroundSize": "cover",
-      "specialist": "Dra. Andrea Guillén Saborío",
+      "specialist": "Dr. Andrea Guillén Saborío",
       "heroImage": "/services/dental-geriatics_hero.jpeg",
       "image": "/services/Cleaning.png"
     },
     "oral-biopsies": {
       "title": "Oral Pathology",
-      "subtitle": "Early detection through accurate diagnosis",
-      "description": "Precise diagnostics with minimal intervention for early detection.",
+      "subtitle": "Early detection and diagnosis",
+      "description": "Accurate diagnosis with minimal intervention for early detection.",
       "backgroundPosition": "100% 50%",
       "backgroundSize": "cover",
       "specialist": "",
@@ -91,8 +91,8 @@
       "image": "/services/Biopsias2.png"
     },
     "botox": {
-      "title": "Botox Inyections",
-      "subtitle": "Minimally invasive diagnosis. Clear results with expert care",
+      "title": "Bruxism",
+      "subtitle": "Diagnosis and ongoing care. Clear results with continuous attention.",
       "description": "Precise diagnostics with minimal intervention for early detection.",
       "backgroundPosition": "100% 60%",
       "backgroundSize": "cover",

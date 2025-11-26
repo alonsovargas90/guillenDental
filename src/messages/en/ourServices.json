@@ -1,69 +1,69 @@
 {
-    "OurServices": {
-        "title": "Discover our other Services",
-        "subtitle": "Our team of dentists can help with a variety of dental services",
-        "cta": "Book an Appointment",
-        "list": [
-            {
-                "service": "Orthodontics",
-                "date": "Invisalign or traditional braces. Straighten your smile",
-                "img": "/services/Orthodoncy.png",
-                "link": "/en/service/orthodontics"
-            },
-            {
-                "service": "Pediatric Dentistry",
-                "date": "Gentle care for young smiles. Safe treatments for children",
-                "img": "/services/Pediatric.png",
-                "link": "/en/service/periatric-dentristry"
-            },
-            {
-                "service": "Cosmetic Dentistry",
-                "date": "Smile with confidence.Brighten and balance your smile.",
-                "img": "/services/Cosmetic.png",
-                "link": "/en/service/cosmetic-dentistry"
-            },
-            {
-                "service": "Oral Surgery",
-                "date": "Safe & andvance Surgery. Oral procedures you can trust",
-                "img": "/services/Surgery.png",
-                "link": "/en/service/dental-surgery"
-            },
-            {
-                "service": "Periodontics",
-                "date": "Treat gum disease effectively.Promote strong gums and teeth.",
-                "img": "/services/Periodoncy2.png",
-                "link": "/en/service/periodontics"
-            },
-            {
-                "service": "Endodontincs",
-                "date": "Tratamientos para encías. Salud y firmeza dental.",
-                "img": "/services/Endodoncy.png",
-                "link": "/es/service/endodontics"
-            },
-            {
-                "service": "Dental Implants",
-                "date": "Reclaim your natural smile.A lasting fix for missing teeth.",
-                "img": "/services/Implant.png",
-                "link": "/en/service/dental-implants"
-            },
-            {
-                "service": "Oral Cleanings",
-                "date": "Thorough teeth and gum cleaning.Stop plaque and prevent decay.",
-                "img": "/services/Cleaning.png",
-                "link": "/en/service/cleanings"
-            },
-             {
-                "service": "Oral Patology",
-                "date": "Clear Diagnotics. None invasive procedures",
-                "img": "/services/Biopsias2.png",
-                "link": "/en/service/oral-biopsies"
-            },
-            {
-                "service": "Bruxism",
-                "date": "Minimally invasive diagnosis. Clear results with expert care.",
-                "img": "/services/Botox.png",
-                "link": "/en/service/botox"
-            }
-        ]
-    }
+  "OurServices": {
+    "title": "Discover all our dental services",
+    "subtitle": "Our highly experienced and recognized specialists offer safe, precise, and aesthetic treatments.",
+    "cta": "Book an appointment",
+    "list": [
+      {
+        "service": "Orthodontics",
+        "date": "Braces or Invisalign. Align your smile.",
+        "img": "/services/Orthodoncy.png",
+        "link": "/en/service/orthodontics"
+      },
+      {
+        "service": "Pediatric Dentistry",
+        "date": "Dental care for children. Warm and safe approach.",
+        "img": "/services/Pediatric.png",
+        "link": "/en/service/periatric-dentristry"
+      },
+      {
+        "service": "Cosmetic Dentistry",
+        "date": "Smile design. Highly natural and aesthetic results.",
+        "img": "/services/Cosmetic.png",
+        "link": "/en/service/cosmetic-dentistry"
+      },
+      {
+        "service": "Oral Surgery",
+        "date": "Safe procedures. Surgery under sedation.",
+        "img": "/services/Surgery.png",
+        "link": "/en/service/dental-surgery"
+      },
+      {
+        "service": "Periodontics",
+        "date": "Gum treatments. Dental health and longevity.",
+        "img": "/services/Periodoncy2.png",
+        "link": "/en/service/periodontics"
+      },
+      {
+        "service": "Endodontics",
+        "date": "Root canal treatments. Preserve your natural teeth.",
+        "img": "/services/Endodoncy.png",
+        "link": "/en/service/endodontics"
+      },
+      {
+        "service": "Dental Implants",
+        "date": "Restore your smile. Permanent and natural solution.",
+        "img": "/services/Implant.png",
+        "link": "/en/service/dental-implants"
+      },
+      {
+        "service": "Dental Cleanings",
+        "date": "Remove stains and biofilm. Prevent cavities.",
+        "img": "/services/Cleaning.png",
+        "link": "/en/service/cleanings"
+      },
+      {
+        "service": "Oral Pathology",
+        "date": "Clear diagnosis. Safe biopsies.",
+        "img": "/services/Biopsias2.png",
+        "link": "/en/service/oral-biopsies"
+      },
+      {
+        "service": "Bruxism",
+        "date": "Comprehensive treatment.",
+        "img": "/services/Botox.png",
+        "link": "/en/service/botox"
+      }
+    ]
+  }
 }

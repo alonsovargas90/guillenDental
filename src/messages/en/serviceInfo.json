@@ -1,214 +1,214 @@
 {
-    "ServiceInfo": {
-        "orthodontics": {
-            "title": "Align Your Smile with Confidence",
-            "description": "Whether you're considering Invisalign or traditional braces, our orthodontic care is designed to align your teeth comfortably and effectively. We customize each treatment to your unique goals — so you can smile with pride at every stage of the journey.",
-            "image1": "/services/info/Orthodoncy-1.jpeg",
-            "image2": "/services/info/Orthodoncy-2.jpeg",
-            "image3": "/services/info/Orthodoncy-3.jpeg",
-            "cards": [
-                {
-                    "title": "Customized Treatment Plans",
-                    "subtitle": "Every smile is unique. Our orthodontic care begins with a personalized assessment and a treatment plan tailored to your individual dental structure, needs, and lifestyle."
-                },
-                {
-                    "title": "Advanced Braces & Invisalign",
-                    "subtitle": "We offer both traditional braces and Invisalign clear aligners to provide flexible solutions for correcting misalignment, spacing, and bite issues — all with precision and comfort."
-                },
-                {
-                    "title": "Long-Term Oral Health Benefits",
-                    "subtitle": "Orthodontic treatment does more than improve your smile. Properly aligned teeth make daily cleaning easier, reduce the risk of tooth decay and gum disease, and support lasting oral health."
-                }
-            ]
+  "ServiceInfo": {
+    "orthodontics": {
+      "title": "Align Your Smile with Confidence",
+      "description": "Whether you are considering Invisalign or traditional braces, we offer personalized options based on your goals and diagnosis, so you can smile comfortably and confidently at every stage of treatment.",
+      "image1": "/services/info/Orthodoncy-1.jpeg",
+      "image2": "/services/info/Orthodoncy-2.jpeg",
+      "image3": "/services/info/Orthodoncy-3.jpeg",
+      "cards": [
+        {
+          "title": "Personalized Treatment Plans",
+          "subtitle": "Every smile is unique. Our orthodontic care begins with a personalized evaluation and a treatment plan tailored to each patient, requiring X-rays and photographs for a complete, detailed study."
         },
-        "cosmetic-dentistry": {
-            "title": "Cosmetic Dentistry",
-            "description": "Enhance the natural beauty of your smile with our cosmetic dentistry treatments, including professional whitening, porcelain veneers, aesthetic resins, and digital smile design. Achieve a harmonious, healthy, and radiant appearance with personalized and long-lasting results.",
-            "image1": "/services/info/Cosmetic-1.jpg",
-            "image2": "/services/info/Cosmetic-3.jpg",
-            "image3": "/services/info/Cosmetic-2.jpg",
-            "cards": [
-                {
-                    "title": "Teeth Whitening",
-                    "subtitle": "Brighten your smile with professional teeth whitening treatments that safely and effectively remove stains caused by food, drinks, and aging. Our in-office and take-home options deliver noticeable results."
-                },
-                {
-                    "title": "Porcelain Veneers",
-                    "subtitle": "Achieve a flawless smile with custom-made porcelain veneers. These thin, durable shells are bonded to the front of your teeth to correct chips, gaps, uneven surfaces, and discoloration."
-                },
-                {
-                    "title": "Cosmetic Bonding",
-                    "subtitle": "Repair minor imperfections such as cracks, gaps, and discoloration using tooth-colored resin that blends seamlessly with your natural enamel. A quick and cost-effective way to enhance your smile."
-                }
-            ]
+        {
+          "title": "Advanced Braces & Invisalign",
+          "subtitle": "We offer both traditional braces and clear aligners to address spacing, worn teeth, crowding, deep bites, open bites, crossbites, skeletal discrepancies, and preparation for smile design with veneers."
         },
-        "periatric-dentristry": {
-            "title": "Pediatric Dentistry",
-            "description": "Specialized dental care for children with a friendly and preventive focus.",
-            "image1": "/services/info/Pediatric-1.jpeg",
-            "image2": "/services/info/Pediatric-2.jpeg",
-            "image3": "/services/info/Pediatric-3.jpeg",
-            "cards": [
-                {
-                    "title": "Preventive Dental Check-ups",
-                    "subtitle": "We offer regular exams to monitor dental development, detect early cavities, and ensure healthy smiles from an early age. Prevention is key to lifelong oral health."
-                },
-                {
-                    "title": "Sealants and Fluoride Treatments",
-                    "subtitle": "We apply dental sealants and fluoride to protect both baby and permanent teeth against cavities. These treatments are safe, quick, and highly effective in the long term."
-                },
-                {
-                    "title": "Cavity and Injury Treatments",
-                    "subtitle": "We treat cavities and common incidents like dental traumas with gentle techniques tailored for children. Our team is trained to help little ones feel safe and comfortable."
-                }
-            ]
-        },
-        "dental-surgery": {
-            "title": "Oral Surgery",
-            "description": "Advanced surgical procedures for oral health restoration.",
-            "image1": "/services/info/Surgery-1.jpeg",
-            "image2": "/services/info/Surgery-2.jpeg",
-            "image3": "/services/info/Surgery-3.jpeg",
-            "cards": [
-                {
-                    "title": "Comprehensive Oral Surgeries",
-                    "subtitle": "Our dental surgery services encompass a range of advanced procedures to restore oral health, including dental implants, wisdom teeth removal, and corrective jaw surgery."
-                },
-                {
-                    "title": "Emergency Dental Care",
-                    "subtitle": "We provide urgent dental treatments for injuries, infections, and severe toothaches, ensuring immediate relief and comprehensive follow-up care."
-                },
-                {
-                    "title": "Reconstructive Dentistry",
-                    "subtitle": "From full mouth reconstruction to facial trauma repair, our reconstructive dentistry services aim to restore function, aesthetics, and overall oral well-being."
-                }
-            ]
-        },
-        "periodontics": {
-            "title": "Periodontics",
-            "description": "Comprehensive care for gum diseases and oral hygiene.",
-            "image1": "/services/info/Periodontics-1.jpg",
-            "image2": "/services/info/Periodontics-2.jpeg",
-            "image3": "/services/info/Periodontics-4.JPG",
-            "cards": [
-                {
-                    "title": "Gum Disease Treatments",
-                    "subtitle": "We specialize in diagnosing and treating gum diseases such as gingivitis and periodontitis, using advanced techniques to restore gum health and prevent future issues."
-                },
-                {
-                    "title": "Periodontal Surgeries",
-                    "subtitle": "Our periodontal surgeries include gum grafts, pocket reduction procedures, and bone regeneration treatments to enhance gum structure and support dental implants."
-                },
-                {
-                    "title": "Maintenance and Preventive Care",
-                    "subtitle": "We offer personalized maintenance plans to manage gum health, including regular cleanings, deep cleanings, and home care guidance to prevent periodontal disease."
-                }
-            ]
-        },
-        "endodontics": {
-            "title": "Endodontics",
-            "description": "Specialized care to preserve natural teeth through advanced root canal treatments.",
-            "image1": "/services/info/Endodontics-1.jpg",
-            "image2": "/services/info/Endodontics-2.jpg",
-            "image3": "/services/info/Endodontics-3.jpg",
-            "cards": [
-                {
-                    "title": "Root Canal Treatments",
-                    "subtitle": "We remove infected or inflamed pulp tissue, clean and seal the canals to relieve pain and save the tooth."
-                },
-                {
-                    "title": "Endodontic Surgeries",
-                    "subtitle": "Procedures like apicoectomies address persistent infections, preserving teeth that don't respond to conventional treatments."
-                },
-                {
-                    "title": "Preventive Care and Maintenance",
-                    "subtitle": "Regular evaluations and guidance on oral hygiene to prevent pulp diseases and maintain long-term dental health."
-                }
-            ]
-        },
-        "dental-implants": {
-            "title": "Dental Implants",
-            "description": "Regain your natural smile and dental functionality.",
-            "image1": "/services/info/Implants-1.jpg",
-            "image2": "/services/info/Implants-2.jpeg",
-            "image3": "/services/info/Implants-3.jpg",
-            "cards": [
-                {
-                    "title": "Implant Consultations",
-                    "subtitle": "Our dental implant consultations include thorough assessments and personalized treatment plans to determine the best implant solutions for your oral health needs."
-                },
-                {
-                    "title": "Implant Placement",
-                    "subtitle": "We use state-of-the-art techniques for precise implant placement, ensuring optimal aesthetics, functionality, and long-term success of dental implants."
-                },
-                {
-                    "title": "Implant Restoration",
-                    "subtitle": "From single tooth replacements to full mouth restorations, our implant restoration services focus on enhancing your smile's appearance and restoring natural bite function."
-                }
-            ]
-        },
-        "cleanings": {
-            "title": "Cleanings",
-            "description": "Precise diagnostics with advanced procedures for oral health restoration.",
-            "image1": "/services/info/Cleanings-1.jpg",
-            "image2": "/services/info/Cleanings-2.jpg",
-            "image3": "/services/info/Cleanings-3.jpeg",
-            "cards": [
-                {
-                    "title": "Regular Dental Cleanings",
-                    "subtitle": "Our professional dental cleanings remove plaque, tartar buildup, and surface stains to maintain optimal oral health and prevent gum disease."
-                },
-                {
-                    "title": "Deep Cleaning Treatments",
-                    "subtitle": "We offer deep cleaning procedures to address periodontal issues, including scaling and root planing, to restore gum health and prevent tooth loss."
-                },
-                {
-                    "title": "Preventive Care Education",
-                    "subtitle": "Our dental team provides personalized education on oral hygiene practices, diet tips, and home care routines to support long-term dental health and wellness."
-                }
-            ]
-        },
-        "oral-biopsies": {
-            "title": "Oral Pathology",
-            "description": "Accurate diagnostics and procedures for evaluating oral tissue abnormalities.",
-            "image1": "/services/info/Biopsis-1.jpg",
-            "image2": "/services/info/Biopsis-2.jpg",
-            "image3": "/services/info/Biopsis-3.jpg",
-            "cards": [
-                {
-                    "title": "Comprehensive Oral Tissue Evaluation",
-                    "subtitle": "We perform detailed examinations and biopsies to diagnose oral lesions, ulcers, and suspicious tissue growths, ensuring timely detection and treatment."
-                },
-                {
-                    "title": "Biopsy Procedures",
-                    "subtitle": "Our biopsy procedures involve safe and precise tissue sampling techniques to provide accurate pathology reports and guide appropriate treatment plans."
-                },
-                {
-                    "title": "Patient Education and Support",
-                    "subtitle": "We prioritize patient education, offering clear explanations of biopsy procedures, results interpretation, and ongoing support throughout the diagnostic process."
-                }
-            ]
-        },
-        "botox": {
-            "title": "Bruxism",
-            "description": "Non-invasive treatment to alleviate jaw tension, reduce teeth grinding, and enhance facial aesthetics.",
-            "image1": "/services/info/Botox-Bruxism-1.jpg",
-            "image2": "/services/info/Botox-Bruxism-2.jpg",
-            "image3": "/services/info/Botox-Bruxism-3.jpg",
-            "cards": [
-                {
-                    "title": "Targeted Jaw Muscle Relaxation",
-                    "subtitle": "Botox injections into the masseter muscles help reduce involuntary clenching and grinding, providing relief from jaw pain and preventing dental damage."
-                },
-                {
-                    "title": "Minimally Invasive Procedure",
-                    "subtitle": "The treatment involves quick, precise injections with minimal discomfort and no downtime, allowing patients to resume daily activities immediately."
-                },
-                {
-                    "title": "Enhanced Facial Contouring",
-                    "subtitle": "Beyond therapeutic benefits, Botox can slim the jawline by reducing muscle bulk, contributing to a more refined facial appearance."
-                }
-            ]
+        {
+          "title": "Long-Term Oral Health Benefits",
+          "subtitle": "Orthodontic treatment does more than improve your smile. Properly aligned teeth make daily cleaning easier, reduce the risk of cavities and gum disease, and support long-lasting oral health."
         }
+      ]
+    },
+    "cosmetic-dentistry": {
+      "title": "Cosmetic Dentistry",
+      "description": "Enhance the natural beauty of your smile with our cosmetic dental treatments, including professional whitening, porcelain veneers, aesthetic bonding, and digital smile design. Achieve a harmonious, healthy, radiant appearance with personalized, long-lasting results.",
+      "image1": "/services/info/Cosmetic-1.jpg",
+      "image2": "/services/info/Cosmetic-3.jpg",
+      "image3": "/services/info/Cosmetic-2.jpg",
+      "cards": [
+        {
+          "title": "Teeth Whitening",
+          "subtitle": "Brighten your smile with professional whitening treatments that safely and effectively remove stains caused by food, beverages, and aging. Our in-office and at-home options deliver noticeable results with minimal to no sensitivity."
+        },
+        {
+          "title": "Porcelain Veneers",
+          "subtitle": "Achieve a flawless smile with custom-made porcelain veneers designed to ensure a natural tooth shape and color that won’t change over time. Feel more confident and even rejuvenated with this transformative treatment."
+        },
+        {
+          "title": "Cosmetic Bonding",
+          "subtitle": "Repair minor imperfections such as chips, gaps, and discolorations using tooth-colored resin that blends seamlessly with your natural enamel. A fast and cost-effective way to improve your smile."
+        }
+      ]
+    },
+    "periatric-dentristry": {
+      "title": "Pediatric Dentistry",
+      "description": "Specialized dental care for children with a friendly, preventive, and empathetic approach.",
+      "image1": "/services/info/Pediatric-1.jpeg",
+      "image2": "/services/info/Pediatric-2.jpeg",
+      "image3": "/services/info/Pediatric-3.jpeg",
+      "cards": [
+        {
+          "title": "Preventive Dental Checkups",
+          "subtitle": "We provide regular exams to monitor dental development, detect early cavities, and ensure healthy smiles from a young age. Prevention is key to lifelong oral health."
+        },
+        {
+          "title": "Sealants & Fluoride Treatments",
+          "subtitle": "We apply dental sealants and fluoride to protect both primary and permanent teeth from cavities. These treatments are safe, quick, and highly effective long-term."
+        },
+        {
+          "title": "Treatment for Cavities & Injuries",
+          "subtitle": "We treat cavities and common childhood dental injuries using gentle techniques designed specifically for children. Our team is trained to help little ones feel safe and comfortable."
+        }
+      ]
+    },
+    "dental-surgery": {
+      "title": "Oral Surgery",
+      "description": "Advanced surgical procedures to restore missing teeth, rule out oral pathologies, remove wisdom teeth, or extract teeth that should not remain in the mouth—safely and effectively.",
+      "image1": "/services/info/Surgery-1.jpeg",
+      "image2": "/services/info/Surgery-2.jpeg",
+      "image3": "/services/info/Surgery-3.jpeg",
+      "cards": [
+        {
+          "title": "Comprehensive Oral Surgeries",
+          "subtitle": "Our oral surgery services cover a wide range of advanced procedures, including dental implants, wisdom tooth extraction, and corrective jaw surgery to improve breathing, chewing, and overall facial harmony."
+        },
+        {
+          "title": "Emergency Dental Care",
+          "subtitle": "We provide urgent dental treatments for injuries, infections, and severe tooth pain, offering immediate relief and complete follow-up care."
+        },
+        {
+          "title": "Reconstructive Dentistry",
+          "subtitle": "Our surgeons, trained at leading universities, restore chewing function and treat facial trauma cases or tissue biopsies. All surgical procedures can be performed under sedation administered by an anesthesiologist."
+        }
+      ]
+    },
+    "periodontics": {
+      "title": "Periodontics",
+      "description": "Comprehensive care for gum disease and oral hygiene. When bacterial imbalance and chronic inflammation occur, systemic health can be affected. Our specialists are ready to treat the causes of bad breath, premature tooth or bone loss, and gum recession.",
+      "image1": "/services/info/Periodontics-1.jpg",
+      "image2": "/services/info/Periodontics-2.jpeg",
+      "image3": "/services/info/Periodontics-4.jpg",
+      "cards": [
+        {
+          "title": "Gum Disease Treatments",
+          "subtitle": "We specialize in diagnosing and treating gum diseases such as gingivitis and periodontitis using advanced, patient-centered techniques that support long-term oral health."
+        },
+        {
+          "title": "Periodontal Surgeries",
+          "subtitle": "Our periodontal surgeries include gum grafts, pocket reduction procedures due to bone loss, and bone regeneration treatments to strengthen gum structure and support dental implants."
+        },
+        {
+          "title": "Preventive & Maintenance Care",
+          "subtitle": "We offer personalized maintenance plans that include regular cleanings, deep cleanings, and home-care guidance to support your overall gum health."
+        }
+      ]
+    },
+    "endodontics": {
+      "title": "Endodontics",
+      "description": "Specialized treatment to preserve natural teeth through advanced root canal procedures performed with a microscope by our endodontic specialist.",
+      "image1": "/services/info/Endodontics-1.jpg",
+      "image2": "/services/info/Endodontics-2.jpg",
+      "image3": "/services/info/Endodontics-3.jpg",
+      "cards": [
+        {
+          "title": "Root Canal Treatments",
+          "subtitle": "We remove infected pulp, clean and seal the canals to relieve pain and save natural teeth, along with the surrounding bone support. We also treat teeth that lose vitality due to trauma."
+        },
+        {
+          "title": "Endodontic Surgeries",
+          "subtitle": "We perform apicoectomies to treat persistent infections and preserve teeth that do not respond to conventional treatments. Our goal is always to maintain the natural tooth for as long as possible."
+        },
+        {
+          "title": "Preventive & Follow-Up Care",
+          "subtitle": "We conduct regular clinical and radiographic evaluations, along with oral hygiene education, to prevent pulp disease and maintain long-term dental health."
+        }
+      ]
+    },
+    "dental-implants": {
+      "title": "Dental Implants",
+      "description": "Restore your natural smile and dental functionality.",
+      "image1": "/services/info/Implants-1.jpg",
+      "image2": "/services/info/Implants-2.jpeg",
+      "image3": "/services/info/Implants-3.jpg",
+      "cards": [
+        {
+          "title": "Implant Consultations",
+          "subtitle": "Our implant consultations include thorough evaluations and personalized treatment plans to determine the best implant solutions for your oral health needs."
+        },
+        {
+          "title": "Implant Placement",
+          "subtitle": "We use cutting-edge techniques for precise implant placement, ensuring optimal aesthetics, functionality, and long-term success."
+        },
+        {
+          "title": "Implant Restoration",
+          "subtitle": "From single-tooth replacements to full-mouth restorations, our implant restoration services focus on enhancing your smile’s appearance and restoring natural chewing function."
+        }
+      ]
+    },
+    "cleanings": {
+      "title": "Dental Cleanings",
+      "description": "Post-cleaning diagnostics help identify stains, tartar, cavities, cracks, gum inflammation, and more, after removing buildup and plaque.",
+      "image1": "/services/info/Cleanings-1.jpg",
+      "image2": "/services/info/Cleanings-2.jpg",
+      "image3": "/services/info/Cleanings-3.jpeg",
+      "cards": [
+        {
+          "title": "Routine Dental Cleanings",
+          "subtitle": "Our professional cleanings remove biofilm, tartar, and surface stains to maintain optimal oral health and prevent gum disease. Cleanings are scheduled regularly."
+        },
+        {
+          "title": "Deep Cleaning Treatments",
+          "subtitle": "We offer deep cleanings with Profijet to remove difficult extrinsic stains, especially in patients who smoke or accumulate additional pigments."
+        },
+        {
+          "title": "Preventive Care Education",
+          "subtitle": "Our dental team provides personalized education on oral hygiene, dietary recommendations, and home-care routines to support each patient’s long-term well-being."
+        }
+      ]
+    },
+    "oral-biopsies": {
+      "title": "Oral Pathology",
+      "description": "Accurate diagnoses and procedures to evaluate abnormalities in oral tissues.",
+      "image1": "/services/info/Biopsis-1.jpg",
+      "image2": "/services/info/Biopsis-2.jpg",
+      "image3": "/services/info/Biopsis-3.jpg",
+      "cards": [
+        {
+          "title": "Comprehensive Tissue Evaluation",
+          "subtitle": "We perform detailed exams and biopsies to diagnose oral lesions, ulcers, and suspicious tissue growths, ensuring timely detection and treatment."
+        },
+        {
+          "title": "Biopsy Procedures",
+          "subtitle": "Our biopsy procedures use safe and precise tissue-sampling techniques to provide accurate pathology reports and guide appropriate treatment plans."
+        },
+        {
+          "title": "Patient Education & Support",
+          "subtitle": "We prioritize patient education, offering clear explanations of biopsy procedures, result interpretation, and ongoing support throughout the diagnostic process."
+        }
+      ]
+    },
+    "botox": {
+      "title": "Do You Grind Your Teeth?",
+      "description": "Bruxism is a condition, not a disease. There are many causes behind it, which is why a complete guided evaluation can help you control it and prevent long-term consequences.",
+      "image1": "/services/info/Botox-Bruxism-1.jpg",
+      "image2": "/services/info/Botox-Bruxism-2.jpg",
+      "image3": "/services/info/Botox-Bruxism-3.jpg",
+      "cards": [
+        {
+          "title": "Targeted Jaw Muscle Relaxation",
+          "subtitle": "One treatment option for bruxism, depending on the diagnosis, is the application of botulinum toxin (\"Botox\"). This reduces involuntary grinding and clenching, providing relief and preventing dental damage. Patients often experience less fatigue and improved sleep, along with enhanced facial contouring."
+        },
+        {
+          "title": "Night Guards",
+          "subtitle": "A precise, custom-made night guard significantly reduces the risk of fractures and dental wear, preventing costly rehabilitations and improving sleep quality."
+        },
+        {
+          "title": "Orthodontics & Oral Rehabilitation",
+          "subtitle": "Correcting your bite is, in many cases, a fundamental part of treating grinding and dental wear. Let us evaluate your case with one or more specialists, as interdisciplinary care often provides the most balanced and effective results."
+        }
+      ]
     }
+  }
 }

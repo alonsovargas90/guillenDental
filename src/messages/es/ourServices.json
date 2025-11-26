@@ -1,30 +1,30 @@
 {
   "OurServices": {
     "title": "Descubrí todos nuestros servicios dentales",
-    "subtitle": "Nuestros especialistas con amplia trayectoria y reconocimiento,  ofrecen tratamientos seguros, precisos y estéticos.",
-    "cta": "Reserva una cita",
+    "subtitle": "Nuestros especialistas, con amplia trayectoria y reconocimiento, ofrecen tratamientos seguros, precisos y estéticos.",
+    "cta": "Reservá una cita",
     "list": [
       {
         "service": "Ortodoncia",
-        "date": "Brackets o Invisalign. Alinea tu sonrisa.",
+        "date": "Brackets o Invisalign. Alineá tu sonrisa.",
         "img": "/services/Orthodoncy.png",
         "link": "/es/service/orthodontics"
       },
       {
         "service": "Odontopediatría",
-        "date": "Cuidado dental infantil. Enfoque calido y seguro",
+        "date": "Cuidado dental infantil. Enfoque cálido y seguro.",
         "img": "/services/Pediatric.png",
         "link": "/es/service/periatric-dentristry"
       },
       {
         "service": "Odontología Cosmética",
-        "date": "Diseno de sonrisa. Resultados altamente y naturales.",
+        "date": "Diseño de sonrisa. Resultados altamente estéticos y naturales.",
         "img": "/services/Cosmetic.png",
         "link": "/es/service/cosmetic-dentistry"
       },
       {
         "service": "Cirugía Oral",
-        "date": "Procedimientos seguros. Cirugía bajo sedacion.",
+        "date": "Procedimientos seguros. Cirugía bajo sedación.",
         "img": "/services/Surgery.png",
         "link": "/es/service/dental-surgery"
       },
@@ -36,24 +36,24 @@
       },
       {
         "service": "Endodoncia",
-        "date": "Tratamientos de nervio. Conserva tus dientes Naturales.",
+        "date": "Tratamientos de nervio. Conservá tus dientes naturales.",
         "img": "/services/Endodoncy.png",
         "link": "/es/service/endodontics"
       },
       {
         "service": "Implantes Dentales",
-        "date": "Recupera tu sonrisa. Solución fija y natural.",
+        "date": "Recuperá tu sonrisa. Solución fija y natural.",
         "img": "/services/Implant.png",
         "link": "/es/service/dental-implants"
       },
       {
         "service": "Limpiezas Dentales",
-        "date": "Elimina manchas y biofilme. Previene caries.",
+        "date": "Eliminá manchas y biofilm. Prevení caries.",
         "img": "/services/Cleaning.png",
         "link": "/es/service/cleanings"
       },
       {
-        "service": "Patologia Oral",
+        "service": "Patología Oral",
         "date": "Diagnóstico claro. Biopsias seguras.",
         "img": "/services/Biopsias2.png",
         "link": "/es/service/oral-biopsies"

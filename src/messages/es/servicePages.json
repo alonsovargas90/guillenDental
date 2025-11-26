@@ -3,7 +3,7 @@
     "orthodontics": {
       "title": "Ortodoncia",
       "subtitle": "Corrige la alineación dental",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu pulvinar, pretium mauris facilisis, dignissim ipsum.",
+      "description": "Si estás considerando Invisalign o brackets tradicionales, ofrecemos opciones personalizadas según tus objetivos y diagnóstico.",
       "heroImage": "/services/orthodoncy_hero.jpg",
       "backgroundPosition": "0% 20%",
       "backgroundSize": "cover",
@@ -13,7 +13,7 @@
     "periatric-dentristry": {
       "title": "Pediatría Dental",
       "subtitle": "Cuidado dental para niños",
-      "description": "Tratamientos para niños y pequeños",
+      "description": "Tratamientos para niños y pequeños.",
       "heroImage": "/services/periatric_dentristry-hero.jpeg",
       "backgroundPosition": "100% 40%",
       "backgroundSize": "cover",

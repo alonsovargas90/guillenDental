@@ -1,16 +1,16 @@
 {
-    "AboutUsPage": {
-        "Title": "Sobre Nosotros",
-        "Our Culture": "Nuestra Cultura",
-        "Who We Are": "Quiénes somos",
-        "Our Mission": "Nuestra Misión",
-        "Our Vison": "Nuestra Visión",
-        "What Drives Us": "Lo que nos motiva",
-        "Where Were Going": "A dónde vamos",
-        "Description": "Guillén Dental Care es una clínica dental compuesta por especialistas en cada una de las ramas de odontología. Nuestra misión es ofrecer atención integral, humana y de alta calidad en salud bucodental. Nuestro equipo de profesionales combina experiencia, tecnología avanzada y un enfoque cálido y personalizado para brindar soluciones efectivas y seguras. Ofrecemos una amplia gama de servicios, entre ellos: ortodoncia con alineadores y brackets, odontopediatría, implantes dentales, extracciones de cordales, periodoncia, diseño de sonrisa, carillas estéticas, coronas, puentes, restauraciones, endodoncia y biopsias. En Guillén Dental Care, nos comprometemos con tu bienestar, trabajando con excelencia, empatía y profesionalismo en cada tratamiento.",
-        "Secondary_description": "Nuestra clínica está equipada con tecnología de punta y diseñada pensando en tu comodidad. Desde odontología pediátrica hasta transformaciones estéticas y todo lo que hay en medio, estamos aquí para hacer que tu camino hacia una salud bucal óptima sea una experiencia agradable y positiva.",
-        "Mission": "Nuestra misión es brindar servicios odontológicos de alta calidad con un enfoque en la prevención y la salud bucodental, a través de tratamientos honestos, responsables y ejecutados por especialistas altamente capacitados. Ofrecemos atención cálida, profesional y accesible, manteniendo precios razonables que reflejan la calidad de nuestro trabajo y el valor de la experiencia ofrecida en una zona de alto prestigio.",
-        "Vision": "Aspiramos a ser una clínica de referencia a nivel nacional, reconocida por su ética, excelencia clínica y calidez humana. Queremos que cada paciente se sienta escuchado, valorado y completamente seguro de estar en las mejores manos, dentro de un espacio cómodo, moderno y confiable.",
-        "Cultura": "En Guillén Dental Care promovemos una cultura de respeto, responsabilidad y valores familiares. Creemos en la comunicación empática, el trabajo en equipo y el compromiso con la excelencia. Cada miembro del equipo actúa con honestidad, profesionalismo y un profundo sentido humano, buscando siempre el bienestar integral del paciente."
-    }
+  "AboutUsPage": {
+    "Title": "Sobre Nosotros",
+    "Our Culture": "Nuestra Cultura",
+    "Who We Are": "Quiénes somos",
+    "Our Mission": "Nuestra Misión",
+    "Our Vison": "Nuestra Visión",
+    "What Drives Us": "Lo que nos motiva",
+    "Where Were Going": "A dónde vamos",
+    "Description": "Guillén Dental Care es una clínica dental compuesta por especialistas en cada una de las ramas de odontología. Nuestra misión es ofrecer atención integral, humana y de alta calidad en salud bucodental. Nuestro equipo de profesionales combina experiencia, tecnología avanzada y un enfoque cálido y personalizado para brindar soluciones efectivas y seguras. Ofrecemos una amplia gama de servicios, entre ellos: ortodoncia con alineadores y brackets, odontopediatría, implantes dentales, extracciones de cordales, periodoncia, diseño de sonrisa, carillas estéticas, coronas, puentes, restauraciones, endodoncia y biopsias. En Guillén Dental Care, nos comprometemos con tu bienestar, trabajando con excelencia, empatía y profesionalismo en cada tratamiento.",
+    "Secondary_description": "Nuestra clínica está equipada con tecnología de punta y diseñada pensando en tu comodidad. Desde odontología pediátrica hasta transformaciones estéticas y todo lo que hay en medio, estamos aquí para hacer que tu camino hacia una salud bucal óptima sea una experiencia agradable y positiva.",
+    "Mission": "Nuestra misión es brindar servicios odontológicos de alta calidad con un enfoque en la prevención y la salud bucodental, a través de tratamientos honestos, responsables y ejecutados por especialistas altamente capacitados. Ofrecemos atención cálida, profesional y accesible, manteniendo precios razonables que reflejan la calidad de nuestro trabajo y el valor de la experiencia ofrecida en una zona de alto prestigio.",
+    "Vision": "Aspiramos a ser una clínica de referencia a nivel nacional, reconocida por su ética, excelencia clínica y calidez humana. Queremos que cada paciente se sienta escuchado, valorado y completamente seguro de estar en las mejores manos, dentro de un espacio cómodo, moderno y confiable.",
+    "Cultura": "En Guillén Dental Care promovemos una cultura de respeto, responsabilidad y valores familiares. Creemos en la comunicación empática, el trabajo en equipo y el compromiso con la excelencia. Cada miembro del equipo actúa con honestidad, profesionalismo y un profundo sentido humano, buscando siempre el bienestar integral del paciente."
+  }
 }

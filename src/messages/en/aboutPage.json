@@ -1,16 +1,16 @@
 {
-    "AboutUsPage": {
-        "Title": "About Us",
-        "Our Culture": "Our Culture",
-        "Who We Are": "Who We Are",
-        "Our Mission": "Our Mission",
-        "Our Vison": "Our Vison",
-        "What Drives Us": "What Drives Us",
-        "Where Were Going": "A Donde Vamos",
-        "Description": "Guillén Dental Care is a dental clinic made up of specialists in each branch of dentistry.",
-        "Secondary_description": "Our clinic is equipped with state-of-the-art technology, designed with your comfort in mind. From pediatric dentistry to cosmetic transformations and everything in between, we’re here to make your journey to optimal oral health a pleasant and positive experience.",
-        "Mission": "Our mission is to provide high-quality dental services with a focus on prevention and oral health through honest, responsible treatments executed by highly trained specialists. We offer warm, professional, and accessible care with fair pricing that reflects the quality of our work and the value of the experience we provide in a prestigious location.",
-        "Vision": "We aspire to be a nationally recognized clinic known for its ethics, clinical excellence, and human warmth. We want every patient to feel heard, valued, and completely confident they’re in the best hands—within a modern, comfortable, and trustworthy environment.",
-        "Cultura": "At Guillén Dental Care, we promote a culture of respect, responsibility, and family values. We believe in empathetic communication, teamwork, and a commitment to excellence. Every team member acts with honesty, professionalism, and a deep sense of humanity, always seeking the patient’s overall well-being."
-    }
+  "AboutUsPage": {
+    "Title": "About Us",
+    "Our Culture": "Our Culture",
+    "Who We Are": "Who We Are",
+    "Our Mission": "Our Mission",
+    "Our Vison": "Our Vision",
+    "What Drives Us": "What Drives Us",
+    "Where Were Going": "Where We're Going",
+    "Description": "Guillén Dental Care is a dental clinic made up of specialists in every area of dentistry. Our mission is to provide comprehensive, compassionate, and high-quality oral healthcare. Our team combines experience, advanced technology, and a warm, personalized approach to offer effective and safe solutions. We provide a wide range of services, including orthodontics with aligners and braces, pediatric dentistry, dental implants, wisdom tooth extractions, periodontics, smile design, aesthetic veneers, crowns, bridges, restorations, endodontics, and biopsies. At Guillén Dental Care, we are committed to your well-being, working with excellence, empathy, and professionalism in every treatment.",
+    "Secondary_description": "Our clinic is equipped with cutting-edge technology and designed with your comfort in mind. From pediatric dentistry to aesthetic transformations and everything in between, we are here to make your journey toward optimal oral health a positive and pleasant experience.",
+    "Mission": "Our mission is to provide high-quality dental services with a strong focus on prevention and oral health, through honest, responsible treatments performed by highly trained specialists. We offer warm, professional, and accessible care, maintaining reasonable prices that reflect the quality of our work and the value of the experience we provide in a highly prestigious area.",
+    "Vision": "We aspire to be a nationally recognized clinic distinguished for its ethics, clinical excellence, and human warmth. We want every patient to feel heard, valued, and completely confident that they are in the best hands, in a comfortable, modern, and trustworthy environment.",
+    "Cultura": "At Guillén Dental Care, we promote a culture of respect, responsibility, and family values. We believe in empathetic communication, teamwork, and commitment to excellence. Every member of our team acts with honesty, professionalism, and a deep human approach, always prioritizing the patient’s comprehensive well-being."
+  }
 }

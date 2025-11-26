@@ -2,7 +2,7 @@
   "faq": {
     "sectionLabel": "Preguntas Frecuentes",
     "title": "¿Necesitas ayuda?",
-    "description": "",
+    "description": "Si tenés dudas, acá podés encontrar respuestas claras y directas sobre nuestros servicios y la experiencia en Guillén Dental Care.",
     "items": [
       {
         "question": "¿Cuál es el costo del tratamiento con alineadores de ortodoncia?",
@@ -23,6 +23,84 @@
         "answer": [
           "En Guillén Dental Care contamos con nuestro propio centro radiológico, escáner intraoral y todo el equipo necesario para realizar tus estudios en el mismo lugar.",
           "Aquí mismo puedes hacerte las radiografías, la valoración y todos los registros que necesitamos para diagnosticar tu caso con precisión y, si lo deseas, incluso planear tu diseño de sonrisa."
+        ]
+      },
+      {
+        "question": "¿Cuál modalidad de blanqueamiento es mejor para mí?",
+        "answer": [
+          "La modalidad ideal de blanqueamiento dental varía según las necesidades y condiciones bucales de cada paciente.",
+          "Antes de realizar cualquier técnica, es indispensable una valoración con limpieza profesional, que nos permite:",
+          "• Detectar caries o fisuras que puedan contraindicar el tratamiento.",
+          "• Evaluar el estado de las encías y determinar si requieren manejo previo.",
+          "• Identificar cualquier tratamiento necesario antes del blanqueamiento para garantizar resultados seguros y efectivos.",
+          "• Presentarte las diferentes opciones disponibles para decidir en conjunto cuál es la más adecuada para ti.",
+          "Nuestro objetivo es asegurarte un tratamiento seguro, personalizado y con resultados."
+        ]
+      },
+      {
+        "question": "¿Cuál es el costo de un diseño de sonrisa?",
+        "answer": [
+          "El costo de un diseño de sonrisa es individual y personalizado para cada paciente.",
+          "Para poder brindarte un diagnóstico preciso, un presupuesto adecuado y un plan de tratamiento completo, es necesario asistir a una valoración con nuestro especialista en estética y prostodoncia.",
+          "En esta cita evaluamos tu salud dental, tus proporciones faciales y tus objetivos estéticos para crear un diseño que realmente se adapte a ti."
+        ]
+      },
+      {
+        "question": "¿Ustedes realizan implantes dentales?",
+        "answer": [
+          "Sí. En Guillén Dental Care realizamos implantes dentales con un equipo altamente especializado.",
+          "Contamos con cirujano oral y anestesiólogo, lo que nos permite ofrecer una experiencia segura, cómoda y libre de ansiedad, incluso para los pacientes que requieren cirugías más complejas.",
+          "Nuestros especialistas tienen amplia trayectoria y trabajan en algunos de los principales hospitales del país, lo que garantiza:",
+          "• Procedimientos seguros y controlados",
+          "• Tratamientos predecibles y confiables",
+          "• Un enfoque centrado en el bienestar y la tranquilidad del paciente",
+          "Tu salud, seguridad y confianza son nuestra prioridad."
+        ]
+      },
+      {
+        "question": "¿Atienden niños? ¿Cuentan con odontopediatra?",
+        "answer": [
+          "Sí. En Guillén Dental Care contamos con una odontopediatra altamente especializada, quien además es docente del posgrado de Odontopediatría en la Universidad de Costa Rica.",
+          "Tiene amplia experiencia clínica, un énfasis en ortopedia dentofacial infantil y formación para trabajar con pacientes con discapacidad, adaptando cada tratamiento a sus necesidades.",
+          "Cuando el niño o bebé lo requiere, también está capacitada para atender bajo sedación consciente, garantizando una experiencia segura, tranquila y adecuada para los más pequeños."
+        ]
+      },
+      {
+        "question": "¿Trabajan frenillo lingual o brindan programas de apoyo a la lactancia?",
+        "answer": [
+          "Sí. Nuestra odontopediatra cuenta con un programa especializado para el manejo de frenillo lingual y el acompañamiento en lactancia materna.",
+          "Está capacitada para evaluar, diagnosticar y tratar alteraciones que puedan afectar la succión, el amamantamiento o el habla, ofreciendo un abordaje integral y seguro para el bebé y su familia."
+        ]
+      },
+      {
+        "question": "¿Realizan tratamientos de nervio (endodoncia)?",
+        "answer": [
+          "Sí. En Guillén Dental Care realizamos tratamientos de nervio y cirugías de raíz (apicetomías) incluso en casos complejos.",
+          "Nuestra especialista utiliza microscopio en todos sus procedimientos, lo que garantiza una visión superior, mayor precisión y resultados más predecibles y duraderos."
+        ]
+      },
+      {
+        "question": "¿Realizan tratamientos de encías (periodoncia)?",
+        "answer": [
+          "Sí. En Guillén Dental Care contamos con un especialista en periodoncia con amplia trayectoria clínica y experiencia docente en la Universidad de Costa Rica.",
+          "Su enfoque está orientado a mantener el soporte dental, preservar los dientes por muchos años y guiar al paciente en una correcta higiene oral para prevenir sangrado de encías, mal aliento y enfermedades periodontales.",
+          "Nuestro objetivo es ayudarte a recuperar y mantener una salud gingival óptima a largo plazo."
+        ]
+      },
+      {
+        "question": "¿Realizan ortodoncia con frenillos metálicos o transparentes?",
+        "answer": [
+          "Sí. En Guillén Dental Care trabajamos con ambas modalidades de frenillos: metálicos y transparentes.",
+          "Para iniciar cualquier tratamiento de ortodoncia—incluyendo ortodoncia correctiva y ortopedia maxilar—es indispensable realizar una valoración previa con nuestra especialista, junto con una revisión radiográfica, la cual puede tomarse directamente aquí en la clínica.",
+          "Esto nos permite establecer un diagnóstico preciso y diseñar el plan de tratamiento ideal para cada paciente."
+        ]
+      },
+      {
+        "question": "¿Realizan puentes, coronas o implantes?",
+        "answer": [
+          "Sí. En Guillén Dental Care contamos con un especialista en prostodoncia que realiza tratamientos altamente estéticos, funcionales y duraderos.",
+          "Su enfoque permite rehabilitar al paciente de manera integral, devolviendo una óptima función masticatoria junto con una estética natural y armoniosa, generalmente en tiempos de tratamiento muy eficientes.",
+          "Ofrecemos coronas, puentes, implantes y rehabilitaciones completas, siempre con materiales de alta calidad y una planificación personalizada."
         ]
       }
     ]
