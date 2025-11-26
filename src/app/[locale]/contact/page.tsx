@@ -37,13 +37,13 @@ export default function Home() {
             variant="h3"
             fontWeight="bold"
             color={theme.palette.brandTeal.main}
-            sx={{ fontSize: { xs: '2rem', md: '2.5rem' }, textAlign: { xs: 'center', md: 'left' } }}
+            sx={{ fontSize: { xs: '1rem', md: '1.25rem' }, textAlign: { xs: 'center', md: 'left' } }}
           >
             {tAbout('Title')}
           </Typography>
 
           <Typography
-            variant="h6"
+            variant="body1"
             color={theme.palette.text.primary}
             sx={{ fontSize: { xs: '1rem', md: '1.25rem' }, textAlign: { xs: 'center', md: 'left' } }}
           >
@@ -52,7 +52,7 @@ export default function Home() {
 
           <Typography
             variant="body1"
-            color={theme.palette.text.secondary}
+            color={theme.palette.text.primary}
             sx={{ fontSize: { xs: '1rem', md: '1.25rem' }, textAlign: { xs: 'center', md: 'left' } }}
           >
             {tAbout('Secondary_description')}

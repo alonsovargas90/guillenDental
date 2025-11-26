@@ -42,7 +42,7 @@ export default function HeroContact() {
             content: (
                 <Box >
                     <Typography variant="body2" mt={0.5} color={theme.palette.text.primary}>
-                        <MuiLink href={WHATSUP_NUMBER_LINK} underline="hover">
+                        <MuiLink href={WHATSUP_NUMBER_LINK} underline="hover" target="_blank">
                             {WHATSUP_NUMBER}
                         </MuiLink>
                     </Typography>
@@ -55,7 +55,16 @@ export default function HeroContact() {
         {
             icon: <Room fontSize="medium" />,
             title: t('addressTitle'),
-            content: t('addressText')
+            content:  (
+                <Stack spacing={0.5}>
+                    <Typography variant="body2" color={theme.palette.text.primary}>
+                        <MuiLink href={MAPS_DIRECTION} target="_blank" underline="hover">
+                            {t('addressText')}
+                        </MuiLink>
+                    </Typography>
+
+                </Stack>
+            )
         },
         {
             icon: <Directions fontSize="medium" />,
@@ -63,9 +72,6 @@ export default function HeroContact() {
             content: (
                 <Stack spacing={0.5}>
                     <Typography variant="body2" color={theme.palette.text.primary}>
-                        <MuiLink href={MAPS_DIRECTION} target="_blank" underline="hover">
-                            {t('googleMaps')}
-                        </MuiLink>
                         <MuiLink href={WAZE_DIRETION} target="_blank" underline="hover">
                             {t('waze')}
                         </MuiLink>
