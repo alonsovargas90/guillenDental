@@ -154,33 +154,46 @@ const baseTheme = createTheme({
           transition: 'all 0.2s ease-in-out',
         }),
       },
-       variants: [
-      {
-        props: { variant: 'contained' },
-        style: ({ theme }) => ({
-          backgroundColor: theme.palette.brandTeal.main,
-          color: theme.palette.common.white,
-          '&:hover': {
+      variants: [
+        {
+          props: { variant: 'contained' },
+          style: ({ theme }) => ({
+            backgroundColor: theme.palette.brandTeal.main,
+            color: theme.palette.common.white,
+            '&:hover': {
+              backgroundColor: theme.palette.common.white,
+              color: theme.palette.brandTeal.main,
+              border: `1px solid ${theme.palette.brandTeal.main}`,
+            },
+          }),
+        },
+        {
+          props: { variant: 'outlined' },
+          style: ({ theme }) => ({
             backgroundColor: theme.palette.common.white,
             color: theme.palette.brandTeal.main,
             border: `1px solid ${theme.palette.brandTeal.main}`,
-          },
-        }),
-      },
-      {
-        props: { variant: 'text' },
-        style: ({ theme }) => ({
-          backgroundColor: theme.palette.common.white,
-          color: theme.palette.brandTeal.main,
-          border: `transparent`,
-          '&:hover': {
-             border: `transparent`,
-            backgroundColor: theme.palette.brandTeal.main,
-            color: theme.palette.common.white,
-          },
-        }),
-      },
-    ],
+            '&:hover': {
+              backgroundColor: theme.palette.brandTeal.main,
+              color: theme.palette.common.white,
+              border: `1px solid ${theme.palette.brandTeal.main}`,
+            },
+          }),
+        },
+        {
+          props: { variant: 'text' },
+          style: ({ theme }) => ({
+            backgroundColor: theme.palette.common.white,
+            color: theme.palette.brandTeal.main,
+            border: `transparent`,
+            '&:hover': {
+              border: `transparent`,
+              backgroundColor: theme.palette.brandTeal.main,
+              color: theme.palette.common.white,
+            },
+          }),
+        },
+      ],
     },
   }
 });

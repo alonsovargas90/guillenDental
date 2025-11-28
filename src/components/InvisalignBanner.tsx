@@ -152,7 +152,7 @@ export default function InvisalignBanner() {
         </Typography>
         <Stack justifyContent='center' alignItems='center'>
           <Button
-            variant="contained"
+            variant="outlined"
             color="primary"
             target='_blank'
             href={WHATSUP_NUMBER_LINK}

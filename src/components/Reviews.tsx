@@ -63,9 +63,9 @@ export default function Reviews() {
                             <Button variant='contained'
                                 href='https://www.google.com/search?q=Guilen+dental#lrd=0x8fa0e37c0df905af:0xe5496933b525b029,1,,,,'
                                 sx={{
-                                    width: '200px'
+                                    width: '400px'
                                 }}
-                            >Google Reviews</Button>
+                            >{t('buton')}</Button>
                         </Stack>
 
                     </Stack>
