@@ -71,42 +71,56 @@ export default function Reviews() {
                     </Stack>
                     <Slider {...sliderSettings}>
                         {reviews.map((review, index) => (
-                            <Box key={index} sx={{
-                                p: 4,
-                                borderRadius: '20px',
-                                color: theme.palette.common.white,
-                                background: theme.palette.brandTeal.main,
-                            }}>
-                                <Typography
-                                    variant="body1"
-                                    fontStyle="italic"
-                                    fontSize={'16px'}
-                                    mb={2}
-                                    color={theme.palette.brandGray.dark}
+                            <Box>
+                                <Box
+                                    key={index}
+                                    sx={{
+                                        p: 3,
+                                        borderRadius: '12px',
+                                        backgroundColor: theme.palette.common.white,
+                                        boxShadow: '0 2px 6px rgba(0, 0, 0, 0.1)',
+                                        border: '1px solid #e0e0e0',
+                                        maxWidth: '90%',
+                                        mx: 'auto'
+                                    }}
                                 >
-                                    “{review.quote}”
-                                </Typography>
-                                <Stack direction="row" alignItems="center" spacing={2}>
-                                    <Image
-                                        src={review.img}
-                                        alt={review.name}
-                                        width={48}
-                                        height={48}
-                                        style={{
-                                            borderRadius: '50%',
-                                            objectFit: 'cover',
-                                            objectPosition: 'center',
-                                        }}
-                                    />
-                                    <Box>
-                                        <Typography variant="subtitle1">
-                                            {review.name}
-                                        </Typography>
-                                        <Typography variant="caption">
-                                            {review.date}
-                                        </Typography>
-                                    </Box>
-                                </Stack>
+                                    {/* Profile row */}
+                                    <Stack direction="row" spacing={2} alignItems="center" mb={1}>
+                                        <Image
+                                            src={review.img}
+                                            alt={review.name}
+                                            width={48}
+                                            height={48}
+                                            style={{
+                                                borderRadius: '50%',
+                                                objectFit: 'cover',
+                                                objectPosition: 'center',
+                                            }}
+                                        />
+                                        <Box>
+                                            <Typography variant="subtitle1" fontWeight={600}>
+                                                {review.name}
+                                            </Typography>
+                                            <Box display="flex" mb={1}>
+                                                {Array.from({ length: 5 }).map((_, i) => (
+                                                    <span key={i} style={{ color: '#f4b400', fontSize: '16px' }}>★</span>
+                                                ))}
+                                            </Box>
+                                        </Box>
+                                    </Stack>
+
+                                    {/* Stars row */}
+
+
+                                    {/* Quote */}
+                                    <Typography
+                                        variant="body2"
+                                        color="text.primary"
+                                        fontSize="15px"
+                                    >
+                                        {review.quote}
+                                    </Typography>
+                                </Box>
                             </Box>
                         ))}
                     </Slider>
