@@ -10,8 +10,8 @@ import dynamic from 'next/dynamic'
 const CompareImage = dynamic(() => import('react-compare-image'), { ssr: false })
 
 export default function Home() {
-  const tHero = useTranslations('hero')
-  const tBeforeAfter = useTranslations('beforeAfterPage')
+  const tHero = useTranslations('hero');
+  const tBeforeAfter = useTranslations('beforeAfterPage');
 
   return (
     <Stack spacing={6}>
@@ -49,46 +49,67 @@ export default function Home() {
           </Typography>
           {/* CompareImage gallery */}
           <Stack gap={'50px'}>
-            {Array.from({ length: 7 }, (_, n) => (
-              <Box
-                sx={{
-                  width: '100%',
-                  maxWidth: 600,
-                  mx: 'auto',
-                  position: 'relative',
-                  overflow: 'hidden',
-                  borderRadius: '50px',
+            {Array.from({ length: 7 }, (_, n) => {
+              const sections = tBeforeAfter.raw('Sections');
+              const currentSection = sections.find((s: any) => s.range.includes(n));
+              const isFirstInSection = currentSection?.range[0] === n;
 
-                  // Force image height
-                  '& .react-compare-image img': {
-                    objectFit: 'cover',
-                    height: { xs: '400px', md: '500px' }, // adjust as needed
-                    width: '100%',
-                  },
+              return (
+                <Box key={n}>
+                  {isFirstInSection && (
+                    <>
+                      <Typography
+                        variant="h4"
+                        fontWeight="bold"
+                        textAlign="center"
+                        color={theme.palette.brandGreen?.main}
+                      >
+                        {currentSection?.title}
+                      </Typography>
 
-                  // Also enforce height on container
-                  '& .react-compare-image': {
-                    height: { xs: '400px', md: '500px' },
-                  }
-                }}
-              >
-                <CompareImage
-                  key={n}
-                  leftImage={`/before-after/casos/caso ${n + 1}/antes.jpeg`}
-                  rightImage={`/before-after/casos/caso ${n + 1}/despues.jpeg`}
-                  leftImageLabel="Before"
-                  rightImageLabel="After"
-                  sliderLineColor={theme.palette.brandTeal?.main}
-                />
-              </Box>
+                      <Typography
+                        variant="body1"
+                        textAlign="center"
+                        color={theme.palette.brandGray.main}
+                        mb={4}
+                      >
+                        {currentSection?.description}
+                      </Typography>
+                    </>
+                  )}
 
-            ))}
+                  <Box
+                    sx={{
+                      width: '100%',
+                      maxWidth: 600,
+                      mx: 'auto',
+                      position: 'relative',
+                      overflow: 'hidden',
+                      borderRadius: '50px',
+                      '& .react-compare-image img': {
+                        objectFit: 'cover',
+                        height: { xs: '400px', md: '500px' },
+                        width: '100%',
+                      },
+                      '& .react-compare-image': {
+                        height: { xs: '400px', md: '500px' },
+                      },
+                    }}
+                  >
+                    <CompareImage
+                      leftImage={`/before-after/casos/caso ${n + 1}/antes.jpeg`}
+                      rightImage={`/before-after/casos/caso ${n + 1}/despues.jpeg`}
+                      leftImageLabel="Before"
+                      rightImageLabel="After"
+                      sliderLineColor={theme.palette.brandTeal?.main}
+                    />
+                  </Box>
+                </Box>
+              );
+            })}
           </Stack>
-
-
         </Stack>
       </Container>
-
       <InvisalignBanner />
     </Stack>
   )

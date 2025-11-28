@@ -30,6 +30,7 @@ const OurTeamPage = () => {
       <Hero
         greenTitle={content.title}
         blackTitle={content.description}
+        flipImage
         image="/images/our-team-banner.jpeg"
         backgroundPosition="50% 30%"
       />

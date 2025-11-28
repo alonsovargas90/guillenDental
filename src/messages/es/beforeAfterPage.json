@@ -1,6 +1,33 @@
 {
   "beforeAfterPage": {
     "Title": "Transforma tu sonrisa, transforma tu vida",
-    "Description": "Descubre cómo una atención dental experta puede transformar verdaderamente una sonrisa. Explora nuestra colección de casos reales de pacientes con restauraciones avanzadas, mejoras estéticas y tratamientos que cambian vidas — todos realizados con precisión y cuidado por nuestro equipo de especialistas."
+    "Description": "Descubre cómo una atención dental experta puede transformar verdaderamente una sonrisa. Explora nuestra colección de casos reales de pacientes con restauraciones avanzadas, mejoras estéticas y tratamientos que cambian vidas — todos realizados con precisión y cuidado por nuestro equipo de especialistas.",
+    "Sections": [
+      {
+        "title": "Resinas Esteticas",
+        "description": "Reposición de esmalte perdido que te hace ver mayor en una sola cita con alta estética.",
+        "range": [0, 1]
+      },
+      {
+        "title": "Diseño de sonrisa",
+        "description": "Un diseño de sonrisa no es sólo verse bien, es recuperar la función de sus dientes, en muchas ocasiones, y de paso verse más joven.",
+        "range": [2]
+      },
+      {
+        "title": "Ortodoncia y carillas de resina",
+        "description": "Muchos diseños de sonrisa, requieren Ortodoncia previa. Consúltanos por opciones con Alineadores y Brackets tradicionales",
+        "range": [3]
+      },
+      {
+        "title": "Ortodoncia, implantes dentales y carillas dentales",
+        "description": "Un buen blanqueamiento dental cambia tu sonrisa, pero el espacialista adecuado eleva tu diseño.",
+        "range": [4,5]
+      },
+      {
+        "title":"Ortodoncia , implante dentales y carillas para diseño de sonrisa",
+        "description": "Tu sonrisa es tu carta de presentación más importante.",
+        "range": [6]
+      }
+    ]
   }
 }
