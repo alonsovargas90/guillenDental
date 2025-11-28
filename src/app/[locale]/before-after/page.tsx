@@ -39,7 +39,7 @@ export default function Home() {
       </Box>
 
       <Container sx={{ px: { xs: 2, md: 0 }, m: '0 auto !important' }}>
-        <Stack spacing={4}>
+        <Stack spacing={8}>
           {/* Title and description */}
           <Typography variant="h3" fontWeight="bold" textAlign="center" fontSize={{ xs: '38px', md: '48px' }} color={theme.palette.brandGreen?.main}>
             {tBeforeAfter('Title')}
