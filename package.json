@@ -17,7 +17,7 @@
     "@mui/material": "^7.0.1",
     "framer-motion": "^12.23.24",
     "leaflet": "^1.9.4",
-    "next": "15.2.5",
+    "next": "15.2.8",
     "next-intl": "^4.0.2",
     "next-sitemap": "^4.2.3",
     "phosphor-react": "^1.4.1",
