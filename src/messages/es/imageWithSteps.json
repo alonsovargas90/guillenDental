@@ -1,0 +1,25 @@
+{
+  "imageWithSteps": {
+    "header": "Cómo funciona",
+    "title": "Tu proceso con alineadores, paso a paso",
+    "description": "Te acompañamos en cada etapa para que tu tratamiento sea cómodo, claro y con resultados predecibles.",
+    "steps": [
+      {
+        "title": "Agenda una cita",
+        "description": "Coordinamos tu evaluación inicial y resolvemos tus dudas."
+      },
+      {
+        "title": "Escaneo digital",
+        "description": "Tomamos un escaneo 3D para planificar tu tratamiento con precisión."
+      },
+      {
+        "title": "Colocación de attachments",
+        "description": "Pequeños apoyos que ayudan a mover los dientes de forma más controlada."
+      },
+      {
+        "title": "Citas de control",
+        "description": "Seguimos tu progreso y ajustamos el plan según sea necesario."
+      }
+    ]
+  }
+}

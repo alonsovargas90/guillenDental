@@ -1,86 +1,42 @@
 'use client';
 
-import { Box, Container, Typography, useTheme } from '@mui/material';
-import PhotoAlbum, { RenderPhotoProps } from 'react-photo-album';
-import { PhotoProvider, PhotoView } from 'react-photo-view';
-import { motion } from 'framer-motion';
+import { Box, Container } from '@mui/material';
 import FAQSection from '@/components/FAQ';
 import MapSection from '@/components/MapSection';
+import { useTranslations } from 'next-intl';
+import Hero from '@/components/hero';
+import DataAndGalleryComponent from '@/components/DataAndGalleryComponent';
 import InvisalignBanner from '@/components/InvisalignBanner';
+import ImageWithSteps from '@/components/ImageWithSteps';
+import BigImageSection from '@/components/BigImageSection';
 
-const photos = [
-  { src: 'https://picsum.photos/800/600?random=1', width: 800, height: 600, alt: 'Recepción moderna' },
-  { src: 'https://picsum.photos/600/900?random=2', width: 600, height: 900, alt: 'Área de atención' },
-  { src: 'https://picsum.photos/900/600?random=3', width: 900, height: 600, alt: 'Equipo profesional' },
-  { src: 'https://picsum.photos/700/800?random=4', width: 700, height: 800, alt: 'Sala de espera' },
-  { src: 'https://picsum.photos/1200/800?random=5', width: 1200, height: 800, alt: 'Consultorio moderno' },
-  { src: 'https://picsum.photos/800/1000?random=6', width: 800, height: 1000, alt: 'Recepción y área de descanso' },
-  { src: 'https://picsum.photos/1000/700?random=7', width: 1000, height: 700, alt: 'Pasillo principal' },
-  { src: 'https://picsum.photos/800/600?random=1', width: 800, height: 600, alt: 'Recepción moderna' },
-  { src: 'https://picsum.photos/600/900?random=2', width: 600, height: 900, alt: 'Área de atención' },
-  { src: 'https://picsum.photos/900/600?random=3', width: 900, height: 600, alt: 'Equipo profesional' },
-  { src: 'https://picsum.photos/700/800?random=4', width: 700, height: 800, alt: 'Sala de espera' },
-  { src: 'https://picsum.photos/1200/800?random=5', width: 1200, height: 800, alt: 'Consultorio moderno' },
-  { src: 'https://picsum.photos/800/1000?random=6', width: 800, height: 1000, alt: 'Recepción y área de descanso' },
-  { src: 'https://picsum.photos/1000/700?random=7', width: 1000, height: 700, alt: 'Pasillo principal' },
-];
-
-export default function ImageGallery() {
-  const theme = useTheme();
+export default function ClinicGalleryPage() {
+  const tHero = useTranslations('hero');
 
   return (
-    <Box
-      sx={{
-        mt: 8,
-        textAlign: 'center'
-      }}
-    >
-      <Typography
-        variant="h4"
-        sx={{
-          mb: 4,
-          fontWeight: 600,
-          color: theme.palette.text.primary
-        }}
-      >
-        Galería de nuestra clínica
-      </Typography>
+    <Box sx={{ mt: 8 }}>
+      {/* 1) Hero (ya lo tienes) */}
+      <Hero
+        greenTitle={tHero('greenTitle')}
+        blackTitle={tHero('blackTitle')}
+        image={'/hero.png'}
+        flipImage
+        backgroundPosition={'0% 20%'}
+      />
+      {/* 2) Segunda sección: Datos + Galería (nuevo componente) */}
+      <DataAndGalleryComponent  />
 
-      <PhotoProvider>
-        <PhotoAlbum
-          layout="masonry"
-          photos={photos}
-           renderPhoto={({ imageProps }: RenderPhotoProps) => (
-            <motion.div
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.98 }}
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.4 }}
-              style={{ overflow: 'hidden', borderRadius: 12, boxShadow: '0 4px 15px rgba(0,0,0,0.1)' }}
-            >
-              <PhotoView src={imageProps.src}>
-                <img
-                  {...imageProps}
-                  alt={imageProps.alt}
-                  style={{
-                    width: '100%',
-                    height: 'auto',
-                    display: 'block',
-                    transition: 'transform 0.3s ease',
-                    cursor: 'pointer'
-                  }}
-                />
-              </PhotoView>
-            </motion.div>
-          )}
-        />
-      </PhotoProvider>
+       <BigImageSection src="https://picsum.photos/1600/900?random=101" alt="Clínica - imagen destacada" />
+
+      <ImageWithSteps imageSrc='/hero.png'/>
+      {/* 3) Resto de secciones que ya tenías */}
       <InvisalignBanner />
-      <Container sx={{ px: { xs: 2, md: 0 }, m: '0 auto !important' }}>
-              <FAQSection />
-            </Container>
-       <MapSection />
+
+      <Container sx={{ px: { xs: 2, md: 0 }, my: { xs: 6, md: 8 } }}>
+        <FAQSection />
+      </Container>
+
+      <MapSection />
     </Box>
   );
 }
